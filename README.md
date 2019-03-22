@@ -1,9 +1,9 @@
 # JYC_DataAnalysis
 
-## 1. ATAC-seq peak visualization
+## 1. ATAC-seq & ChIP-seq peak visualization
 [UCSC custom tracks](http://genome.ucsc.edu/cgi-bin/hgTracks?hgS_doOtherUser=submit&hgS_otherUserName=Huitian%20Diao&hgS_otherUserSessionName=jycATAC)
 
-* All bdg files (then converted to bw) normalized by __scaling_factor__ calculated by: <br/>
+* All ATAC-seq bdg files (then converted to bw) normalized by __scaling_factor__ calculated by: <br/>
 ```
 accumulation=($(awk '{sum+=(($3-$2)*$4)} END {print sum}' $input_bdg_file)) 
 scaling_factor= 1e+09 / $accumulation
