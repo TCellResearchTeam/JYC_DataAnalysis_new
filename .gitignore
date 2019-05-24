@@ -3,3 +3,6 @@
 
 # Do not include Mac generated resouce fork files
 ._*
+
+# Do not include Offic temps
+~$*
