@@ -50,6 +50,19 @@ byGroup_open: motif analysis of peaks annotated to genes in each group & more ac
 * Main resullts folder: 6_GeneGroupMotifAnalysis/byGroup_open/vsNAVopen_cb_mtfs_motif-finding
 
 
+# References & Tools
+### [RGT (Regulatory Genomics Toolbox)](http://www.regulatory-genomics.org/rgt/basic-introduction/)
+* System: Ubuntu, nonGUI, x86_64 [Cyverse Atmosphere Server](https://atmo.cyverse.org/application/dashboard)
+* Pre-requisites:
+  - [Miniconda3](https://docs.conda.io/en/latest/miniconda.html)
+  - [Pip](https://anaconda.org/anaconda/pip)
+  - [Gcc](https://anaconda.org/anaconda/gcc)
+  - [Setuptools](https://anaconda.org/anaconda/setuptools)
+  - [Pybigwig 0.3.12](https://anaconda.org/bioconda/pybigwig)
+  - [Pyvcf](https://anaconda.org/bioconda/pyvcf)
+  - [HTSeq](https://anaconda.org/bioconda/htseq)
+  - [Hmmlearn](https://anaconda.org/omnia/hmmlearn)
+  - [Fisher](https://anaconda.org/bioconda/fisher)
 
 
 ![Analysis Overview](https://user-images.githubusercontent.com/26311995/48738302-8fc49800-ec1e-11e8-92d6-f0a4cd55e32e.jpg)
