@@ -1,0 +1,2 @@
+Motif	Num	Protection_Score_condition1	Protection_Score_condition1	Protection_Diff_condition1_condition1	TC_condition1	TC_condition1	TC_Diff_condition1_condition1	TF_Activity	Z_score	P_values
+MA0508.2.PRDM1	2758	0.05526395826023993	0.05616838835719458	0.0009044300969546504	0.20418888103147448	0.20431843639455172	0.00012955536307723836	0.0010339854600318887	nan	nan

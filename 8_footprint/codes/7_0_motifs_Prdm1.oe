@@ -1,0 +1,516 @@
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Bcl6KO_Th1_rep3_fp loaded: 395428 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Bcl6KO_Th1_rep3_fp], 395428 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Bcl6KO_Th1_rep1_fp loaded: 446949 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Bcl6KO_Th1_rep1_fp], 446949 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Bcl6KO_Th1_rep2_fp loaded: 521805 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Bcl6KO_Th1_rep2_fp], 521805 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Tfh_rep1_fp loaded: 643291 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Tfh_rep1_fp], 643291 regions... [297.559 seconds]
+
+[total time: 0h 5m 14s]
+[292.510 seconds]
+
+[total time: 0h 5m 14s]
+[297.771 seconds]
+
+[total time: 0h 5m 15s]
+[286.998 seconds]
+
+[total time: 0h 5m 24s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Th1_rep2_fp loaded: 392908 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Th1_rep2_fp], 392908 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Tfh_rep3_fp loaded: 387282 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Tfh_rep3_fp], 387282 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Th1_rep1_fp loaded: 439196 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Th1_rep1_fp], 439196 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Tfh_rep2_fp loaded: 504978 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Tfh_rep2_fp], 504978 regions... [14.861 seconds]
+
+[total time: 0h 0m 22s]
+[15.653 seconds]
+
+[total time: 0h 0m 22s]
+[32.926 seconds]
+
+[total time: 0h 0m 40s]
+[36.808 seconds]
+
+[total time: 0h 0m 47s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Naive_rep3_fp loaded: 389568 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Naive_rep3_fp], 389568 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Naive_rep2_fp loaded: 431838 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Naive_rep2_fp], 431838 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Th1_rep3_fp loaded: 427177 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Th1_rep3_fp], 427177 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Naive_rep1_fp loaded: 632375 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Naive_rep1_fp], 632375 regions... [11.246 seconds]
+
+[total time: 0h 0m 17s]
+[14.031 seconds]
+
+[total time: 0h 0m 18s]
+[15.198 seconds]
+
+[total time: 0h 0m 19s]
+[18.047 seconds]
+
+[total time: 0h 0m 27s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Prdm1KO_Tfh_rep2_fp loaded: 486687 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Prdm1KO_Tfh_rep2_fp], 486687 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Prdm1KO_Tfh_rep3_fp loaded: 484206 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Prdm1KO_Tfh_rep3_fp], 484206 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Prdm1KO_Tfh_rep1_fp loaded: 540694 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Prdm1KO_Tfh_rep1_fp], 540694 regions... [10.495 seconds]
+
+[total time: 0h 0m 15s]
+[10.240 seconds]
+
+[total time: 0h 0m 15s]
+[11.391 seconds]
+
+[total time: 0h 0m 17s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Tfh_rep1_fp loaded: 513038 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Tfh_rep1_fp], 513038 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Tfh_rep2_fp loaded: 493401 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Tfh_rep2_fp], 493401 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Tfh_rep3_fp loaded: 446047 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Tfh_rep3_fp], 446047 regions... [8.509 seconds]
+
+[total time: 0h 0m 13s]
+[9.226 seconds]
+
+[total time: 0h 0m 14s]
+[10.142 seconds]
+
+[total time: 0h 0m 15s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Th1_rep3_fp loaded: 360504 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Th1_rep3_fp], 360504 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Th1_rep1_fp loaded: 461181 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Th1_rep1_fp], 461181 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_Prdm1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Th1_rep2_fp loaded: 462304 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Th1_rep2_fp], 462304 regions... [6.561 seconds]
+
+[total time: 0h 0m 10s]
+[8.408 seconds]
+
+[total time: 0h 0m 12s]
+[8.720 seconds]
+
+[total time: 0h 0m 13s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Bcl6KO_Th1_rep3_fp loaded: 395428 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Bcl6KO_Th1_rep3_fp], 395428 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Bcl6KO_Th1_rep1_fp loaded: 446949 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Bcl6KO_Th1_rep1_fp], 446949 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Bcl6KO_Th1_rep2_fp loaded: 521805 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Bcl6KO_Th1_rep2_fp], 521805 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Tfh_rep1_fp loaded: 643291 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Tfh_rep1_fp], 643291 regions... [6.803 seconds]
+
+[total time: 0h 0m 9s]
+[7.798 seconds]
+
+[total time: 0h 0m 10s]
+[9.084 seconds]
+
+[total time: 0h 0m 12s]
+[10.964 seconds]
+
+[total time: 0h 0m 14s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Th1_rep2_fp loaded: 392908 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Th1_rep2_fp], 392908 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Tfh_rep3_fp loaded: 387282 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Tfh_rep3_fp], 387282 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Th1_rep1_fp loaded: 439196 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Th1_rep1_fp], 439196 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Tfh_rep2_fp loaded: 504978 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Tfh_rep2_fp], 504978 regions... [6.998 seconds]
+
+[total time: 0h 0m 8s]
+[7.056 seconds]
+
+[total time: 0h 0m 8s]
+[7.674 seconds]
+
+[total time: 0h 0m 9s]
+[8.633 seconds]
+
+[total time: 0h 0m 11s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Naive_rep3_fp loaded: 389568 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Naive_rep3_fp], 389568 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file DKO_Th1_rep3_fp loaded: 427177 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [DKO_Th1_rep3_fp], 427177 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Naive_rep2_fp loaded: 431838 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Naive_rep2_fp], 431838 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file Naive_rep1_fp loaded: 632375 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [Naive_rep1_fp], 632375 regions... [7.120 seconds]
+
+[total time: 0h 0m 8s]
+[7.567 seconds]
+
+[total time: 0h 0m 9s]
+[7.600 seconds]
+
+[total time: 0h 0m 9s]
+[11.321 seconds]
+
+[total time: 0h 0m 14s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+Traceback (most recent call last):
+  File "/home/pipkin/.local/bin/rgt-motifanalysis", line 11, in <module>
+    load_entry_point('RGT==0.12.1', 'console_scripts', 'rgt-motifanalysis')()
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/motifanalysis/Main.py", line 58, in main
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+Traceback (most recent call last):
+  File "/home/pipkin/.local/bin/rgt-motifanalysis", line 11, in <module>
+    load_entry_point('RGT==0.12.1', 'console_scripts', 'rgt-motifanalysis')()
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/motifanalysis/Main.py", line 58, in main
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+Traceback (most recent call last):
+  File "/home/pipkin/.local/bin/rgt-motifanalysis", line 11, in <module>
+    load_entry_point('RGT==0.12.1', 'console_scripts', 'rgt-motifanalysis')()
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/motifanalysis/Main.py", line 58, in main
+    args.func(args)
+          File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/motifanalysis/Match.py", line 175, in main
+args.func(args)
+args.func(args)
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/motifanalysis/Match.py", line 175, in main
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/motifanalysis/Match.py", line 175, in main
+    regions.read(npath(input_filename))
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/GenomicRegionSet.py", line 254, in read
+        regions.read(npath(input_filename))
+regions.read(npath(input_filename))
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/GenomicRegionSet.py", line 254, in read
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/GenomicRegionSet.py", line 254, in read
+    io.read_to_grs(self, filename)
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/GenomicRegionSet.py", line 52, in read_to_grs
+    with open(filename) as f:
+    IOErrorio.read_to_grs(self, filename)
+: [Errno 2] No such file or directory: '/home/pipkin/Documents/jycATAC/footprint/0_fp/PRDM1KO_Tfh_rep3_fp.bed'
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/GenomicRegionSet.py", line 52, in read_to_grs
+    io.read_to_grs(self, filename)
+    with open(filename) as f:
+  File "/home/pipkin/.local/lib/python2.7/site-packages/rgt/GenomicRegionSet.py", line 52, in read_to_grs
+IOError: [Errno 2] No such file or directory: '/home/pipkin/Documents/jycATAC/footprint/0_fp/PRDM1KO_Tfh_rep2_fp.bed'
+    with open(filename) as f:
+IOError: [Errno 2] No such file or directory: '/home/pipkin/Documents/jycATAC/footprint/0_fp/PRDM1KO_Tfh_rep1_fp.bed'
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Tfh_rep3_fp loaded: 446047 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Tfh_rep3_fp], 446047 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Tfh_rep2_fp loaded: 493401 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Tfh_rep2_fp], 493401 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Tfh_rep1_fp loaded: 513038 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Tfh_rep1_fp], 513038 regions... [8.177 seconds]
+
+[total time: 0h 0m 10s]
+[8.866 seconds]
+
+[total time: 0h 0m 11s]
+[9.697 seconds]
+
+[total time: 0h 0m 12s]
+>> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Th1_rep3_fp loaded: 360504 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Th1_rep3_fp], 360504 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Th1_rep1_fp loaded: 461181 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Th1_rep1_fp], 461181 regions... >> output location: /home/pipkin/Documents/jycATAC/footprint/7_mpbs_PRDM1
+>> genome: mm10
+>> pseudocounts: 1.0
+>> fpr threshold: 0.0001
+>>> input file WT_Th1_rep2_fp loaded: 462304 regions
+>> all files loaded
+>> used database(s): jaspar_vertebrates
+>> motifs loaded: 1
+
+>> matching [WT_Th1_rep2_fp], 462304 regions... [6.522 seconds]
+
+[total time: 0h 0m 8s]
+[8.045 seconds]
+
+[total time: 0h 0m 10s]
+[8.856 seconds]
+
+[total time: 0h 0m 11s]

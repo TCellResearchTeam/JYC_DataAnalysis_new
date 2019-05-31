@@ -1,0 +1,102 @@
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+
+[total time: 1h 0m 34s]
+
+[total time: 1h 5m 58s]
+
+[total time: 1h 10m 6s]
+
+[total time: 1h 16m 25s]
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+
+[total time: 0h 59m 51s]
+
+[total time: 1h 0m 26s]
+
+[total time: 1h 6m 41s]
+
+[total time: 1h 8m 4s]
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+
+[total time: 0h 53m 56s]
+
+[total time: 0h 57m 17s]
+
+[total time: 0h 57m 39s]
+
+[total time: 1h 11m 4s]
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+
+[total time: 0h 54m 9s]
+
+[total time: 0h 54m 29s]
+
+[total time: 0h 59m 58s]
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep1.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep2.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep3.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep3.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep2.sorted.dupr.bam.bai
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep1.sorted.dupr.bam.bai
+Mean of empty slice.
+invalid value encountered in double_scalars
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep3.sorted.dupr.bam.bai
+
+[total time: 0h 50m 14s]
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep2.sorted.dupr.bam.bai
+
+[total time: 0h 54m 49s]
+[W::hts_idx_load2] The index file is older than the data file: WT_Tfh_rep1.sorted.dupr.bam.bai
+
+[total time: 0h 57m 57s]
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep2.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep1.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep3.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep3.sorted.dupr.bam.bai
+Mean of empty slice.
+invalid value encountered in double_scalars
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep1.sorted.dupr.bam.bai
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep2.sorted.dupr.bam.bai
+Mean of empty slice.
+invalid value encountered in double_scalars
+Mean of empty slice.
+invalid value encountered in double_scalars
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep3.sorted.dupr.bam.bai
+
+[total time: 0h 44m 10s]
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep2.sorted.dupr.bam.bai
+
+[total time: 0h 51m 10s]
+[W::hts_idx_load2] The index file is older than the data file: WT_Th1_rep1.sorted.dupr.bam.bai
+
+[total time: 0h 53m 25s]

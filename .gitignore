@@ -6,3 +6,6 @@
 
 # Do not include Offic temps
 ~$*
+
+# Do not inlcude all motif footprint intermediate files
+/8_footprint/mpbs_all/
