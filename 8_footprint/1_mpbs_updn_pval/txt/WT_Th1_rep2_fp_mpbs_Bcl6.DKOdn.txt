@@ -1,0 +1,11 @@
+#Name (cmd = mergePeaks -d 200 -cobound 1 WT_Th1_rep2_fp_mpbs.ordered.bed /Volumes/Yolanda/jycATAC/JYC_DataAnalysis/4_DEseq2/pval-0.05_selected/pval-0.05-dn/bed/all.df.numx.c5-DKO_Th1_vs_WT_Th1-pval-0.05_dn.bed)	chr	start	end	strand	stat	stat2	/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/4_DEseq2/pval-0.05_selected/pval-0.05-dn/bed/all.df.numx.c5-DKO_Th1_vs_WT_Th1-pval-0.05_dn.bed
+NR721--MA0463.1.Bcl6	chr17	78351777	78351790	-	0.000	0.000	Merged-chr17-78351969-128
+NR30--MA0731.1.BCL6B	chr1	64970800	64970816	+	0.000	0.000	Merged-chr1-64970885-50
+NR727--MA0731.1.BCL6B	chr17	86832839	86832855	-	0.000	0.000	Merged-chr17-86833009-31
+NR419--MA0463.1.Bcl6	chr12	117712569	117712582	-	0.000	0.000	Merged-chr12-117712681-21
+NR556--MA0463.1.Bcl6	chr14	120572382	120572395	-	0.000	0.000	Merged-chr14-120572441-59
+NR1395--MA0463.1.Bcl6	chr7	5061473	5061486	+	0.000	0.000	Merged-chr7-5061292-3
+NR885--MA0731.1.BCL6B	chr2	90528282	90528298	+	0.000	0.000	Merged-chr2-90528384-23
+NR816--MA0463.1.Bcl6	chr19	46522565	46522578	-	0.000	0.000	Merged-chr19-46522561-12
+NR1243--MA0731.1.BCL6B	chr5	107932866	107932882	+	0.000	0.000	Merged-chr5-107932779-30
+NR305--MA0463.1.Bcl6	chr11	79654474	79654487	-	0.000	0.000	Merged-chr11-79654538-19

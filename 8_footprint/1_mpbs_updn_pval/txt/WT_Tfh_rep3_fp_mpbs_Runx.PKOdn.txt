@@ -1,0 +1,9 @@
+#Name (cmd = mergePeaks -d 200 -cobound 1 WT_Tfh_rep3_fp_mpbs.ordered.bed /Volumes/Yolanda/jycATAC/JYC_DataAnalysis/4_DEseq2/pval-0.05_selected/pval-0.05-dn/bed/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.05_dn.bed)	chr	start	end	strand	stat	stat2	/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/4_DEseq2/pval-0.05_selected/pval-0.05-dn/bed/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.05_dn.bed
+NR3107--MA0002.2.RUNX1	chr16	72350540	72350550	-	0.000	0.000	Merged-chr16-72350554-25
+NR768--MA0002.2.RUNX1	chr10	42849060	42849070	-	0.000	0.000	Merged-chr10-42848913-29
+NR638--MA0002.2.RUNX1	chr10	10307520	10307530	+	0.000	0.000	Merged-chr10-10307543-35
+NR767--MA0511.2.RUNX2	chr10	42849060	42849068	+	0.000	0.000	Merged-chr10-42848913-29
+NR3106--MA0002.2.RUNX1	chr16	72350411	72350421	+	0.000	0.000	Merged-chr16-72350554-25
+NR769--MA0684.1.RUNX3	chr10	42849060	42849069	+	0.000	0.000	Merged-chr10-42848913-29
+NR639--MA0684.1.RUNX3	chr10	10307521	10307530	-	0.000	0.000	Merged-chr10-10307543-35
+NR6435--MA0684.1.RUNX3	chr6	140314110	140314119	+	0.000	0.000	Merged-chr6-140314075-23
