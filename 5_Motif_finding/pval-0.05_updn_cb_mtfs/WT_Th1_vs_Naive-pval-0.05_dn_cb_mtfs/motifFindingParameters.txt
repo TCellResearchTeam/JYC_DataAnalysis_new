@@ -1,1 +1,0 @@
-cmd = all.df.numx.c5-WT_Th1_vs_Naive-pval-0.05_dn.bed /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome.fa WT_Th1_vs_Naive-pval-0.05_dn_cb_mtfs -size given -mask -preparsedDir /gpfs/home/hdiao/resources -mis 2

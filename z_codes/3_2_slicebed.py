@@ -54,12 +54,17 @@ os.chdir(wkdir)
 
 ref_bed = "/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/0_PreProcess_largeFiles/2_Merged_peaks/jycATAC_merged_peaks.bed"
 
+'''
 for file in glob.glob("*.csv"):
     slicebed(ref_bed, file)
 
+'''
 
+file = "all.df.numx.c5-WT_Th1_vs_Naive.dn.csv"
+slicebed(ref_bed, file)
 
-
+file = "all.df.numx.c5-WT_Tfh_vs_WT_Th1.dn.csv"
+slicebed(ref_bed, file)
 
 
 

@@ -1,0 +1,1 @@
+cmd = TH1_Associated__all.df.numx.c5-DKO_Tfh_vs_WT_Tfh.up.bed /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome.fa TH1_Associated__all.df.numx.c5-DKO_Tfh_vs_WT_Tfh.up_mtfs -size given -mask -preparsedDir /gpfs/home/hdiao/resources

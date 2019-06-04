@@ -1,1 +1,0 @@
-cmd = all.df.numx.c5-DKO_Tfh_vs_WT_Th1-pval-0.05_up.bed /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome.fa DKO_Tfh_vs_WT_Th1-pval-0.05_up_cb_mtfs -size given -mask -preparsedDir /gpfs/home/hdiao/resources -mis 2

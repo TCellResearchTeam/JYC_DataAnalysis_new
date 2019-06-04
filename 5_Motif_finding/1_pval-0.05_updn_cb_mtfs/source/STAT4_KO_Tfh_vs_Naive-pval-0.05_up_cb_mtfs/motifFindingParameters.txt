@@ -1,0 +1,1 @@
+cmd = all.df.numx.c5-STAT4_KO_Tfh_vs_Naive-pval-0.05_up.bed /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome.fa STAT4_KO_Tfh_vs_Naive-pval-0.05_up_cb_mtfs -size given -mask -preparsedDir /gpfs/home/hdiao/resources -mis 2

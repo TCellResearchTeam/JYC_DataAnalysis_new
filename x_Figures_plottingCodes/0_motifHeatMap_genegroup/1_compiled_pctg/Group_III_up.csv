@@ -1,0 +1,821 @@
+motif_name,subfamily,family,class,superclass,DKO_Tfh_vs_Prdm1KO_Tfh.up,DKO_Tfh_vs_WT_Tfh.up,DKO_Th1_vs_Bcl6KO_Th1.up,DKO_Th1_vs_WT_Th1.up,WT_Tfh_vs_WT_Th1.dn,WT_Tfh_vs_WT_Th1.up
+ABF1,Subfamily: Mesp-like factors,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,4.32,4.32,4.27,4.07,3.79,4.32
+AMYB(HTH),Subfamily: Myb-like factors | CAGTTG,Family: Myb/SANT domain factors,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,31.29,30.67,30.92,31.5,30.43,30.2
+AP-1(bZIP),Subfamily: Jun factors | TGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,18.56,19.04,19.69,20.27,16.5,20.74
+Alx3+M0928,Subfamily: ALX | TTAATTAA,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,40.96,42.06,41.11,41.69,39.43,41.72
+Ap4(bHLH),Subfamily: AP-4 | CAGCTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,25.23,24.68,26.1,25.58,23.64,26.12
+Ar+M1456,Subfamily: GR-like receptors (NR3C) | AGAACATGATGTTCT,Family: Steroid hormone receptors (NR3),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,18.08,18.41,17.96,18.05,16.64,17.95
+Arid2+M1536,Subfamily: ARID2,Family: ARID-related factors,Class: ARID domain factors,Superclass: Helix-turn-helix domains,11.17,10.7,10.55,11.04,10.14,11.47
+Arid3a+M1967,Subfamily: ARID3,Family: ARID-related factors,Class: ARID domain factors,Superclass: Helix-turn-helix domains,35.5,35.9,38.56,39.98,31.93,39.41
+Arid3c+M0105,Subfamily: ARID3,Family: ARID-related factors,Class: ARID domain factors,Superclass: Helix-turn-helix domains,43.6,44.53,45.66,47.18,39.14,46.52
+Arnt+M0179,Subfamily: Arnt-like factors | CACGTG,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,14.11,13.87,15.01,14.26,14.14,14.69
+Arnt2+M0180,Subfamily: Arnt-like factors | CACGTG,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,21.68,21.0,22.06,21.93,20.71,21.36
+Arnt:Ahr(bHLH),,,,,13.87,13.64,13.6,12.98,15.86,13.49
+Arntl+M0220,Subfamily: Arnt-like factors | CACGTG,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,5.83,5.35,5.96,5.31,6.57,5.52
+Ascl1(bHLH),Subfamily: Achaete-Scute-like factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,33.03,32.28,34.24,33.25,32.36,33.75
+Ascl2+M5987,Subfamily: Achaete-Scute-like factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,9.91,9.55,9.82,9.66,8.64,10.08
+Atf1(bZIP),Subfamily: CREB-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,14.47,14.44,13.01,12.88,15.36,13.44
+Atf2(bZIP),Subfamily: ATF-2-like factors | TGACGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,7.75,8.63,7.91,7.25,8.29,7.39
+Atf3(bZIP),Subfamily: ATF-3-like factors | TGACGTCA,Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,17.54,18.3,19.19,19.56,15.21,20.12
+Atf4(bZIP),,Family: ATF-4-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,3.48,3.28,3.82,3.74,3.21,4.7
+Atf6+M2978,Subfamily: ATF-6 factors | TGACGTGG,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,1.92,2.01,1.86,1.85,2.14,1.87
+Atf7(bZIP),Subfamily: ATF-2-like factors | TGACGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,11.23,11.33,10.55,10.0,11.57,10.03
+Atoh1(bHLH),Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,22.1,21.35,23.42,22.36,21.64,23.43
+Atoh8+M5116,Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,29.13,29.75,31.38,30.41,29.0,30.1
+BATF(bZIP),,Family: B-ATF-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,17.36,18.24,18.64,19.37,15.36,19.4
+BATF3+M5302,,Family: B-ATF-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,0.0,0.06,0.09,0.09,0.07,0.05
+BMAL1(bHLH),Subfamily: Arnt-like factors | CACGTG,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,33.93,33.2,33.61,33.35,34.5,32.69
+BMYB(HTH),Subfamily: Myb-like factors | CAGTTG,Family: Myb/SANT domain factors,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,31.41,30.96,28.69,29.94,29.71,28.85
+BORIS(Zf),Subfamily: CTCF-like factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,7.99,7.83,10.1,9.47,9.64,11.23
+Bach1(bZIP),Subfamily: NF-E2-like factors | GCTGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,1.44,1.67,1.91,1.75,1.79,1.78
+Bach2(bZIP),Subfamily: NF-E2-like factors | GCTGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,5.53,5.81,6.37,6.25,5.14,6.91
+Bapx1(Homeobox),Subfamily: NK-3 | AAGTACTT,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,38.5,41.25,39.38,40.08,37.43,40.23
+Barhl1+M5990,Subfamily: BARHL | AACCAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,18.08,18.7,18.14,18.9,16.79,19.11
+Barhl2+M0993,Subfamily: BARHL | AACCAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,41.62,41.89,42.66,43.15,41.0,43.93
+Barx1(Homeobox),Subfamily: BARX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,6.79,6.79,7.19,7.34,6.36,6.87
+Barx2+M0990,Subfamily: BARX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,43.6,45.11,45.66,46.42,42.14,46.09
+Bcl11a(Zf),Subfamily: BCL11,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,16.04,15.82,14.6,15.02,15.57,13.97
+Bcl6(Zf),Subfamily: BCL6 factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,25.41,26.12,23.78,24.96,24.86,24.15
+Bcl6b+M0391,Subfamily: BCL6 factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,67.27,67.95,68.49,69.97,65.14,69.28
+Bhlha15+M0218,Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,13.69,13.75,14.73,14.97,12.43,15.75
+Bhlhe22+M0194,Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,4.32,4.26,3.96,4.31,3.07,4.66
+"Brn1(POU,Homeobox)",Subfamily: POU3 (Oct-6-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,4.32,4.49,5.37,5.21,5.29,5.28
+Bsx+M1054,Subfamily: BSX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,38.5,40.39,41.25,42.07,38.0,41.29
+CBF1(AP2EREBP),Subfamily: M | CGTGGGAA,Family: CSL-related factors | CGTGGGAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,8.59,8.8,8.59,8.1,11.43,8.31
+CDX4(Homeobox),Subfamily: CDX (Caudal type homeobox) | GGTAATAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,11.65,12.08,12.23,12.27,11.0,12.29
+CEBP(bZIP),Subfamily: C/EBP | ATTGCGCAAT,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,9.97,10.7,9.37,10.71,9.86,9.6
+CEBP:AP1(bZIP),,,,,12.19,12.08,12.32,12.98,11.43,13.87
+CEBP:CEBP(bZIP),,,,,1.98,2.01,1.86,1.85,1.79,1.92
+CLOCK(bHLH),Subfamily: Arnt-like factors | CACGTG,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,12.43,12.03,12.64,12.22,13.43,12.91
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,29.46,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,29.46,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,25.65,29.46,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,29.46,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,29.46,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,29.46,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,29.79,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,31.24,29.79,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,29.79,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,25.65,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,29.46,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,29.46,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,29.46,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,31.24,25.65,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,25.72,29.93,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,25.72,29.93,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,25.72,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,31.59,28.65,25.65,25.72,32.71,28.32
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,29.46,32.71,23.62
+COUP-TFII(NR),Subfamily: COUP-like receptors (NR2F) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,28.89,28.65,29.79,29.46,32.71,28.32
+CTCF(Zf),Subfamily: CTCF-like factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,5.71,5.58,7.82,7.48,6.5,8.98
+Cbf1(bHLH),Subfamily: M | CGTGGGAA,Family: CSL-related factors | CGTGGGAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,6.49,6.39,7.09,6.68,7.36,6.87
+Cdx2(Homeobox),Subfamily: CDX (Caudal type homeobox) | GGTAATAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,8.47,8.8,9.05,9.0,8.29,8.93
+Cebpa+M0304,Subfamily: C/EBP | ATTGCGCAAT,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,7.45,8.11,7.46,8.15,6.64,8.11
+Cebpb+M5995,Subfamily: C/EBP | ATTGCGCAAT,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,0.6,0.69,0.86,0.9,0.5,1.06
+Cebpd+M0274,Subfamily: C/EBP | ATTGCGCAAT,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,28.29,29.75,28.65,29.8,26.86,29.57
+Cebpe+M0310,Subfamily: C/EBP | ATTGCGCAAT,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,11.89,12.14,12.55,13.55,11.64,13.2
+Cebpg+M0313,Subfamily: C/EBP | ATTGCGCAAT,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,45.59,46.78,45.93,47.37,43.29,47.86
+Chop(bZIP),Subfamily: C/EBP | ATTGCGCAAT,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,2.4,2.36,3.0,2.79,2.29,3.5
+Cic+M1581,Subfamily: Further Sox-related factors | TTCATTCAA,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,20.06,19.97,20.42,20.75,20.14,20.02
+Creb1+M0297,Subfamily: CREB-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,15.56,15.36,14.32,14.87,16.21,14.74
+Creb3l2+M0305,Subfamily: CREB-3-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,6.01,5.58,6.23,5.83,5.93,6.34
+Creb3l3+M5323,Subfamily: CREB-3-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,0.84,0.86,1.0,0.85,0.93,0.96
+Crebzf+M0307,Subfamily: CREBZF-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,3.66,4.26,4.73,4.88,3.71,5.04
+Crem+M0319,Subfamily: CREB-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,3.78,3.45,3.09,2.89,3.86,3.17
+Cxxc1+M0603,,Family: CpG-binding proteins,Class: CXXC zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,79.16,79.17,79.63,79.25,81.14,79.16
+DMRT1(DM),,Family: DMRT | TGATACATTGTTGC,Class: DM-type intertwined zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,4.5,4.6,4.05,4.17,3.71,4.22
+Dbp+M5999,Subfamily: PAR factors | TTATGCAA,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,0.18,0.35,0.09,0.09,0.36,0.24
+Dbx2+M1034,Subfamily: DBX | TTAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,77.42,77.39,76.94,77.59,74.86,77.53
+Dlx1+M1024,Subfamily: DLX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,41.62,42.52,43.16,43.11,40.79,42.77
+Dlx2+M6001,Subfamily: DLX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,11.89,11.8,12.23,12.51,11.93,12.48
+Dlx3(Homeobox),Subfamily: DLX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,8.11,7.94,7.82,8.01,7.21,8.21
+Dlx4+M0935,Subfamily: DLX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,46.01,47.12,47.11,47.28,44.5,47.1
+Dlx5+M0981,Subfamily: DLX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,47.63,48.96,49.07,49.46,46.43,48.87
+Dlx6+M5344,Subfamily: DLX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,11.89,11.8,12.23,12.51,11.93,12.48
+Dmrt3+M0629,,Family: DMRT | TGATACATTGTTGC,Class: DM-type intertwined zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,7.21,7.59,7.14,7.67,6.43,7.49
+Dmrta1+M0641,,Family: DMRT | TGATACATTGTTGC,Class: DM-type intertwined zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,27.45,29.29,27.69,29.56,26.93,28.42
+Dmrtc2+M0635,,Family: DMRT | TGATACATTGTTGC,Class: DM-type intertwined zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,27.63,27.91,27.33,28.66,25.64,28.28
+E2A(bHLH),,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,31.65,31.65,33.24,32.92,30.71,32.55
+"E2A(bHLH),near_PU.1",,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,29.85,30.15,30.7,30.36,29.5,30.39
+E2F1(E2F),Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,4.74,4.72,5.32,4.12,6.0,5.38
+E2F3(E2F),Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,13.09,12.89,13.82,12.36,15.14,13.87
+E2F4(E2F),Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,10.63,10.3,10.32,9.05,12.64,10.27
+E2F6(E2F),Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,12.25,11.85,12.23,10.56,14.5,11.52
+E2F7(E2F),Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,2.34,1.84,2.64,1.99,2.79,2.83
+E2f2+M0670,Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,25.05,25.09,25.65,23.26,29.64,25.4
+E2f5+M6194,Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,1.62,1.5,1.77,1.61,1.86,1.97
+EHF(ETS),Subfamily: EHF-like factors | CCGGAAGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,35.62,36.19,33.79,34.82,38.64,34.33
+EKLF(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,7.03,6.85,6.78,6.49,6.21,6.14
+ELF1(ETS),Subfamily: Elf-1-like factors | CCGGAAAT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,20.84,20.89,18.28,18.14,25.71,17.38
+ELF3(ETS),Subfamily: EHF-like factors | CCGGAAGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,23.24,23.42,21.65,22.88,24.43,22.32
+ELF5(ETS),Subfamily: EHF-like factors | CCGGAAGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,21.98,22.67,20.74,21.27,23.64,19.88
+ERF1(AP2EREBP),,Family: AP-2 | GCCTGAGGC,Class: Basic helix-span-helix factors (bHSH),Superclass: Basic domains,13.57,13.35,12.23,10.66,18.14,11.62
+ERG(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,48.53,48.68,44.47,45.57,51.93,44.7
+ESE1(AP2EREBP),Subfamily: EHF-like factors | CCGGAAGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,15.26,15.3,13.92,12.08,20.07,13.35
+ESE3(AP2EREBP),Subfamily: EHF-like factors | CCGGAAGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,21.08,21.4,20.28,19.28,25.86,19.44
+ETS1(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,39.04,38.9,34.56,36.0,43.36,33.94
+"ETS:E-box(ETS,bHLH)/HPC7-Scl-ChIP-Seq(GSE22178)",,,,,2.7,3.11,3.05,2.79,2.79,2.69
+"ETS:RUNX(ETS,Runt)",,,,,7.75,7.25,5.0,5.31,8.57,3.89
+ETV1(ETS),Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,44.56,44.13,40.79,42.07,49.5,40.52
+ETV4(ETS),Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,41.08,40.68,36.7,37.85,45.43,36.44
+EWS:ERG-fusion(ETS),,,,,25.53,25.03,24.06,24.87,25.71,24.87
+EWS:FLI1-fusion(ETS),,,,,23.66,23.13,21.37,22.12,25.21,22.13
+Egr1(Zf),Subfamily: EGR factors | GCGTGGGCG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,19.04,18.58,19.55,18.38,19.93,19.4
+Egr2(Zf),Subfamily: EGR factors | GCGTGGGCG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,6.31,5.06,5.91,5.21,6.43,6.29
+Egr3+M0414,Subfamily: EGR factors | GCGTGGGCG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,29.13,29.17,31.24,28.23,32.29,30.63
+Egr4+M3630,Subfamily: EGR factors | GCGTGGGCG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.96,0.92,1.05,0.81,1.36,1.01
+Elf2+M0708,Subfamily: Elf-1-like factors | CCGGAAAT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,57.12,57.59,55.21,55.76,62.07,54.44
+Elf4(ETS),Subfamily: Elf-1-like factors | CCGGAAAT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,32.91,33.26,29.7,30.74,37.29,30.24
+Elk1(ETS),Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,23.0,23.25,20.24,19.56,28.14,19.25
+Elk3+M0692,Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,22.52,21.92,20.05,19.94,27.36,19.2
+Emx1+M0892,Subfamily: EMX | CTAATTAG,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,13.87,13.52,12.87,13.36,12.5,13.44
+Emx2+M1028,Subfamily: EMX | CTAATTAG,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,40.66,42.06,41.29,42.07,39.71,41.96
+En1+M1058,Subfamily: EN (Engrailed-like factors) | CTAATTAG,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,63.18,63.58,63.17,64.19,61.71,63.51
+En2+M6006,Subfamily: EN (Engrailed-like factors) | CTAATTAG,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,7.63,7.88,7.32,8.2,7.43,7.92
+Eomes(T-box),,Family: TBrain-related factors | AGGTGTGAA,Class: T-Box factors,Superclass: Immunoglobulin fold,42.04,41.48,37.7,38.89,39.0,37.4
+Erf+M5398,Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,7.39,6.9,5.96,5.97,9.21,6.19
+Esr1+M1444,Subfamily: ER-like receptors (NR3A&B) | AGGTCACAGTGACCT,Family: Steroid hormone receptors (NR3),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,59.1,59.21,57.16,57.13,61.07,55.83
+Etv2(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,35.2,35.33,32.33,33.21,38.64,32.02
+Etv3+M0689,Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,75.2,74.91,72.71,73.47,76.0,72.49
+Etv6+M0705,Subfamily: ETV6-like factors | CCCGGAAGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,52.31,51.78,50.07,50.78,54.64,50.79
+Evx1+M0918,Subfamily: EVX (Even-skipped homolog) | CTAATTAG,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,40.84,42.23,43.07,43.63,39.5,42.92
+Evx2+M0916,Subfamily: EVX (Even-skipped homolog) | CTAATTAG,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,43.96,45.57,45.2,46.47,43.14,46.42
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,17.34,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,17.34,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,17.24,17.34,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,17.34,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,17.34,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,17.34,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,20.42,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,20.42,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,17.24,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,17.24,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,20.42,17.34,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,15.94,20.42,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,17.34,14.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.38,18.64,20.42,17.34,14.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,20.42,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,18.64,20.42,20.42,17.79,17.43
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,17.34,17.79,20.6
+FOXA1(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,18.44,15.94,17.24,17.34,17.79,17.43
+FOXK1(Forkhead),Subfamily: FOXK | TTGTTTAC,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,19.22,19.62,19.55,20.09,17.71,19.64
+FOXK2(Forkhead),Subfamily: FOXK | TTGTTTAC,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,13.39,13.69,13.19,13.6,12.36,12.96
+FOXM1(Forkhead),Subfamily: FOXM | CTGTTTAT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.98,16.34,17.87,18.05,15.43,18.1
+FOXP1(Forkhead),Subfamily: FOXP | TTGTTTCA,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,9.67,9.49,9.41,9.95,8.36,9.41
+Ferd3l+M4971,Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,19.16,18.81,18.69,18.57,17.43,18.87
+Fev+M5429,Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,9.49,9.15,8.28,7.77,11.36,8.02
+Fezf1+M4840,Subfamily: FEZF factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,4.32,4.72,4.91,5.31,3.93,5.28
+Figla+M0203,Subfamily: Twist-like factors | CGTCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,49.25,49.31,50.48,49.55,49.14,49.93
+Fli1(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,40.24,40.05,36.74,37.14,45.14,36.68
+Fos+M2278,Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,12.55,13.52,13.87,14.07,10.86,13.97
+Fosb+M6228,Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,10.45,10.59,10.87,10.9,9.57,11.95
+Fosl1+M0296,Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,34.89,35.16,34.97,35.62,32.36,35.81
+Fosl2(bZIP),Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,10.63,11.51,11.82,12.17,9.64,12.39
+"Fox:Ebox(Forkhead,bHLH)",,,,,19.28,19.16,19.78,19.47,19.43,19.49
+FoxL2(Forkhead),Subfamily: FOXL | TGTTTATGT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,14.53,14.9,14.78,15.06,13.5,14.59
+Foxa2(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,14.71,14.21,15.42,15.4,13.14,16.08
+Foxa3(Forkhead),Subfamily: FOXA | TGTTTGTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,5.65,5.58,5.59,5.92,5.64,6.05
+Foxb1+M0737,Subfamily: FOXB,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,9.73,10.01,10.5,10.33,9.29,10.51
+Foxd1+M3296,Subfamily: FOXD | TGTTTACTTAAG,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,0.3,0.29,0.23,0.24,0.36,0.24
+Foxd2+M1863,Subfamily: FOXD | TGTTTACTTAAG,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,7.39,7.19,6.68,7.25,6.14,6.96
+Foxe1+M1873,Subfamily: FOXE,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,6.31,6.39,7.32,6.63,5.57,7.35
+Foxf1(Forkhead),Subfamily: FOXF | TGTTTATATG,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.44,16.0,15.69,16.15,14.57,15.94
+Foxg1+M0723,Subfamily: FOXG | TTTGTTTTT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,54.65,54.95,54.71,55.33,52.07,55.59
+Foxi3+M1874,Subfamily: FOXI | TGTTTGTTTA,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,11.65,11.62,12.14,11.8,10.14,12.19
+Foxj1+M0728,Subfamily: FOXJ | TGTTTGTTTA,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,25.47,25.83,25.56,26.91,23.57,26.5
+Foxj2+M0721,Subfamily: FOXJ | TGTTTGTTTA,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,44.08,44.3,44.38,45.48,40.79,45.03
+Foxj3+M0726,Subfamily: FOXJ | TGTTTGTTTA,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,24.74,25.09,25.01,25.58,22.64,25.68
+Foxl1+M0747,Subfamily: FOXL | TGTTTATGT,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,33.03,33.77,34.06,35.01,30.14,35.48
+Foxo1(Forkhead),Subfamily: FOXO | TTGTTTAC,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,37.6,38.43,37.61,37.94,36.71,37.49
+Foxo3(Forkhead),Subfamily: FOXO | TTGTTTAC,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,13.87,14.5,14.6,14.92,13.14,14.74
+Foxo4+M0730,Subfamily: FOXO | TTGTTTAC,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,53.03,53.97,53.48,54.67,50.21,54.34
+Foxo6+M0735,Subfamily: FOXO | TTGTTTAC,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,66.01,66.05,65.62,67.03,63.43,66.3
+Foxp2+M0724,Subfamily: FOXP | TTGTTTCA,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,21.2,21.75,21.83,22.69,19.71,21.8
+Foxp3+M0717,Subfamily: FOXP | TTGTTTCA,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,11.89,12.43,12.32,12.84,11.14,12.19
+Foxq1+M1872,Subfamily: FOXQ,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,4.26,4.89,5.23,5.26,4.21,5.42
+Foxs1+M0732,Subfamily: FOXS,Family: Forkhead box (FOX) factors | TGTTT,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,32.79,33.6,34.92,35.48,31.64,35.53
+Fra1(bZIP),Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,14.95,16.46,16.73,17.15,14.0,17.04
+Fra2(bZIP),Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,13.57,14.61,15.28,15.73,11.93,15.46
+GABPA(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,33.99,33.77,30.2,31.22,38.14,30.34
+GATA1(C2C2gata),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,6.55,6.5,6.64,7.06,6.36,6.63
+GATA3(Zf),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,23.66,24.22,25.6,25.58,21.57,25.11
+"GATA3(Zf),DR4",Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,1.26,1.27,1.41,1.33,1.07,1.49
+"GATA3(Zf),DR8",Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,1.74,1.67,1.41,1.42,1.71,1.15
+GATA4(C2C2gata),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,12.85,12.37,12.23,13.03,11.57,12.72
+GATA6(C2C2gata),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,2.22,2.36,2.32,2.37,2.43,2.16
+"GATA:SCL(Zf,bHLH)",,,,,2.4,2.59,2.41,2.42,2.43,2.11
+GLIS3(Zf),Subfamily: GLI-like factors | TGGGTGGTC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,32.55,33.08,32.33,31.83,34.43,32.02
+GRHL2(CP2),Subfamily: GRH-like proteins,Family: Grainyhead-related factors,Class: Grainyhead domain factors,Superclass: Immunoglobulin fold,5.83,5.93,6.5,7.01,5.79,6.53
+Gata1(Zf),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,10.99,11.05,11.46,11.65,9.57,10.66
+Gata2(Zf),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,12.31,12.6,12.87,13.17,10.93,12.05
+Gata4(Zf),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,17.66,17.49,18.46,19.04,15.57,17.91
+Gata5+M0784,Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,53.69,54.43,54.52,55.76,49.93,55.26
+Gata6(Zf),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,15.8,15.77,16.55,17.05,13.5,16.23
+Gbx1+M1064,Subfamily: GBX (Gastrulation brain homeobox) | CTAATTAG,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,28.17,28.31,28.29,28.56,26.64,29.38
+Gbx2+M0995,Subfamily: GBX (Gastrulation brain homeobox) | CTAATTAG,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,41.26,42.06,42.06,42.63,39.43,43.49
+Gcm1+M0812,,Family: GCM factors,Class: GCM domain factors,Superclass:b-Hairpin exposed by ana/b-scaffold,25.11,25.03,24.74,24.02,26.86,24.0
+Gfi1b(Zf),Subfamily: GFI1 factors | AAATCACAGC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,12.49,12.43,12.28,12.51,13.14,11.86
+Glis2+M0393,Subfamily: GLI-like factors | TGGGTGGTC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,14.59,13.92,14.73,14.12,13.0,13.92
+Gmeb1+M1550,Subfamily: GMEB,Family: GMEB | CTTCTGTATGAGCGCCAGTAT,Class: SAND domain factors,Superclass:a-Helices exposed byb-structures,43.84,44.02,43.88,43.53,46.36,44.07
+Gmeb2+M1551,Subfamily: GMEB,Family: GMEB | CTTCTGTATGAGCGCCAGTAT,Class: SAND domain factors,Superclass:a-Helices exposed byb-structures,39.46,39.36,38.84,38.75,42.0,39.08
+Gsx1+M5502,Subfamily: GSX | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,17.96,18.64,18.78,19.42,17.71,19.59
+Gsx2+M1002,Subfamily: GSX | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,32.07,32.8,33.33,33.92,30.86,33.99
+HEB(bHLH),,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,39.52,40.22,41.25,40.79,39.0,40.57
+HIC1(Zf),Subfamily: Hypermethylated in Cancer proteins | GGGTGCCCGG,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,40.18,41.31,41.16,40.93,41.57,42.39
+HIF-1a(bHLH),Subfamily: Ahr-like factors | CACGC,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,5.17,5.81,5.37,5.68,5.64,5.47
+HIF1A+M6275,Subfamily: Ahr-like factors | CACGC,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,4.86,5.75,5.09,4.78,7.86,4.85
+HIF2a(bHLH),Subfamily: Ahr-like factors | CACGC,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,7.03,8.17,7.41,7.48,7.86,7.68
+HLF(bZIP),Subfamily: PAR factors | TTATGCAA,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,11.11,12.08,12.28,12.6,10.29,13.3
+"HNF4a(NR),DR1",Subfamily: HNF-4 (NR2A) | AGTCCAAAGTTCA,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,8.83,8.98,8.87,9.52,8.43,9.17
+HOXA2(Homeobox),Subfamily: HOX2 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,0.78,0.63,0.82,0.99,0.57,1.01
+HOXA9(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,9.37,9.09,10.41,10.33,8.64,10.03
+HOXB13(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,14.53,15.02,15.73,15.49,13.57,16.13
+Hand2(bHLH),Subfamily: Twist-like factors | CGTCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,9.61,9.67,10.46,10.94,8.93,10.42
+Hdx+M0996,Subfamily: HDX-like factors | GAAATCA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,81.74,82.11,82.4,82.99,79.43,83.39
+Hes1+M0191,Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,21.8,21.92,21.6,20.65,25.64,21.94
+Hes2+M0199,Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,10.45,10.3,9.91,9.9,10.71,9.94
+Hes5+M0215,Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,12.91,13.23,12.91,12.51,15.79,12.91
+Hes7+M0192,Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,15.02,14.5,15.55,15.21,17.79,16.13
+Hesx1+M1166,Subfamily: HESX | TAATTGAATTA,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,7.87,7.54,7.59,7.82,7.36,8.02
+Hey1+M0183,Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,9.67,9.55,9.6,9.43,11.71,9.17
+Hivep1+M6544,Subfamily: HIV EP-factors | GGGACTTTCC,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,3.96,4.43,5.09,5.35,3.57,4.94
+Hlx+M1018,Subfamily: HLX | TAATTAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,86.13,85.44,85.99,85.98,83.5,86.75
+Hmbox1+M0945,Subfamily: HNF1-like factors | GTTAATGATTAAC,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,94.83,94.71,94.41,94.88,93.86,94.91
+Hmga2+M0132,,Family: HMGA factors | GGAAATT,Class: A.T hook factors,Superclass:b-Sheet binding to DNA,80.6,79.8,80.58,81.9,78.21,81.47
+Hmx1+M1063,Subfamily: NK-5/HMX | AGCAATTAA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,22.46,22.9,22.87,23.26,20.57,23.48
+Hnf1a+M0974,Subfamily: HNF1-like factors | GTTAATGATTAAC,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,64.08,64.61,62.8,63.0,62.07,63.51
+Hnf4g+M2286,Subfamily: HNF-4 (NR2A) | AGTCCAAAGTTCA,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,3.6,3.57,3.64,4.17,3.36,3.98
+Homez+M1057,Subfamily: ZHX | ATCGTTTT,Family: HD-ZF factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,15.26,16.34,15.23,15.06,15.79,15.07
+Hoxa10(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,9.85,9.78,9.55,9.71,9.07,9.17
+Hoxa11(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,33.39,33.66,33.79,34.49,32.14,33.27
+Hoxa13(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,36.4,36.08,36.24,37.61,34.14,36.39
+Hoxa3+M1073,Subfamily: HOX3 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,28.41,29.17,29.79,30.08,26.86,29.81
+Hoxa4+M0905,Subfamily: HOX4 | TTAATTAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,33.39,34.58,35.29,35.67,31.57,35.14
+Hoxa5+M1011,Subfamily: HOX5 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,34.17,35.27,35.7,35.86,32.93,35.62
+Hoxa6+M1027,Subfamily: HOX6-7 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,48.89,49.6,49.43,49.93,46.14,49.83
+Hoxa7+M1010,Subfamily: HOX6-7 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,52.73,52.88,53.34,53.29,50.93,54.49
+Hoxa9(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,39.46,39.82,40.02,39.84,38.64,40.09
+Hoxb2+M0887,Subfamily: HOX2 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,78.5,79.34,78.31,78.87,76.0,78.4
+Hoxb3+M1040,Subfamily: HOX3 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,36.52,37.57,36.88,37.61,35.0,36.87
+Hoxb4(Homeobox),Subfamily: HOX4 | TTAATTAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,2.7,2.82,2.96,3.27,2.64,2.83
+Hoxb5+M1013,Subfamily: HOX5 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,36.94,37.86,37.84,37.99,35.71,37.93
+Hoxb7+M1014,Subfamily: HOX6-7 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,55.14,56.33,55.16,55.8,53.5,55.88
+Hoxb8+M1055,Subfamily: HOX8 | GTAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,47.51,47.76,48.02,48.51,45.64,48.54
+Hoxc11+M0913,Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,37.54,36.88,36.79,38.13,33.43,37.93
+Hoxc12+M1044,Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,36.16,36.36,35.33,36.62,32.71,36.29
+Hoxc13+M0912,Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,38.86,38.26,37.97,38.89,35.71,38.26
+Hoxc4+M1070,Subfamily: HOX4 | TTAATTAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,42.1,43.56,44.02,45.05,40.29,44.46
+Hoxc5+M0949,Subfamily: HOX5 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,47.57,48.91,48.02,49.17,45.29,49.06
+Hoxc6+M0915,Subfamily: HOX6-7 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,5.95,5.64,5.46,5.78,4.86,5.9
+Hoxc8+M0914,Subfamily: HOX8 | GTAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,46.19,47.07,47.75,47.94,44.64,48.58
+Hoxc9(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,7.09,7.08,8.14,8.2,6.21,7.83
+Hoxd1+M1025,Subfamily: HOX1 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,44.92,45.57,45.93,46.52,44.14,46.28
+Hoxd10(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,17.78,17.84,17.83,18.19,16.5,17.43
+Hoxd11(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,35.74,35.44,35.47,36.1,33.14,34.9
+Hoxd12(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,27.33,28.19,27.24,27.62,25.71,27.41
+Hoxd13(Homeobox),Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,21.92,22.27,22.28,22.74,21.0,22.18
+Hoxd3+M1071,Subfamily: HOX3 | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,41.8,43.21,42.84,43.39,40.36,43.11
+Hoxd8+M0964,Subfamily: HOX8 | GTAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,72.25,72.21,71.62,72.43,69.0,73.21
+Hoxd9+M6036,Subfamily: HOX9-13 | TCGTAAA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,7.99,7.59,7.69,7.82,6.86,7.35
+IRF1(IRF),,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,8.53,8.52,7.14,8.01,6.21,6.67
+IRF2(IRF),,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,7.87,7.88,6.46,7.2,6.07,5.71
+IRF3(IRF),,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,11.71,11.68,11.01,12.13,9.64,10.42
+IRF4(IRF),,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,12.73,12.49,11.28,12.46,11.71,9.79
+IRF8(IRF),,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,13.27,12.95,12.05,13.03,10.71,11.09
+IRF:BATF(IRF:bZIP),,,,,4.62,4.43,4.0,4.31,3.0,3.74
+Id1+M0189,,Family: HLH domain only,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,9.31,8.98,9.37,8.95,10.0,9.36
+Id4+M5571,,Family: HLH domain only,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,19.76,19.28,20.05,20.13,17.64,19.83
+Irf5+M1267,,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,28.17,29.06,26.92,27.66,26.07,25.59
+Irf6+M1266,,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,33.33,35.21,31.65,32.35,33.07,30.24
+Irf7+M1265,,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,46.85,47.53,48.29,49.03,43.14,48.3
+Irf9+M1262,,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,56.52,57.48,56.89,58.31,52.71,56.94
+Irx1+M6037,Subfamily: IRX (Iroquois) | TACATGTA,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,1.26,1.61,1.23,1.23,1.14,1.2
+Isl1(Homeobox),Subfamily: ISL | ATCAATTAA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,29.37,30.26,30.83,30.65,28.5,31.49
+Isx+M0984,Subfamily: ISX | CTAATTAG,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,44.5,45.57,45.16,45.71,43.5,46.76
+Jdp2+M0302,Subfamily: ATF-3-like factors | TGACGTCA,Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,54.17,55.06,54.21,54.81,52.71,53.86
+Jun+M0311,Subfamily: Jun factors | TGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,19.4,20.2,19.96,21.13,17.14,20.74
+JunB(bZIP),Subfamily: Jun factors | TGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,15.8,16.63,17.14,17.67,14.0,17.23
+JunD(bZIP),Subfamily: Jun factors | TGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,2.28,2.59,2.73,2.32,2.57,2.83
+KLF10(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,17.3,17.03,16.46,15.87,17.07,15.41
+KLF14(Zf),Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,44.26,44.13,43.57,41.21,45.64,42.15
+KLF3(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,18.14,18.18,16.96,15.25,19.86,15.6
+KLF5(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,36.04,35.67,35.11,33.49,36.93,33.8
+KLF6(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,30.21,30.15,29.33,28.14,31.07,28.61
+Klf1+M2294,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,12.37,12.66,12.41,11.75,13.43,11.33
+Klf12+M0443,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,45.23,44.94,44.93,42.63,46.64,42.92
+Klf4(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,12.07,12.2,12.05,11.75,13.5,11.14
+Klf7+M0405,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,43.6,43.96,43.88,41.69,44.79,42.15
+Klf8+M0421,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,65.83,67.09,65.98,64.85,67.86,64.52
+Klf9(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,14.59,14.5,14.64,13.45,15.79,14.31
+LEF1(HMG),,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,15.62,15.54,19.55,20.37,10.86,20.88
+Lbx1+M0894,Subfamily: LBX | TTAATTAA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,12.07,11.74,11.55,12.27,10.79,11.86
+Lbx2+M0998,Subfamily: LBX | TTAATTAA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,61.26,62.37,59.62,60.54,61.21,59.53
+Lhx1(Homeobox),Subfamily: Lhx-1-like factors | TTAATTAA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,14.29,14.1,13.92,14.5,13.57,14.59
+Lhx2(Homeobox),Subfamily: Lhx-2-like factors | TAATTA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,13.45,13.52,13.46,14.21,12.86,14.21
+Lhx3(Homeobox),Subfamily: Lhx-3-like factors | TAATTA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,21.98,22.5,22.06,23.5,20.36,23.43
+Lhx4+M6041,Subfamily: Lhx-3-like factors | TAATTA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,12.67,12.49,12.19,12.65,11.36,12.77
+Lhx5+M0975,Subfamily: Lhx-1-like factors | TTAATTAA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,19.64,20.02,19.78,20.84,19.07,21.12
+Lhx6+M0962,Subfamily: Lhx-6-like factors | CTAATTAG,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,27.33,27.96,28.51,29.28,26.93,29.57
+Lhx8+M6042,Subfamily: Lhx-6-like factors | CTAATTAG,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,0.06,0.06,0.14,0.05,0.14,0.05
+Lhx9+M0932,Subfamily: Lhx-2-like factors | TAATTA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,26.67,26.87,27.51,28.0,25.0,27.89
+Lmx1a+M0960,Subfamily: Lmx | TTAATTAA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,52.67,52.93,53.39,54.33,51.07,53.43
+Lmx1b+M1015,Subfamily: Lmx | TTAATTAA,Family: HD-LIM factors | AATTAA;,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,67.93,68.07,67.89,68.31,65.43,67.35
+MITF(bHLH),Subfamily: TFE3-like factors | CACATG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,19.76,19.85,20.55,19.99,18.93,20.31
+MNT(bHLH),Subfamily: Mad-like factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,19.1,18.81,19.19,18.85,19.71,18.82
+MYB(HTH),Subfamily: Myb-like factors | CAGTTG,Family: Myb/SANT domain factors,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,34.95,35.33,35.52,35.72,34.93,34.71
+MYNN(Zf),Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,4.02,4.09,4.32,4.36,3.5,4.22
+MafA(bZIP),Subfamily: Large Maf factors | TGCTGACTCAGCA,Family: Maf-related factors | TGCTGACTCAGCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,18.2,17.2,17.69,18.1,17.21,18.15
+MafB(bZIP),Subfamily: Large Maf factors | TGCTGACTCAGCA,Family: Maf-related factors | TGCTGACTCAGCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,8.41,8.57,8.55,8.53,7.71,8.59
+MafF(bZIP),Subfamily: Small Maf factors | TGCTGACTCAGCA,Family: Maf-related factors | TGCTGACTCAGCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,3.18,3.51,3.5,3.41,2.79,3.94
+MafK(bZIP),Subfamily: Small Maf factors | TGCTGACTCAGCA,Family: Maf-related factors | TGCTGACTCAGCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,5.83,5.24,5.55,5.64,5.0,6.29
+Mafg+M0308,Subfamily: Small Maf factors | TGCTGACTCAGCA,Family: Maf-related factors | TGCTGACTCAGCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,26.43,26.93,27.79,28.42,25.71,28.04
+Max(bHLH),Subfamily: Myc / Max factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,13.99,13.92,14.14,13.93,14.79,13.83
+Maz(Zf),Subfamily: MAZ-like factors | GGGGAGGG,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,34.83,35.85,34.92,34.2,37.29,34.47
+Mbd1+M0613,,Family: CpG-binding proteins,Class: CXXC zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,4.5,4.55,4.14,4.07,5.86,4.08
+Mecom+M1861,Subfamily: Evi-1-like factors | ACAAGATAA,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.3,0.35,0.5,0.52,0.14,0.58
+Mef2a(MADS),Subfamily: MEF-2 | CTAAAAATAG,Family: Regulators of differentiation | CTAAAAATAG,Class: MADS box factors,Superclass:a-Helices exposed byb-structures,6.73,6.67,6.23,6.35,4.86,6.77
+Mef2b(MADS),Subfamily: MEF-2 | CTAAAAATAG,Family: Regulators of differentiation | CTAAAAATAG,Class: MADS box factors,Superclass:a-Helices exposed byb-structures,13.09,12.6,12.82,12.84,11.07,13.2
+Mef2c(MADS),Subfamily: MEF-2 | CTAAAAATAG,Family: Regulators of differentiation | CTAAAAATAG,Class: MADS box factors,Superclass:a-Helices exposed byb-structures,6.43,6.1,6.5,6.68,4.93,7.3
+Mef2d(MADS),Subfamily: MEF-2 | CTAAAAATAG,Family: Regulators of differentiation | CTAAAAATAG,Class: MADS box factors,Superclass:a-Helices exposed byb-structures,2.52,2.36,2.68,2.75,2.21,2.98
+Meis1(Homeobox),Subfamily: MEIS | AGCTGTCAA,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,36.7,37.51,36.61,37.23,36.86,36.1
+Meis2+M6048,Subfamily: MEIS | AGCTGTCAA,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,60.18,60.99,60.48,61.2,59.71,58.81
+Meis3+M6051,Subfamily: MEIS | AGCTGTCAA,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,0.6,0.52,0.5,0.43,0.64,0.53
+Meox1+M0907,Subfamily: MEOX | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,33.75,34.58,34.88,35.48,31.21,35.57
+Meox2+M6052,Subfamily: MEOX | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,17.48,17.72,17.14,17.86,15.86,17.81
+Mesp1+M5627,Subfamily: Mesp-like factors,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,25.89,26.52,26.28,26.76,25.07,25.54
+Mga+M5628,Subfamily: Mad-like factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,14.05,13.18,11.14,12.13,11.86,10.51
+Mlx+M0182,Subfamily: Mondo-like factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,21.8,21.92,22.6,21.98,24.36,22.23
+Mlxip+M0211,Subfamily: Mondo-like factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,9.31,8.98,9.37,8.95,10.0,9.36
+Mnx1+M0911,Subfamily: MNX | ACTAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,38.8,40.22,40.25,40.93,37.79,40.71
+Msc+M0195,Subfamily: Mesp-like factors,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,19.22,19.45,19.74,19.04,19.64,19.59
+Msx1+M1036,Subfamily: MSX | ACCAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,31.53,31.88,32.74,32.73,30.14,33.13
+Msx2+M0940,Subfamily: MSX | ACCAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,21.8,22.27,22.56,22.79,23.0,22.23
+Mtf1+M0407,Subfamily: MTF1-like factors | TGCACAC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.9,0.86,0.55,0.62,0.79,0.72
+Mybl1+M1357,Subfamily: Myb-like factors | CAGTTG,Family: Myb/SANT domain factors,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,20.66,21.0,20.55,20.37,21.86,20.21
+Mybl2+M1355,Subfamily: Myb-like factors | CAGTTG,Family: Myb/SANT domain factors,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,15.8,16.28,15.33,14.83,16.36,15.03
+Myf5(bHLH),Subfamily: Myogenic transcription factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,15.44,15.48,16.46,16.25,13.64,16.75
+Myf6+M0210,Subfamily: Myogenic transcription factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,13.75,13.23,13.23,13.93,12.43,13.83
+MyoD(bHLH),Subfamily: Myogenic transcription factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,18.38,17.89,19.05,17.91,17.07,19.01
+MyoG(bHLH),Subfamily: Myogenic transcription factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,22.82,22.84,24.01,23.69,22.36,23.81
+Myod1+M2299,Subfamily: Myogenic transcription factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,20.84,20.6,21.51,21.55,19.14,22.56
+Myt1l+M0574,,Family: Myelin transcription factor-related proteins | AAGTT,Class: C2HC zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,35.62,34.35,35.11,36.52,31.5,36.58
+Mzf1+M0410,Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,16.04,16.11,16.51,15.59,16.5,15.41
+NF-E2(bZIP),Subfamily: NF-E2-like factors | GCTGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,1.74,1.84,2.23,2.08,1.79,2.16
+"NFAT:AP1(RHD,bZIP)",,,,,2.82,3.28,3.82,3.93,2.86,4.75
+NFE2L2(bZIP),Subfamily: NF-E2-like factors | GCTGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,1.08,1.44,1.96,1.75,1.36,1.87
+NFIL3(bZIP),Subfamily: PAR factors | TTATGCAA,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,8.17,9.26,9.6,9.33,9.21,10.47
+NPAS2(bHLH),Subfamily: Arnt-like factors | CACGTG,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,20.72,20.54,22.01,21.41,20.86,22.8
+NRF1(NRF),,Family: NRF | CGCATGCGCA,,Superclass: Yet undefined DNA-binding domains,3.78,3.68,4.05,3.79,5.5,4.18
+Nanog(Homeobox),Subfamily: NANOG | CCATTT,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,60.42,60.3,60.07,60.21,60.14,60.06
+NeuroD1(bHLH),Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,16.82,16.46,18.14,17.62,16.5,18.0
+NeuroG2(bHLH),Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,30.45,29.69,30.42,30.51,28.43,30.82
+Neurod2+M5652,Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,4.62,4.49,4.14,4.36,4.21,4.42
+Nfat5+M1519,,Family: NFAT-related factors | ATGGAAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,27.81,28.6,30.15,29.89,26.0,32.02
+Nfatc1+M1521,,Family: NFAT-related factors | ATGGAAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,67.57,67.55,68.67,69.11,63.86,70.33
+Nfatc2+M1518,,Family: NFAT-related factors | ATGGAAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,27.03,27.62,30.06,29.94,25.86,32.55
+Nfatc3+M1517,,Family: NFAT-related factors | ATGGAAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,29.01,29.8,32.11,32.02,27.71,34.61
+Nfe2+M3617,Subfamily: NF-E2-like factors | GCTGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,4.62,4.72,4.68,4.74,4.21,4.51
+Nfe2l1+M4030,Subfamily: NF-E2-like factors | GCTGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,45.35,47.58,47.29,47.84,43.79,46.86
+Nfix+M5664,,Family: Nuclear factor 1 | TTGGCTATATGCCAA,Class: SMAD/NF-1 DNA-binding domain factors,Superclass:b-Hairpin exposed by ana/b-scaffold,0.84,1.04,1.32,1.56,1.21,1.58
+Nfkb1+M4444,Subfamily: NF-kappaB p50 subunit-like factors | GGGAATTTCC,Family: NF-kappaB-related factors,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,4.86,5.35,5.59,6.21,4.14,5.18
+Nfkb2+M5669,Subfamily: NF-kappaB p50 subunit-like factors | GGGAATTTCC,Family: NF-kappaB-related factors,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,2.22,2.53,2.41,2.56,1.79,1.92
+Nfya+M1890,,Family: Heteromeric CCAAT-binding factors | CCAAT,Class: Heteromeric CCAAT-binding factors,Superclass: Other all-a-helical DNA-binding domains,0.9,0.75,0.68,0.52,0.93,0.82
+Nhlh1+M1880,Subfamily: Tal / HEN-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,4.62,5.01,5.41,5.07,4.07,5.76
+Nhlh2+M0216,Subfamily: Tal / HEN-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,25.65,25.2,25.83,25.68,24.36,26.45
+Nkx1-1+M1125,Subfamily: NK-1 | CTAATTAG,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,33.81,34.41,34.47,34.72,32.93,34.85
+Nkx1-2+M1039,Subfamily: NK-1 | CTAATTAG,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,42.94,43.96,42.66,42.82,42.14,43.35
+Nkx2-3+M1030,Subfamily: NK-4 | CCACTTAA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,57.3,57.94,58.34,58.65,55.43,58.04
+Nkx2-4+M1052,Subfamily: NK-2.1 | CCACTTGA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,56.64,57.31,57.66,58.08,54.21,57.71
+Nkx2-5+M2302,Subfamily: NK-4 | CCACTTAA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,8.59,8.23,7.96,8.34,7.57,8.16
+Nkx2-6+M1029,Subfamily: NK-4 | CCACTTAA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,26.79,27.91,27.47,28.0,24.57,28.32
+Nkx2-9+M1060,Subfamily: NK-2.2 | CCACTTGA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,51.65,52.82,53.25,53.81,49.5,52.57
+Nkx2.2(Homeobox),Subfamily: NK-2.2 | CCACTTGA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,36.94,38.26,37.7,37.75,37.36,37.64
+Nkx2.5(Homeobox),Subfamily: NK-4 | CCACTTAA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,40.9,42.12,41.38,41.83,39.86,41.0
+Nkx3-1+M0946,Subfamily: NK-3 | AAGTACTT,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,28.11,29.23,30.01,30.46,26.93,31.06
+Nkx3-2+M1042,Subfamily: NK-3 | AAGTACTT,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,58.08,59.84,60.07,60.45,56.79,60.54
+Nkx3.1(Homeobox),Subfamily: NK-3 | AAGTACTT,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,42.4,43.04,42.47,43.25,40.07,42.63
+Nkx6-1+M0999,Subfamily: NK-6 | AATAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,28.47,28.42,29.7,30.22,26.21,30.44
+Nkx6.1(Homeobox),Subfamily: NK-6 | AATAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,32.31,33.03,33.79,34.2,30.64,34.37
+Noto+M1065,Subfamily: NOTO,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,13.33,12.89,12.51,13.12,11.57,13.54
+Npas4+M4930,Subfamily: NPAS-4 | CACGA,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,0.84,0.81,0.82,0.76,0.79,0.72
+Nr2c2+M4549,Subfamily: Testicular receptors (NR2C) | TGACCTCTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,1.14,1.04,0.73,0.66,1.64,0.62
+Nr2e1+M6057,Subfamily: Tailless-like receptors (NR2E) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,0.48,0.58,0.5,0.57,0.57,0.53
+Nr2e3+M1973,Subfamily: Tailless-like receptors (NR2E) | TGACCTTTGACCT,Family: RXR-related receptors (NR2) | (TGACCT),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,10.93,11.33,12.41,12.46,10.43,13.2
+Nr3c1+M1935,Subfamily: GR-like receptors (NR3C) | AGAACATGATGTTCT,Family: Steroid hormone receptors (NR3),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,2.58,2.76,2.32,2.37,2.0,2.59
+Nr4a2+M1450,,Family: NGFI-B-related receptors (NR4) | TGACCTTT,Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,13.87,13.92,13.51,14.12,13.64,13.49
+Nr4a3+M6395,,Family: NGFI-B-related receptors (NR4) | TGACCTTT,Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,3.12,3.22,3.27,3.22,3.29,2.93
+Nrf2(bZIP),Subfamily: NF-E2-like factors | GCTGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,1.5,1.67,2.0,1.99,1.64,1.87
+Nrl+M5689,Subfamily: Large Maf factors | TGCTGACTCAGCA,Family: Maf-related factors | TGCTGACTCAGCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,15.68,16.23,16.23,16.39,14.93,16.32
+Nur77(NR),,Family: NGFI-B-related receptors (NR4) | TGACCTTT,Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,3.12,2.93,2.86,2.89,3.14,2.93
+"OCT:OCT-short(POU,Homeobox)",,,,,9.31,8.92,8.19,8.34,8.36,8.07
+"Oct2(POU,Homeobox)",Subfamily: POU2 (Oct-1/2-like factors) | TATGCAAAT,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,3.9,4.09,4.96,5.26,3.93,5.52
+"Oct4(POU,Homeobox)",Subfamily: POU5 (Oct-3/4-like factors),Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,6.55,6.5,7.19,7.39,7.07,7.49
+"Oct4:Sox17(POU,Homeobox,HMG)",,,,,1.62,1.78,1.82,1.61,1.36,1.87
+"Oct6(POU,Homeobox)",Subfamily: POU3 (Oct-6-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,5.05,5.64,6.23,6.06,6.43,6.14
+Olig2(bHLH),Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,34.47,33.72,35.29,34.53,33.86,35.0
+Olig3+M0213,Subfamily: Neurogenin / Atonal-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,26.25,26.52,25.51,25.68,24.64,24.77
+Osr1+M0431,Subfamily: Other three adjacent zinc finger factors,Family: Other factors with up to three adjacent zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,42.64,44.19,42.25,42.35,43.36,43.35
+Osr2+M0396,Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,23.36,25.09,22.74,22.97,24.93,22.95
+Otp+M0943,Subfamily: OTP | TTAATTAA,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,28.35,28.42,28.15,28.47,26.71,28.61
+Ovol1+M6402,Subfamily: OVOL-factors | GCGGGGG,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,7.39,7.65,7.64,8.57,6.64,8.26
+"PAX3:FKHR-fusion(Paired,Homeobox)",,,,,2.58,2.7,2.5,2.65,2.29,2.5
+"PAX5(Paired,Homeobox)",Subfamily: PAX-2-like factors (partial homeobox) | GTCATGCGTGA,Family: Paired domain only,Class: Paired box factors,Superclass: Helix-turn-helix domains,7.33,7.42,8.05,7.82,7.0,8.59
+"PAX5(Paired,Homeobox),condensed",Subfamily: PAX-2-like factors (partial homeobox) | GTCATGCGTGA,Family: Paired domain only,Class: Paired box factors,Superclass: Helix-turn-helix domains,1.92,1.9,2.55,2.37,2.43,2.54
+PBX1(Homeobox),Subfamily: PBX | CATCAAT,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,2.16,2.13,2.18,2.46,2.36,2.35
+PBX2(Homeobox),Subfamily: PBX | CATCAAT,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,13.21,13.52,13.51,13.74,13.07,12.82
+PGR(NR),Subfamily: GR-like receptors (NR3C) | AGAACATGATGTTCT,Family: Steroid hormone receptors (NR3),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,5.17,5.7,5.55,5.5,4.36,5.52
+"PPARa(NR),DR1",Subfamily: PPAR (NR1C) | TGACCTTTGACCT,Family: Thyroid hormone receptor-related factors (NR1),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,21.14,20.89,21.69,21.74,21.14,20.36
+PR(NR),Subfamily: GR-like receptors (NR3C) | AGAACATGATGTTCT,Family: Steroid hormone receptors (NR3),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,40.6,40.56,40.11,40.79,37.86,40.09
+PRDM1(Zf),Subfamily: PRDM1-like factors | AAGTGAAAGT,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,15.98,16.57,15.28,16.34,12.21,15.17
+PRDM9(Zf),Subfamily: unclassified,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,9.19,9.26,9.64,9.43,8.64,9.79
+PU.1(ETS),Subfamily: Spi-like factors | AGAGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,19.28,18.93,16.19,16.82,19.86,16.03
+PU.1:IRF8(ETS:IRF),,,,,8.17,7.71,7.32,7.82,6.43,6.87
+Patz1+M3546,Subfamily: MAZ-like factors | GGGGAGGG,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,10.09,10.07,9.73,10.0,9.71,10.18
+Pax2+M1895,Subfamily: PAX-2-like factors (partial homeobox) | GTCATGCGTGA,Family: Paired domain only,Class: Paired box factors,Superclass: Helix-turn-helix domains,46.13,47.24,45.84,45.24,46.0,44.98
+Pax3+M3713,Subfamily: PAX-3/7 | CTAATTAG,Family: Paired plus homeo domain | CTAATTAG,Class: Paired box factors,Superclass: Helix-turn-helix domains,0.12,0.23,0.09,0.05,0.21,0.05
+Pax4+M1896,Subfamily: PAX-4/6 | CTAATTAG,Family: Paired plus homeo domain | CTAATTAG,Class: Paired box factors,Superclass: Helix-turn-helix domains,0.3,0.29,0.23,0.19,0.36,0.19
+"Pax8(Paired,Homeobox)",Subfamily: PAX-2-like factors (partial homeobox) | GTCATGCGTGA,Family: Paired domain only,Class: Paired box factors,Superclass: Helix-turn-helix domains,5.89,5.64,6.91,6.21,5.29,7.25
+Pbx3(Homeobox),Subfamily: PBX | CATCAAT,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,5.95,6.21,6.73,6.82,5.71,7.2
+Pdx1(Homeobox),Subfamily: PDX | TAATTA,Family: HOX-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,12.61,13.41,13.78,14.59,12.07,14.74
+Pit1(Homeobox),Subfamily: POU1 (Pit-1-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,12.79,12.43,14.01,13.6,11.43,13.97
+Pit1+1bp(Homeobox),Subfamily: POU1 (Pit-1-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,3.72,3.91,3.46,3.55,3.21,3.74
+"Pitx1:Ebox(Homeobox,bHLH)",,,,,3.0,2.88,3.27,3.03,2.21,3.22
+Pknox1(Homeobox),Subfamily: PKNOX | ACCTGTCAAT,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,5.95,5.98,6.14,6.16,5.5,6.1
+Pknox2+M6062,Subfamily: PKNOX | ACCTGTCAAT,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,0.24,0.12,0.09,0.09,0.21,0.1
+Pou1f1+M1233,Subfamily: POU1 (Pit-1-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,49.91,50.0,50.3,51.21,47.5,50.98
+Pou2f1+M1236,Subfamily: POU2 (Oct-1/2-like factors) | TATGCAAAT,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,58.26,58.23,59.39,60.21,55.86,59.96
+Pou2f2+M6063,Subfamily: POU2 (Oct-1/2-like factors) | TATGCAAAT,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,0.36,0.4,0.41,0.28,0.43,0.29
+Pou2f3+M0989,Subfamily: POU2 (Oct-1/2-like factors) | TATGCAAAT,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,49.67,50.4,51.48,51.97,47.57,51.94
+Pou3f1+M1239,Subfamily: POU3 (Oct-6-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,36.58,37.51,37.56,38.28,34.5,38.65
+Pou3f2+M1051,Subfamily: POU3 (Oct-6-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,48.29,49.31,48.93,49.46,46.36,49.54
+Pou3f3+M1033,Subfamily: POU3 (Oct-6-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,74.89,74.05,74.12,75.13,72.57,75.71
+Pou3f4+M1056,Subfamily: POU3 (Oct-6-like factors) | TAATTAATTA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,39.22,40.22,39.88,40.6,36.71,40.71
+Pou4f3+M0953,Subfamily: POU4 (Brn-3-like factors) | ATTAATGA,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,53.45,53.45,52.66,53.67,49.5,54.01
+Pou5f1+M6133,Subfamily: POU5 (Oct-3/4-like factors),Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,0.84,0.58,1.18,0.95,0.57,1.34
+Pou6f1+M0925,Subfamily: POU6 (Brn-5-like factors) | TAATGAG,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,20.06,20.37,20.15,20.32,18.07,20.64
+Pou6f2+M5746,Subfamily: POU6 (Brn-5-like factors) | TAATGAG,Family: POU domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,3.9,4.2,4.09,4.55,3.79,4.42
+Prrx1+M0959,Subfamily: PRRX | GCTAATTAGC,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,19.94,20.48,20.55,21.36,19.64,21.8
+Prrx2+M1902,Subfamily: PRRX | GCTAATTAGC,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,29.07,29.8,30.2,30.55,28.21,31.2
+Ptf1a(bHLH),Subfamily: Twist-like factors | CGTCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,49.97,50.52,52.11,51.78,48.36,52.33
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,0.33,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,0.33,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,0.36,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,0.33,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,0.36,0.33,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,0.33,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,0.36,0.33,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,2.24,2.0,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,0.33,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,1.89,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,2.0,1.89,0.21,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,0.33,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,0.29,2.0,0.33,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,1.89,2.71,0.34
+"RAR:RXR(NR),DR5",,,,,0.3,2.24,2.0,1.89,2.71,1.39
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,0.33,0.21,0.34
+"RAR:RXR(NR),DR5",,,,,2.52,0.29,0.36,0.33,0.21,1.39
+RORa(NR),Subfamily: ROR (NR1F) | TGACCTACTTAT,Family: Thyroid hormone receptor-related factors (NR1),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,2.94,3.05,2.36,2.37,3.07,1.92
+RORg(NR),Subfamily: ROR (NR1F) | TGACCTACTTAT,Family: Thyroid hormone receptor-related factors (NR1),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,2.46,2.53,1.64,1.8,2.29,1.44
+RUNX1(Runt),,Family: Runt-related factors | TGTGGT,Class: Runt domain factors,Superclass: Immunoglobulin fold,36.1,35.85,30.92,32.83,33.43,27.17
+RUNX2(Runt),,Family: Runt-related factors | TGTGGT,Class: Runt domain factors,Superclass: Immunoglobulin fold,30.99,30.03,26.15,27.76,28.57,23.04
+RUNX3+M5791,,Family: Runt-related factors | TGTGGT,Class: Runt domain factors,Superclass: Immunoglobulin fold,0.24,0.23,0.14,0.19,0.29,0.1
+Rax+M0954,Subfamily: RAX | CTAATTAG,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,17.96,18.24,18.69,19.09,17.86,19.11
+Rel+M1924,Subfamily: NF-kappaB p65 subunit-like factors | GAAAATTTCC,Family: NF-kappaB-related factors,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,12.01,13.29,13.51,13.78,11.57,13.3
+Rela+M6137,Subfamily: NF-kappaB p65 subunit-like factors | GAAAATTTCC,Family: NF-kappaB-related factors,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,9.79,10.59,10.78,11.75,8.43,10.61
+Rfx1(HTH),,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,5.05,5.06,5.28,5.4,4.86,5.42
+Rfx2(HTH),,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,2.58,2.53,3.37,3.27,2.07,3.7
+Rfx3+M6077,,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,0.0,0.0,0.32,0.28,0.07,0.29
+Rfx4+M1528,,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,27.99,28.25,27.69,27.52,27.57,28.56
+Rfx5(HTH),,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,7.15,7.19,7.78,7.67,6.79,8.55
+Rfx6(HTH),,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,22.52,23.42,23.15,23.5,24.14,23.48
+Rfx7+M1529,,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,16.64,16.63,16.51,16.82,16.0,17.62
+Rfx8+M6075,,Family: RFX-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,0.54,0.52,0.91,0.99,0.36,1.1
+Rorc+M6455,Subfamily: ROR (NR1F) | TGACCTACTTAT,Family: Thyroid hormone receptor-related factors (NR1),Class: Nuclear receptors with C4 zinc fingers,Superclass: Zinc-coordinating DNA-binding domains,1.08,1.09,1.0,0.99,1.29,0.82
+Rreb1+M1901,Subfamily: unclassified,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,1.38,1.61,1.96,1.8,1.0,1.78
+SCL(bHLH),Subfamily: Tal / HEN-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,70.75,69.74,70.08,70.35,69.43,70.38
+SCRT1(Zf),Subfamily: Snail-like factors | CACCTG,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,7.99,7.65,7.09,7.48,6.64,7.63
+SHN3(AP2EREBP),Subfamily: HIV EP-factors | GGGACTTTCC,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,8.41,8.57,7.82,6.96,13.0,6.87
+SPDEF(ETS),Subfamily: SPDEF-like factors | CCGGATGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,30.15,29.69,27.29,28.9,31.79,27.99
+STAT1(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,6.01,6.9,6.14,6.82,6.71,6.05
+STAT4(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,20.3,20.25,19.96,21.13,17.64,19.88
+STAT5(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,7.39,8.11,7.82,8.43,7.43,7.54
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,11.13,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,11.13,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,9.96,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,11.13,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,11.13,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,11.13,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,9.96,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,11.13,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,9.96,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,10.46,11.13,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.18,10.46,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,11.13,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.59,9.96,11.13,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,10.71,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,10.71,10.14,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,10.71,9.71,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.21,10.59,10.46,10.71,9.71,10.47
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,11.13,10.14,10.23
+STAT6(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.03,10.18,10.46,11.13,10.14,10.47
+Scrt2+M5805,Subfamily: Snail-like factors | CACCTG,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.66,0.58,0.55,0.66,0.36,0.62
+Sebox+M0906,Subfamily: SEBOX,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,4.38,4.55,3.64,4.17,3.57,4.22
+Sfpi1+M1907,Subfamily: Spi-like factors | AGAGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,6.43,6.27,5.32,5.5,7.0,5.33
+Shox2+M6082,Subfamily: SHOX | TTAATTAA,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,12.31,12.49,12.46,12.79,12.21,12.82
+Sim2+M5234,Subfamily: Ahr-like factors | CACGC,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,1.08,1.15,0.77,0.9,0.93,0.91
+Six1(Homeobox),Subfamily: SIX1-like factors | GGGTATCA,Family: HD-SINE factors | GGTATCA,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,4.86,4.89,5.05,4.88,4.36,5.18
+Six2(Homeobox),Subfamily: SIX1-like factors | GGGTATCA,Family: HD-SINE factors | GGTATCA,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,18.68,19.04,17.74,18.29,17.79,17.62
+Six4(Homeobox),Subfamily: SIX4-like factors | GGTGTCA,Family: HD-SINE factors | GGTATCA,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,1.26,1.27,1.05,1.14,1.21,1.06
+Slug(Zf),Subfamily: Snail-like factors | CACCTG,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,12.97,12.72,13.01,13.26,11.93,12.72
+Smad2(MAD),Subfamily: Regulatory Smads (R-Smad),Family: SMAD factors | GTCTAGAC,Class: SMAD/NF-1 DNA-binding domain factors,Superclass:b-Hairpin exposed by ana/b-scaffold,31.89,33.43,33.7,33.44,33.0,32.89
+Smad3(MAD),Subfamily: Regulatory Smads (R-Smad),Family: SMAD factors | GTCTAGAC,Class: SMAD/NF-1 DNA-binding domain factors,Superclass:b-Hairpin exposed by ana/b-scaffold,51.05,52.01,52.11,51.78,51.21,51.75
+Smad4(MAD),Subfamily: Co-activating Smads (Co-Smad),Family: SMAD factors | GTCTAGAC,Class: SMAD/NF-1 DNA-binding domain factors,Superclass:b-Hairpin exposed by ana/b-scaffold,33.39,34.93,34.24,34.34,34.79,33.61
+Smarcc2+M4527,Subfamily: TADA2-like factors,Family: Myb/SANT domain factors,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,0.78,1.04,0.82,0.52,1.21,0.58
+Snai1+M0424,Subfamily: Snail-like factors | CACCTG,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,53.39,53.86,53.71,55.09,52.36,53.34
+Sohlh2+M0198,Subfamily: SOHLH-like factors,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,26.43,27.16,26.56,25.72,29.86,26.07
+Sox10(HMG),Subfamily: Group E | AAACAAAGG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,29.55,31.01,30.88,32.26,27.57,32.41
+Sox12+M1594,Subfamily: Group C | AACAAAGG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,50.33,51.5,51.66,53.29,47.5,53.14
+Sox14+M1596,Subfamily: Group B | AACAAAG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,15.2,14.5,15.6,15.35,13.21,16.23
+Sox15(HMG),Subfamily: Group G,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,18.98,19.79,20.46,21.22,17.29,21.08
+Sox17(HMG),Subfamily: Group F | AACAAT,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,11.17,11.85,11.87,12.27,10.86,12.29
+Sox2(HMG),Subfamily: Group B | AACAAAG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,14.83,15.59,16.23,17.29,13.14,17.81
+Sox21+M1599,Subfamily: Group B | AACAAAG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,83.66,84.29,84.04,85.22,81.57,84.4
+Sox3(HMG),Subfamily: Group B | AACAAAG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,31.17,32.11,32.42,34.01,28.57,33.65
+Sox4(HMG),Subfamily: Group C | AACAAAGG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,15.74,16.17,16.64,17.67,13.93,17.62
+Sox5+M1914,Subfamily: Group D | AACAAT,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,13.15,12.83,14.01,13.78,11.86,14.4
+Sox6(HMG),Subfamily: Group D | AACAAT,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,27.09,27.85,28.79,29.56,25.36,29.14
+Sox9(HMG),Subfamily: Group E | AAACAAAGG,Family: SOX-related factors | ACAA,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,18.38,18.3,18.1,19.0,16.57,18.96
+Sp1(Zf),Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,10.93,10.59,9.37,8.48,13.21,9.36
+Sp100+M1549,Subfamily: Sp100,Family: Sp140/Sp100,Class: SAND domain factors,Superclass:a-Helices exposed byb-structures,41.98,41.25,41.7,41.73,42.71,42.2
+Sp2(Zf),Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,39.28,39.18,38.02,36.29,40.86,36.87
+Sp4+M0401,Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,20.96,21.46,21.87,19.75,25.79,21.36
+Sp5(Zf),Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,29.01,29.0,29.01,27.1,32.43,28.66
+Sp9+M5856,Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,13.81,13.64,14.14,13.41,14.86,14.45
+SpiB(ETS),Subfamily: Spi-like factors | AGAGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,7.75,7.36,6.41,6.63,7.64,6.1
+Spic+M6096,Subfamily: Spi-like factors | AGAGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,0.48,0.52,0.27,0.38,0.57,0.19
+Srebf1+M0188,Subfamily: SREBP factors | ATCACCCCAC,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,14.41,13.98,13.87,12.98,15.07,13.35
+Srebf2+M0190,Subfamily: SREBP factors | ATCACCCCAC,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,6.19,5.98,6.09,5.73,6.36,5.95
+Srebp1a(bHLH),Subfamily: SREBP factors | ATCACCCCAC,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,3.54,3.51,3.23,3.46,3.43,3.7
+Srebp2(bHLH),Subfamily: SREBP factors | ATCACCCCAC,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,3.12,2.76,2.59,2.65,2.5,2.88
+Stat2+M4635,,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,5.71,5.58,4.82,5.4,4.64,4.56
+Stat3(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,11.83,12.2,10.32,11.7,12.21,10.61
+Stat3+il21(Stat),,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,16.46,16.74,15.37,16.53,16.21,15.41
+Stat5a+M3985,,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,3.48,4.03,3.73,4.17,4.07,3.98
+Stat5b+M3990,,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,1.74,1.9,1.68,1.8,1.79,1.58
+T+M1843,,Family: Brachyury-related factors | TCACACCTAGGTGTGAAATT,Class: T-Box factors,Superclass: Immunoglobulin fold,0.84,0.75,0.77,0.81,0.86,0.58
+TCF4(bHLH),,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,28.77,28.14,30.33,29.99,27.93,30.72
+TFE3(bHLH),Subfamily: TFE3-like factors | CACATG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,3.0,2.93,2.73,2.7,3.36,2.59
+Tal1,Subfamily: Tal / HEN-like factors | CAGCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,26.67,27.27,28.47,28.8,25.5,27.46
+Tbet(T-box),,Family: TBrain-related factors | AGGTGTGAA,Class: T-Box factors,Superclass: Immunoglobulin fold,25.23,24.86,22.69,23.69,23.57,21.8
+"Tbox:Smad(T-box,MAD)",,,,,4.74,5.12,5.0,5.35,4.21,4.85
+Tbr1(T-box),,Family: TBrain-related factors | AGGTGTGAA,Class: T-Box factors,Superclass: Immunoglobulin fold,29.31,29.11,26.78,27.05,27.07,26.12
+Tbx10+M1628,,Family: TBX1-related factors,Class: T-Box factors,Superclass: Immunoglobulin fold,17.3,16.69,14.51,15.44,15.93,13.44
+Tbx19+M5882,,Family: Brachyury-related factors | TCACACCTAGGTGTGAAATT,Class: T-Box factors,Superclass: Immunoglobulin fold,0.0,0.0,0.05,0.05,0.0,0.05
+Tbx2+M1626,,Family: TBX2-related factors | AGGTGTGAG,Class: T-Box factors,Superclass: Immunoglobulin fold,35.08,34.29,31.79,31.83,32.43,30.24
+Tbx20(T-box),,Family: TBX1-related factors,Class: T-Box factors,Superclass: Immunoglobulin fold,4.86,5.12,5.5,5.21,5.36,5.18
+Tbx21(T-box),,Family: TBrain-related factors | AGGTGTGAA,Class: T-Box factors,Superclass: Immunoglobulin fold,22.76,22.55,20.37,21.36,20.5,19.83
+Tbx3+M1630,,Family: TBX2-related factors | AGGTGTGAG,Class: T-Box factors,Superclass: Immunoglobulin fold,54.17,53.97,51.61,51.68,52.43,49.83
+Tbx4+M1627,,Family: TBX2-related factors | AGGTGTGAG,Class: T-Box factors,Superclass: Immunoglobulin fold,16.1,15.71,13.32,13.83,15.86,11.76
+Tbx5(T-box),,Family: TBX2-related factors | AGGTGTGAG,Class: T-Box factors,Superclass: Immunoglobulin fold,60.36,60.18,58.62,58.65,58.0,57.9
+Tbx6(T-box),,Family: TBX6-related factors | AATTTCACACCTAGGTGTGAAATT,Class: T-Box factors,Superclass: Immunoglobulin fold,27.27,26.81,24.24,24.92,25.64,22.66
+Tcf12(bHLH),,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,21.62,21.46,23.33,22.45,20.5,23.14
+Tcf15+M4850,Subfamily: Twist-like factors | CGTCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,1.62,1.73,1.41,1.52,1.57,1.25
+Tcf21(bHLH),Subfamily: Mesp-like factors,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,20.54,19.74,21.78,20.99,19.0,21.94
+Tcf3(HMG),,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,6.55,6.04,9.23,9.66,3.07,10.13
+Tcf4(HMG),,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,11.65,11.33,14.73,15.35,6.79,16.03
+Tcf7(HMG),,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,9.43,9.21,12.28,12.55,6.29,12.53
+Tcf7l1+M1598,,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,90.81,90.79,91.22,91.52,89.57,91.36
+Tcf7l2+M1585,,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,22.58,22.84,28.01,28.99,16.79,28.9
+Tcfeb+M0193,Subfamily: TFE3-like factors | CACATG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,10.33,10.01,10.5,10.0,10.71,10.66
+Tcfec+M0201,Subfamily: TFE3-like factors | CACATG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,12.43,12.03,11.96,11.8,12.43,12.15
+Tcfl5+M0212,Subfamily: SOHLH-like factors,Family: PAS domain factors | CACGC,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,23.66,23.94,24.06,22.83,27.43,24.05
+Tef+M0293,Subfamily: PAR factors | TTATGCAA,Family: C/EBP-related | ATTGCGCAAT,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,26.91,28.19,27.33,27.95,27.14,27.41
+Tfdp1+M6515,Subfamily: Dp-1,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,0.78,0.58,0.5,0.33,0.93,0.48
+Tgif1(Homeobox),Subfamily: TGIF | AGCTGTCAAT,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,54.11,54.55,54.07,54.71,53.79,52.23
+Tgif2(Homeobox),Subfamily: TGIF | AGCTGTCAAT,Family: TALE-type homeo domain factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,56.88,57.42,56.89,57.65,56.36,56.84
+Twist(bHLH),Subfamily: Twist-like factors | CGTCTG,Family: Tal-related factors | CAGCTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,2.58,2.65,3.05,2.84,2.64,3.12
+USF1(bHLH),Subfamily: USF factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,11.41,11.1,11.37,11.23,11.71,11.43
+Uncx+M0972,Subfamily: UNCX | TTAATTAA,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,30.99,31.24,31.61,32.12,29.71,32.6
+Usf2(bHLH),Subfamily: USF factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,8.47,8.0,8.32,8.34,8.07,8.59
+Vax1+M0921,Subfamily: VAX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,37.3,38.67,38.65,39.27,36.93,38.89
+Vax2+M0997,Subfamily: VAX | TAATTA,Family: NK-related factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,40.9,41.94,41.93,42.44,39.36,42.25
+Vsx1+M6110,Subfamily: VSX | TTAATTAA,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,13.51,13.64,14.23,14.59,13.86,14.59
+Vsx2+M3059,Subfamily: VSX | TTAATTAA,Family: Paired-related HD factors,Class: Homeo domain factors,Superclass: Helix-turn-helix domains,2.28,2.24,2.27,2.37,2.07,2.45
+WT1(Zf),Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,17.3,17.84,17.42,16.82,17.57,17.86
+Xbp1+M0291,,Family: XBP-1-related factors | GGATGACGTGTACA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,49.67,50.4,50.07,49.69,50.29,50.17
+YY1(Zf),Subfamily: YY1-like factors | GCCATCTTG,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,1.68,1.78,1.59,1.28,2.86,1.58
+ZBTB18(Zf),Subfamily: ZNF238-like factors | AACATCTGGA,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,9.49,9.9,10.78,10.09,9.07,11.23
+ZBTB33(Zf),Subfamily: Factors with 2-3 adjacent zinc fingers | TCCTGCTA,Family: Other factors with up to three adjacent zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,1.38,1.44,1.18,1.18,2.0,1.1
+ZFP3(Zf),Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.0,0.0,0.0,0.0,0.0,0.0
+ZNF317(Zf),Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,1.56,1.67,1.5,1.52,1.86,1.54
+ZNF322(Zf),Subfamily: ZNF322-like factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,6.31,6.27,5.91,5.97,7.29,5.52
+ZNF382(Zf),Subfamily: ZNF37A-like factors,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.9,0.86,1.0,0.85,0.64,0.91
+ZNF467(Zf),Subfamily: unclassified,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,21.38,21.81,21.78,21.65,22.21,21.27
+ZNF652,Subfamily: ZNF652-like factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,4.5,4.37,4.46,4.78,3.36,4.46
+ZNF692(Zf),Subfamily: ZFP91-like factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,3.0,3.28,3.23,3.13,2.64,3.36
+ZSCAN22(Zf),Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,1.74,2.01,1.59,1.37,2.29,1.39
+Zbtb1+M0413,Subfamily: ZBTB1-like factors,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,22.82,22.61,24.15,23.02,26.14,24.24
+Zbtb4+M6540,Subfamily: unclassified,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.84,1.15,0.73,0.76,1.14,0.62
+Zbtb49+M5959,Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.0,0.0,0.0,0.0,0.0,0.0
+Zfp128+M0438,Subfamily: unclassified,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,1.62,1.09,1.55,1.37,2.0,1.54
+Zfp161+M0432,Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,22.7,23.19,22.83,21.7,27.29,22.37
+Zfp523+M1915,Subfamily: ZNF76-like factors | CCCATCATGCCTTGC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,0.78,0.92,0.95,0.81,1.07,0.62
+Zfp691+M0428,Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,25.89,27.27,26.38,25.77,27.29,25.59
+Zfp711+M0403,Subfamily: ZNF639-like factors,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,61.02,61.45,61.66,60.87,65.21,60.87
+Zfp740+M6112,Subfamily: Other three adjacent zinc finger factors,Family: Other factors with up to three adjacent zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,15.8,15.59,16.55,16.53,14.43,16.71
+Zic(Zf),Subfamily: GLI-like factors | TGGGTGGTC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,18.38,17.61,18.78,18.71,18.43,18.92
+Zic1+M0412,Subfamily: GLI-like factors | TGGGTGGTC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,50.15,51.04,50.57,50.45,53.93,50.6
+Zic2+M0439,Subfamily: GLI-like factors | TGGGTGGTC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,41.86,42.81,42.97,42.11,46.0,42.25
+Zic3(Zf),Subfamily: GLI-like factors | TGGGTGGTC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,13.63,13.12,14.14,14.31,15.57,14.55
+Zic5+M0422,Subfamily: GLI-like factors | TGGGTGGTC,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,24.98,24.8,24.69,23.97,26.29,24.39
+Zkscan5+M0435,Subfamily: unclassified,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,58.98,59.55,58.03,58.36,58.21,57.95
+Znf263(Zf),Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,36.1,36.71,36.24,35.39,38.5,35.77
+Zscan20+M0440,Subfamily: unclassified,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,34.53,34.7,34.38,34.49,32.86,34.61
+bHLHE41(bHLH),Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,25.53,24.11,25.42,24.3,25.86,25.2
+"bZIP:IRF(bZIP,IRF)",,,,,11.41,11.74,10.96,11.65,9.5,10.18
+c-Myc(bHLH)/LNCAP-cMyc-ChIP-Seq(Unpublished),Subfamily: Myc / Max factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,11.23,10.82,11.23,10.66,12.71,11.23
+c-Myc(bHLH)/mES-cMyc-ChIP-Seq(GSE11431),Subfamily: Myc / Max factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,10.39,9.95,10.23,10.18,10.93,9.89
+n-Myc(bHLH),Subfamily: Myc / Max factors | CACGTG,Family: bHLH-ZIP factors | CACATG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,14.83,14.33,15.05,14.83,15.29,14.59
+p63(p53),,Family: p53-related factors | GGACATGCCCGGGCATGTCC,Class: p53 domain factors,Superclass: Immunoglobulin fold,6.67,6.67,6.87,6.44,5.21,7.01
