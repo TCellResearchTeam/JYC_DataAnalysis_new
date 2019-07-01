@@ -1,0 +1,85 @@
+motif_name,subfamily,family,class,superclass,DKO_Tfh_vs_Prdm1KO_Tfh.dn,DKO_Tfh_vs_WT_Tfh.dn,DKO_Th1_vs_Bcl6KO_Th1.dn,DKO_Th1_vs_WT_Th1.dn,WT_Tfh_vs_WT_Th1.dn,WT_Tfh_vs_WT_Th1.up
+Arnt:Ahr(bHLH),NA,NA,NA,NA,12.94,13.75,15.29,16.33,15.36,11.57
+"ETS:RUNX(ETS,Runt)",NA,NA,NA,NA,5.26,5.32,7.51,6.97,7.93,4.26
+EWS:ERG-fusion(ETS),NA,NA,NA,NA,24.09,23.41,27.53,26.79,27.65,22.2
+EWS:FLI1-fusion(ETS),NA,NA,NA,NA,22.24,22.29,25.76,25.5,25.14,19.51
+"NFAT:AP1(RHD,bZIP)",NA,NA,NA,NA,5.49,5.5,4.2,4.58,3.5,5.26
+E2A(bHLH),NA,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,29.35,29.78,31.2,31.95,31.57,27.86
+"E2A(bHLH),near_PU.1",NA,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,27.85,27.38,30.14,30.42,30.42,26.64
+TCF4(bHLH),NA,Family: E2A-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,28.89,28.73,28.46,28.8,28.76,28.62
+Hes5+M0215,Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,13.52,13.46,12.95,14.47,12.86,11.04
+bHLHE41(bHLH),Subfamily: Hairy-like factors | CACGAG,Family: Hairy-related factors | CACGAG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,25.07,24.81,25.41,26.41,24.68,21.73
+Ascl2+M5987,Subfamily: Achaete-Scute-like factors,Family: MyoD / ASC-related factors | CAGGTG,Class: Basic helix-loop-helix factors (bHLH),Superclass: Basic domains,8.43,9.13,8.93,9.17,9.16,8
+BATF(bZIP),NA,Family: B-ATF-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,16.29,14.45,14.05,14.95,16.9,17.29
+Atf1(bZIP),Subfamily: CREB-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,13.52,13.11,14.63,13.99,14.25,13.26
+Creb1+M0297,Subfamily: CREB-like factors | TGACGTCA,Family: CREB-related factors | TGACGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,14.9,14.57,16.31,16.67,16.06,12.38
+Atf3(bZIP),Subfamily: ATF-3-like factors | TGACGTCA,Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,16.52,14.86,14.32,15.43,16.98,17.35
+Fra1(bZIP),Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,14.73,12.64,12.24,13.23,14.63,15.6
+Fra2(bZIP),Subfamily: Fos factors | (TGAGTCA),Family: Fos-related factors | (TGAGTCA),Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,13.86,12.11,11.36,12.42,13.59,13.96
+AP-1(bZIP),Subfamily: Jun factors | TGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,18.31,16.38,16.31,17.24,18.71,18.57
+Jun+M0311,Subfamily: Jun factors | TGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,19.35,16.91,18.21,17.72,19.02,19.28
+JunB(bZIP),Subfamily: Jun factors | TGAGTCA,Family: Jun-related factors | TGAGTCA,Class: Basic leucine zipper factors (bZIP),Superclass: Basic domains,15.25,12.99,12.68,13.61,15.17,15.6
+E2F3(E2F),Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,17.56,17.38,17.23,19.15,16.98,13.03
+E2F6(E2F),Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,15.42,15.04,15.47,17.48,15.36,11.04
+E2f2+M0670,Subfamily: E2F,Family: E2F-related factors,Class: Fork head / winged helix factors,Superclass: Helix-turn-helix domains,31.89,31.83,32.04,34.77,30.54,25.53
+EHF(ETS),Subfamily: EHF-like factors | CCGGAAGT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,33.39,34.58,38.4,37.3,37.62,32.24
+ELF1(ETS),Subfamily: Elf-1-like factors | CCGGAAAT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,21.49,21.18,23.33,24.26,22.6,17.23
+Elf2+M0708,Subfamily: Elf-1-like factors | CCGGAAAT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,53.32,53.77,59.08,59.22,59.72,48.66
+Elf4(ETS),Subfamily: Elf-1-like factors | CCGGAAAT,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,31.95,32.24,38.05,37.06,37.54,29.03
+ETV1(ETS),Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,42.58,42.54,49.18,48.23,49.25,38.2
+ETV4(ETS),Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,37.9,37.74,44.37,44.27,44.59,32.54
+Elk1(ETS),Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,22.88,23.17,25.59,26.17,24.49,18.63
+Elk3+M0692,Subfamily: Elk-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,23.17,23.41,25.54,26.55,24.49,18.69
+ETS1(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,34.66,34.41,41.71,40.93,41.55,31.37
+Etv2(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,32,32.48,38.18,36.87,37.58,29.5
+Fli1(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,38.53,39.44,43.88,43.98,43.67,34.58
+GABPA(ETS),Subfamily: Ets-like factors | CCGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,32.93,32.88,38.18,37.97,37.97,28.8
+PU.1(ETS),Subfamily: Spi-like factors | AGAGGAAG,Family: Ets-related factors | GGAAG,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,16.87,17.91,20.24,19.82,20.56,15.48
+IRF4(IRF),NA,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,9.53,9.65,10.08,9.46,12.24,10.28
+Irf5+M1267,NA,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,26.34,25.98,27.31,24.83,29.34,26.29
+Irf6+M1266,NA,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,32.06,31.25,32.97,31.09,35.54,31.78
+Irf7+M1265,NA,Family: Interferon-regulatory factors | AAGTGAA,Class: Tryptophan cluster factors,Superclass: Helix-turn-helix domains,45,45.35,45.51,44.22,45.98,47.66
+Nfat5+M1519,NA,Family: NFAT-related factors | ATGGAAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,30.04,28.38,28.06,27.46,28.53,29.56
+Nfatc2+M1518,NA,Family: NFAT-related factors | ATGGAAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,31.54,30.02,28.81,28.51,27.8,30.72
+Nfatc3+M1517,NA,Family: NFAT-related factors | ATGGAAA,Class: Rel homology region (RHR) factors,Superclass: Immunoglobulin fold,34.32,33.06,30.18,30.18,29.77,33.7
+RUNX1(Runt),NA,Family: Runt-related factors | TGTGGT,Class: Runt domain factors,Superclass: Immunoglobulin fold,22.3,21.06,30.27,27.79,35.31,25.29
+RUNX2(Runt),NA,Family: Runt-related factors | TGTGGT,Class: Runt domain factors,Superclass: Immunoglobulin fold,19.53,17.91,24.52,22.78,30.23,20.44
+RUNX3+M5791,NA,Family: Runt-related factors | TGTGGT,Class: Runt domain factors,Superclass: Immunoglobulin fold,0.06,0.06,0.22,0.29,0.27,0.29
+STAT4(Stat),NA,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,17.1,16.56,18.21,17.19,18.64,18.63
+Stat3(Stat),NA,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,10.46,10.01,11.75,11.17,12.09,9.87
+Stat3+il21(Stat),NA,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,14.27,14.22,15.6,15.14,15.94,14.37
+Stat5a+M3985,NA,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,2.77,2.69,4.29,3.58,4.39,3.21
+Stat5b+M3990,NA,Family: STAT factors | TTCCCGGAA,Class: STAT domain factors,Superclass: Immunoglobulin fold,1.33,1.17,1.68,1.34,1.81,1.11
+Tbet(T-box),NA,Family: TBrain-related factors | AGGTGTGAA,Class: T-Box factors,Superclass: Immunoglobulin fold,20.8,19.54,25.76,24.45,26.68,20.85
+Tbr1(T-box),NA,Family: TBrain-related factors | AGGTGTGAA,Class: T-Box factors,Superclass: Immunoglobulin fold,25.53,24.11,28.68,28.75,30.92,25.76
+Tbx21(T-box),NA,Family: TBrain-related factors | AGGTGTGAA,Class: T-Box factors,Superclass: Immunoglobulin fold,18.83,17.79,23.73,23.11,24.95,19.74
+LEF1(HMG),NA,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,17.1,16.62,10.91,10.98,11.78,20.15
+Tcf4(HMG),NA,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,12.31,11.7,7.82,7.59,8.09,15.3
+Tcf7(HMG),NA,Family: TCF-7-related factors | TTCAAAG,Class: High-mobility group (HMG) domain factors,Superclass: Other all-a-helical DNA-binding domains,10.11,9.19,5.92,5.97,6.28,12.44
+Zbtb1+M0413,Subfamily: ZBTB1-like factors,Family: Factors with multiple dispersed zinc fingers,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,25.94,25.69,26.29,28.89,25.84,21.32
+Bcl6(Zf),Subfamily: BCL6 factors,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,23.34,23.17,25.36,25.02,27.07,22.78
+PRDM1(Zf),Subfamily: PRDM1-like factors | AAGTGAAAGT,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,10.8,10.42,11.36,10.79,11.82,11.04
+Zfp161+M0432,Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,28.37,28.2,26.91,29.8,25.99,21.67
+Zfp691+M0428,Subfamily: unclassified,Family: More than 3 adjacent zinc finger factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,26.57,26.33,27.84,28.7,27.34,25.06
+Egr1(Zf),Subfamily: EGR factors | GCGTGGGCG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,20.05,20.71,19.89,21.63,19.48,18.75
+KLF10(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,15.77,15.92,18.52,19.1,19.18,13.26
+KLF3(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,18.14,18.26,22.36,22.45,23.07,14.95
+KLF5(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,35.07,34.82,40.52,41.45,42.16,31.02
+KLF6(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,29.4,29.02,33.67,34.48,35.43,24.36
+Klf1+M2294,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,13.17,13.58,17.15,17.14,18.75,10.86
+Klf12+M0443,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,44.19,44.29,49.45,50.62,50.83,38.73
+Klf4(Zf),Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,11.79,12.29,16.26,16.05,17.87,9.7
+Klf7+M0405,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,43.27,43.53,48.21,49.04,49.56,37.68
+Klf8+M0421,Subfamily: Krppel-like factors | CCACACCCT,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,66.44,66.12,69.82,70.96,71.81,61.39
+KLF14(Zf),Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,43.1,43.3,47.99,49,49.06,37.91
+Sp2(Zf),Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,40.21,39.79,43.53,44.89,45.13,33.82
+Sp4+M0401,Subfamily: Sp1-like factors | GGGGCGGGG,Family: Three-zinc finger Krppel-related factors,Class: C2H2 zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,25.82,25.8,25.19,27.84,25.34,19.92
+Dmrta1+M0641,NA,Family: DMRT | TGATACATTGTTGC,Class: DM-type intertwined zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,27.61,27.79,27.71,26.74,27.65,30.84
+Dmrtc2+M0635,NA,Family: DMRT | TGATACATTGTTGC,Class: DM-type intertwined zinc finger factors,Superclass: Zinc-coordinating DNA-binding domains,27.85,26.33,26.65,26.27,26.76,29.85
+GATA3(Zf),Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,22.59,22.47,23.07,22.06,24.87,24.47
+"GATA3(Zf),DR4",Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,1.44,1.11,1.02,1,1.23,1.29
+"GATA3(Zf),DR8",Subfamily: Two zinc-finger GATA factors | AGATAA,Family: GATA-type zinc fingers,Class: Other C4 zinc finger-type factors,Superclass: Zinc-coordinating DNA-binding domains,1.16,1.11,1.1,1.1,1.19,1.05
+Gmeb1+M1550,Subfamily: GMEB,Family: GMEB | CTTCTGTATGAGCGCCAGTAT,Class: SAND domain factors,Superclass:a-Helices exposed byb-structures,47.31,47.16,46.66,49.24,46.05,42.29
+Gmeb2+M1551,Subfamily: GMEB,Family: GMEB | CTTCTGTATGAGCGCCAGTAT,Class: SAND domain factors,Superclass:a-Helices exposed byb-structures,43.33,43.12,42.64,45.13,41.43,38.49
+Smad4(MAD),Subfamily: Co-activating Smads (Co-Smad),Family: SMAD factors | GTCTAGAC,Class: SMAD/NF-1 DNA-binding domain factors,Superclass:b-Hairpin exposed by ana/b-scaffold,31.66,31.89,35.57,34.57,34.5,30.43
+Smad2(MAD),Subfamily: Regulatory Smads (R-Smad),Family: SMAD factors | GTCTAGAC,Class: SMAD/NF-1 DNA-binding domain factors,Superclass:b-Hairpin exposed by ana/b-scaffold,30.73,31.07,33.67,33.29,33,30.08

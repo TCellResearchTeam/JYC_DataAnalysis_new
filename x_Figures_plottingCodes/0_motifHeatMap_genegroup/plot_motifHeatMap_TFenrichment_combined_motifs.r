@@ -44,7 +44,7 @@ setRnames <- function(tabx){
   return(tabx)
 }
 
-plot_heatmap <- function(infile, col.pal){
+plot_heatmap <- function(infile, col.pal, sizex, sizey){
   #infile <- "vsNaive-dn_all_sig_motifs.srt_rmdup.csv"
   #col.pal <- c("lightyellow", "orange", "red")
   outname <- fnameNoPathPdf(infile)
@@ -61,19 +61,51 @@ plot_heatmap <- function(infile, col.pal){
                        cellwidth = 9, cellheight = 9, main = infile,
                        cluster_cols = FALSE, cluster_rows = FALSE)
   
-  save_pheatmap_pdf(heat.map, outname, 5, 80)
+  save_pheatmap_pdf(heat.map, outname, sizex, sizey)
 }
 
 #################### Main ####################
-wk.dir <- "/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/x_Figures_plottingCodes/0_motifHeatMap_genegroup/2_compiled_pctg_dupr"
-setwd(wk.dir)
-
-files <- list.files(path=wk.dir, pattern="*.csv", full.names=FALSE, recursive=FALSE)
-for (i in files){
-  plot_heatmap(i, c("white",brewer.pal(5,"YlOrRd"), "black"))
+if (FALSE) {
+  wk.dir <- "/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/x_Figures_plottingCodes/0_motifHeatMap_genegroup/2_compiled_pctg_dupr"
+  setwd(wk.dir)
+  
+  files <- list.files(path=wk.dir, pattern="*.csv", full.names=FALSE, recursive=FALSE)
+  for (i in files){
+    plot_heatmap(i, c("white",brewer.pal(5,"YlOrRd"), "black"), 5, 80)
+  }
 }
 
+if (TRUE) {
+  slt.genes <- read_table("/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/z_Figures/Heatmap Gene List for ATAC-Seq.txt")
+  slt.genes <- slt.genes %>% mutate(GENE = toupper(GENE))
+  
+  wk.dir <- "/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/x_Figures_plottingCodes/0_motifHeatMap_genegroup/2_compiled_pctg_dupr_slt"
+  setwd(wk.dir)
+  files <- list.files(path=wk.dir, pattern="*rmdup.csv", full.names=FALSE, recursive=FALSE)
+  
+  for (i in files){
+    out.name <- gsub(".csv", "", i)
+    out.name <- paste(out.name, "_flt.csv", sep="")
+    i.tb <- read_csv(i)
+    mtf_simp <- character(length(i.tb$motif_name))
+    for (x in c(1:length(mtf_simp))){
+      new.name <- unlist(strsplit(unlist(strsplit(i.tb$motif_name[x] , '\\('))[1], '\\+'))[1]
+      new.name <- toupper(new.name)
+      mtf_simp[x] <- new.name
+    }
+    i.tb$simp_mtf_name <- mtf_simp
+    i.tb <- i.tb %>%  filter(simp_mtf_name %in% slt.genes$GENE)
+    i.tb$simp_mtf_name <- NULL
+    write_csv(i.tb, out.name)
+    
+    if (grepl("up.srt", i)) {
+      plot_heatmap(out.name, c("white",brewer.pal(5,"YlOrRd"), "black"), 5,15)
+    } else if (grepl("dn.srt", i)) {
+      plot_heatmap(out.name, c("white",brewer.pal(5,"YlGnBu"), "black"), 5,15)
+    }
 
+  }
+}
 
 
 
