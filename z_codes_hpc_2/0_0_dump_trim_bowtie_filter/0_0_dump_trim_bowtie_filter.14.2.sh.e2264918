@@ -1,0 +1,17 @@
+352174465 reads; of these:
+  352174465 (100.00%) were paired; of these:
+    17786833 (5.05%) aligned concordantly 0 times
+    255992208 (72.69%) aligned concordantly exactly 1 time
+    78395424 (22.26%) aligned concordantly >1 times
+    ----
+    17786833 pairs aligned concordantly 0 times; of these:
+      4611851 (25.93%) aligned discordantly 1 time
+    ----
+    13174982 pairs aligned 0 times concordantly or discordantly; of these:
+      26349964 mates make up the pairs; of these:
+        21212710 (80.50%) aligned 0 times
+        1444627 (5.48%) aligned exactly 1 time
+        3692627 (14.01%) aligned >1 times
+96.99% overall alignment rate
+[bam_sort_core] merging from 287 files...
+=>> PBS: job killed: walltime 64819 exceeded limit 64800

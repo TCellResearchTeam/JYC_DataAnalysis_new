@@ -1,0 +1,18 @@
+177161873 reads; of these:
+  177161873 (100.00%) were paired; of these:
+    6383185 (3.60%) aligned concordantly 0 times
+    134183607 (75.74%) aligned concordantly exactly 1 time
+    36595081 (20.66%) aligned concordantly >1 times
+    ----
+    6383185 pairs aligned concordantly 0 times; of these:
+      647600 (10.15%) aligned discordantly 1 time
+    ----
+    5735585 pairs aligned 0 times concordantly or discordantly; of these:
+      11471170 mates make up the pairs; of these:
+        9464198 (82.50%) aligned 0 times
+        1153279 (10.05%) aligned exactly 1 time
+        853693 (7.44%) aligned >1 times
+97.33% overall alignment rate
+[bam_sort_core] merging from 145 files...
+[bam_rmdupse_core] 174451429 / 344859548 = 0.5059 in library '	'
+rm: cannot remove `SRR6248876.bam': No such file or directory

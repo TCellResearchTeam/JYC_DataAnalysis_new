@@ -1,0 +1,496 @@
+Started analysis of SRR6248869_1.fastq
+Approx 5% complete for SRR6248869_1.fastq
+Approx 10% complete for SRR6248869_1.fastq
+Approx 15% complete for SRR6248869_1.fastq
+Approx 20% complete for SRR6248869_1.fastq
+Approx 25% complete for SRR6248869_1.fastq
+Approx 30% complete for SRR6248869_1.fastq
+Approx 35% complete for SRR6248869_1.fastq
+Approx 40% complete for SRR6248869_1.fastq
+Approx 45% complete for SRR6248869_1.fastq
+Approx 50% complete for SRR6248869_1.fastq
+Approx 55% complete for SRR6248869_1.fastq
+Approx 60% complete for SRR6248869_1.fastq
+Approx 65% complete for SRR6248869_1.fastq
+Approx 70% complete for SRR6248869_1.fastq
+Approx 75% complete for SRR6248869_1.fastq
+Approx 80% complete for SRR6248869_1.fastq
+Approx 85% complete for SRR6248869_1.fastq
+Approx 90% complete for SRR6248869_1.fastq
+Approx 95% complete for SRR6248869_1.fastq
+Started analysis of SRR6248869_2.fastq
+Approx 5% complete for SRR6248869_2.fastq
+Approx 10% complete for SRR6248869_2.fastq
+Approx 15% complete for SRR6248869_2.fastq
+Approx 20% complete for SRR6248869_2.fastq
+Approx 25% complete for SRR6248869_2.fastq
+Approx 30% complete for SRR6248869_2.fastq
+Approx 35% complete for SRR6248869_2.fastq
+Approx 40% complete for SRR6248869_2.fastq
+Approx 45% complete for SRR6248869_2.fastq
+Approx 50% complete for SRR6248869_2.fastq
+Approx 55% complete for SRR6248869_2.fastq
+Approx 60% complete for SRR6248869_2.fastq
+Approx 65% complete for SRR6248869_2.fastq
+Approx 70% complete for SRR6248869_2.fastq
+Approx 75% complete for SRR6248869_2.fastq
+Approx 80% complete for SRR6248869_2.fastq
+Approx 85% complete for SRR6248869_2.fastq
+Approx 90% complete for SRR6248869_2.fastq
+Approx 95% complete for SRR6248869_2.fastq
+No quality encoding type selected. Assuming that the data provided uses Sanger encoded Phred scores (default)
+
+Path to Cutadapt set as: 'cutadapt' (default)
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+
+
+AUTO-DETECTING ADAPTER TYPE
+===========================
+Attempting to auto-detect adapter type from the first 1 million sequences of the first file (>> /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_1.fastq <<)
+
+Found perfect matches for the following adapter sequences:
+Adapter type	Count	Sequence	Sequences analysed	Percentage
+Nextera	388016	CTGTCTCTTATA	1000000	38.80
+smallRNA	0	TGGAATTCTCGG	1000000	0.00
+Illumina	0	AGATCGGAAGAGC	1000000	0.00
+Using Nextera adapter for trimming (count: 388016). Second best hit was smallRNA (count: 0)
+
+Writing report to 'SRR6248869_1.fastq_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_1.fastq
+Trimming mode: paired-end
+Trim Galore version: 0.4.1
+Cutadapt version: 1.16
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 3 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 24 bp
+
+Writing final adapter and quality trimmed output to SRR6248869_1_trimmed.fq
+
+
+  >>> Now performing quality (cutoff 20) and adapter trimming in a single pass for the adapter sequence: 'CTGTCTCTTATA' from file /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_1.fastq <<< 
+10000000 sequences processed
+20000000 sequences processed
+30000000 sequences processed
+40000000 sequences processed
+50000000 sequences processed
+60000000 sequences processed
+70000000 sequences processed
+80000000 sequences processed
+90000000 sequences processed
+100000000 sequences processed
+110000000 sequences processed
+120000000 sequences processed
+130000000 sequences processed
+140000000 sequences processed
+150000000 sequences processed
+160000000 sequences processed
+170000000 sequences processed
+180000000 sequences processed
+190000000 sequences processed
+200000000 sequences processed
+210000000 sequences processed
+220000000 sequences processed
+230000000 sequences processed
+240000000 sequences processed
+250000000 sequences processed
+260000000 sequences processed
+270000000 sequences processed
+280000000 sequences processed
+290000000 sequences processed
+300000000 sequences processed
+310000000 sequences processed
+320000000 sequences processed
+330000000 sequences processed
+340000000 sequences processed
+This is cutadapt 1.16 with Python 2.7.11
+Command line parameters: -f fastq -e 0.1 -q 20 -O 3 -a CTGTCTCTTATA /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_1.fastq
+Running on 1 core
+Trimming 1 adapter with at most 10.0% errors in single-end mode ...
+Finished in 5391.19 s (16 us/read; 3.85 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:             345,626,232
+Reads with adapters:               152,044,796 (44.0%)
+Reads written (passing filters):   345,626,232 (100.0%)
+
+Total basepairs processed: 34,908,249,432 bp
+Quality-trimmed:             407,183,148 bp (1.2%)
+Total written (filtered):  28,075,124,647 bp (80.4%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 152044796 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 12.8%
+  C: 40.1%
+  G: 25.9%
+  T: 21.1%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	4780841	5400409.9	0	4780841
+4	2418643	1350102.5	0	2418643
+5	1482410	337525.6	0	1482410
+6	1258985	84381.4	0	1258985
+7	1063495	21095.4	0	1063495
+8	1088203	5273.8	0	1088203
+9	1075683	1318.5	0	1065800 9883
+10	766984	329.6	1	726209 40775
+11	908749	82.4	1	857959 50790
+12	1094518	20.6	1	1048112 46406
+13	1104713	20.6	1	1058950 45763
+14	1210848	20.6	1	1162056 48792
+15	1451895	20.6	1	1398922 52973
+16	1383468	20.6	1	1333727 49741
+17	1844863	20.6	1	1778956 65907
+18	1136440	20.6	1	1090015 46425
+19	1266072	20.6	1	1207173 58899
+20	1176252	20.6	1	1115744 60508
+21	1204527	20.6	1	1137779 66748
+22	1214039	20.6	1	1166950 47089
+23	1187223	20.6	1	1141772 45451
+24	1262065	20.6	1	1221705 40360
+25	1708832	20.6	1	1651689 57143
+26	2042397	20.6	1	1967854 74543
+27	2335265	20.6	1	2252937 82328
+28	1490506	20.6	1	1431793 58713
+29	1815840	20.6	1	1725312 90528
+30	1723645	20.6	1	1655996 67649
+31	1151446	20.6	1	1099089 52357
+32	1670348	20.6	1	1616461 53887
+33	1141145	20.6	1	1094619 46526
+34	1739262	20.6	1	1663267 75995
+35	2165922	20.6	1	2085746 80176
+36	3238997	20.6	1	3156372 82625
+37	1503660	20.6	1	1448291 55369
+38	2646194	20.6	1	2572115 74079
+39	1606872	20.6	1	1553151 53721
+40	2025635	20.6	1	1937727 87908
+41	2134227	20.6	1	2033730 100497
+42	1959418	20.6	1	1863121 96297
+43	2964927	20.6	1	2857590 107337
+44	1662271	20.6	1	1584715 77556
+45	1845902	20.6	1	1773742 72160
+46	2352991	20.6	1	2260509 92482
+47	3644028	20.6	1	3502940 141088
+48	2686506	20.6	1	2600101 86405
+49	4154521	20.6	1	3993562 160959
+50	2303243	20.6	1	2215973 87270
+51	3225082	20.6	1	3093468 131614
+52	1893797	20.6	1	1825360 68437
+53	2474518	20.6	1	2383230 91288
+54	3186419	20.6	1	3059071 127348
+55	3359166	20.6	1	3253918 105248
+56	3556834	20.6	1	3427106 129728
+57	4736122	20.6	1	4585360 150762
+58	5868043	20.6	1	5682840 185203
+59	5553780	20.6	1	5391839 161941
+60	5363310	20.6	1	5210828 152482
+61	4608879	20.6	1	4473122 135757
+62	2876956	20.6	1	2794604 82352
+63	3614349	20.6	1	3507393 106956
+64	3852883	20.6	1	3741288 111595
+65	2891522	20.6	1	2805146 86376
+66	1996287	20.6	1	1943486 52801
+67	1033896	20.6	1	1003929 29967
+68	895501	20.6	1	866109 29392
+69	584047	20.6	1	562574 21473
+70	461519	20.6	1	442001 19518
+71	392370	20.6	1	377481 14889
+72	470413	20.6	1	452834 17579
+73	437500	20.6	1	422560 14940
+74	612659	20.6	1	592581 20078
+75	618193	20.6	1	600495 17698
+76	165095	20.6	1	158582 6513
+77	56291	20.6	1	50903 5388
+78	33836	20.6	1	30352 3484
+79	16424	20.6	1	12860 3564
+80	25084	20.6	1	20911 4173
+81	9830	20.6	1	6540 3290
+82	13938	20.6	1	10498 3440
+83	6017	20.6	1	3154 2863
+84	8328	20.6	1	3761 4567
+85	3379	20.6	1	715 2664
+86	2558	20.6	1	535 2023
+87	2455	20.6	1	168 2287
+88	2823	20.6	1	129 2694
+89	4108	20.6	1	96 4012
+90	3397	20.6	1	76 3321
+91	4429	20.6	1	129 4300
+92	3322	20.6	1	194 3128
+93	7092	20.6	1	137 6955
+94	2006	20.6	1	39 1967
+95	2434	20.6	1	45 2389
+96	1054	20.6	1	24 1030
+97	1704	20.6	1	47 1657
+98	4378	20.6	1	58 4320
+99	3163	20.6	1	72 3091
+100	1255	20.6	1	114 1141
+101	1435	20.6	1	418 1017
+
+
+RUN STATISTICS FOR INPUT FILE: /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_1.fastq
+=============================================
+345626232 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Writing report to 'SRR6248869_2.fastq_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_2.fastq
+Trimming mode: paired-end
+Trim Galore version: 0.4.1
+Cutadapt version: 1.16
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'CTGTCTCTTATA' (Nextera Transposase sequence; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 3 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 24 bp
+
+Writing final adapter and quality trimmed output to SRR6248869_2_trimmed.fq
+
+
+  >>> Now performing quality (cutoff 20) and adapter trimming in a single pass for the adapter sequence: 'CTGTCTCTTATA' from file /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_2.fastq <<< 
+10000000 sequences processed
+20000000 sequences processed
+30000000 sequences processed
+40000000 sequences processed
+50000000 sequences processed
+60000000 sequences processed
+70000000 sequences processed
+80000000 sequences processed
+90000000 sequences processed
+100000000 sequences processed
+110000000 sequences processed
+120000000 sequences processed
+130000000 sequences processed
+140000000 sequences processed
+150000000 sequences processed
+160000000 sequences processed
+170000000 sequences processed
+180000000 sequences processed
+190000000 sequences processed
+200000000 sequences processed
+210000000 sequences processed
+220000000 sequences processed
+230000000 sequences processed
+240000000 sequences processed
+250000000 sequences processed
+260000000 sequences processed
+270000000 sequences processed
+280000000 sequences processed
+290000000 sequences processed
+300000000 sequences processed
+310000000 sequences processed
+320000000 sequences processed
+330000000 sequences processed
+340000000 sequences processed
+This is cutadapt 1.16 with Python 2.7.11
+Command line parameters: -f fastq -e 0.1 -q 20 -O 3 -a CTGTCTCTTATA /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_2.fastq
+Running on 1 core
+Trimming 1 adapter with at most 10.0% errors in single-end mode ...
+Finished in 5568.21 s (16 us/read; 3.72 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:             345,626,232
+Reads with adapters:               152,251,527 (44.1%)
+Reads written (passing filters):   345,626,232 (100.0%)
+
+Total basepairs processed: 34,908,249,432 bp
+Quality-trimmed:             528,798,011 bp (1.5%)
+Total written (filtered):  27,933,900,174 bp (80.0%)
+
+=== Adapter 1 ===
+
+Sequence: CTGTCTCTTATA; Type: regular 3'; Length: 12; Trimmed: 152251527 times.
+
+No. of allowed errors:
+0-9 bp: 0; 10-12 bp: 1
+
+Bases preceding removed adapters:
+  A: 13.5%
+  C: 39.9%
+  G: 25.7%
+  T: 21.0%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+3	4600760	5400409.9	0	4600760
+4	2502232	1350102.5	0	2502232
+5	1557618	337525.6	0	1557618
+6	1173755	84381.4	0	1173755
+7	992535	21095.4	0	992535
+8	1078833	5273.8	0	1078833
+9	1237146	1318.5	0	1227870 9276
+10	606993	329.6	1	568029 38964
+11	1032591	82.4	1	976646 55945
+12	1044028	20.6	1	997251 46777
+13	1177368	20.6	1	1131675 45693
+14	1106250	20.6	1	1054847 51403
+15	1534230	20.6	1	1478972 55258
+16	1426702	20.6	1	1366017 60685
+17	1725463	20.6	1	1659417 66046
+18	1139677	20.6	1	1091246 48431
+19	1546284	20.6	1	1470021 76263
+20	1050887	20.6	1	1007460 43427
+21	1006653	20.6	1	956810 49843
+22	1318614	20.6	1	1259373 59241
+23	985227	20.6	1	945837 39390
+24	1512721	20.6	1	1455830 56891
+25	2199470	20.6	1	2112373 87097
+26	1490569	20.6	1	1437751 52818
+27	1978248	20.6	1	1911736 66512
+28	2074523	20.6	1	1994248 80275
+29	2047062	20.6	1	1991067 55995
+30	932235	20.6	1	893605 38630
+31	1311710	20.6	1	1263971 47739
+32	1962234	20.6	1	1906388 55846
+33	838326	20.6	1	798204 40122
+34	2215770	20.6	1	2160670 55100
+35	1687330	20.6	1	1631787 55543
+36	2097338	20.6	1	2047172 50166
+37	2707583	20.6	1	2612357 95226
+38	2535507	20.6	1	2454741 80766
+39	2055682	20.6	1	1992029 63653
+40	1702796	20.6	1	1643187 59609
+41	2031672	20.6	1	1961976 69696
+42	1765531	20.6	1	1701263 64268
+43	1764095	20.6	1	1692711 71384
+44	2116248	20.6	1	2030418 85830
+45	2805261	20.6	1	2713767 91494
+46	3238489	20.6	1	3161376 77113
+47	2787657	20.6	1	2692529 95128
+48	3689518	20.6	1	3582075 107443
+49	3689102	20.6	1	3606135 82967
+50	3202647	20.6	1	3110758 91889
+51	2120309	20.6	1	2056017 64292
+52	2093986	20.6	1	2033500 60486
+53	2393959	20.6	1	2330012 63947
+54	2758678	20.6	1	2682860 75818
+55	3706414	20.6	1	3615485 90929
+56	3992199	20.6	1	3889339 102860
+57	4393751	20.6	1	4290147 103604
+58	4866457	20.6	1	4757445 109012
+59	6301641	20.6	1	6176950 124691
+60	4370653	20.6	1	4269558 101095
+61	4720831	20.6	1	4617999 102832
+62	3574830	20.6	1	3491753 83077
+63	3265232	20.6	1	3191683 73549
+64	3827830	20.6	1	3740678 87152
+65	3361634	20.6	1	3283830 77804
+66	2136831	20.6	1	2083370 53461
+67	1222870	20.6	1	1189582 33288
+68	959186	20.6	1	930180 29006
+69	639946	20.6	1	619899 20047
+70	537739	20.6	1	518754 18985
+71	514884	20.6	1	499744 15140
+72	990384	20.6	1	970943 19441
+73	464168	20.6	1	452049 12119
+74	321448	20.6	1	307951 13497
+75	236111	20.6	1	224927 11184
+76	39838	20.6	1	35365 4473
+77	17379	20.6	1	12548 4831
+78	19061	20.6	1	15747 3314
+79	12190	20.6	1	8778 3412
+80	22197	20.6	1	18081 4116
+81	9480	20.6	1	6286 3194
+82	12969	20.6	1	9749 3220
+83	5604	20.6	1	2903 2701
+84	8063	20.6	1	3696 4367
+85	3325	20.6	1	695 2630
+86	2503	20.6	1	504 1999
+87	2404	20.6	1	172 2232
+88	2790	20.6	1	108 2682
+89	4064	20.6	1	96 3968
+90	3340	20.6	1	63 3277
+91	4357	20.6	1	104 4253
+92	3380	20.6	1	193 3187
+93	6665	20.6	1	123 6542
+94	1971	20.6	1	28 1943
+95	2338	20.6	1	44 2294
+96	1020	20.6	1	23 997
+97	1855	20.6	1	41 1814
+98	4214	20.6	1	74 4140
+99	2846	20.6	1	40 2806
+100	1150	20.6	1	87 1063
+101	1383	20.6	1	412 971
+
+
+RUN STATISTICS FOR INPUT FILE: /gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248869_2.fastq
+=============================================
+345626232 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Validate paired-end files SRR6248869_1_trimmed.fq and SRR6248869_2_trimmed.fq
+file_1: SRR6248869_1_trimmed.fq, file_2: SRR6248869_2_trimmed.fq
+
+
+>>>>> Now validing the length of the 2 paired-end infiles: SRR6248869_1_trimmed.fq and SRR6248869_2_trimmed.fq <<<<<
+Writing validated paired-end read 1 reads to SRR6248869_1_val_1.fq
+Writing validated paired-end read 2 reads to SRR6248869_2_val_2.fq
+
+Total number of sequences analysed: 345626232
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (24 bp): 3878062 (1.12%)
+
+Deleting both intermediate output files SRR6248869_1_trimmed.fq and SRR6248869_2_trimmed.fq
+
+====================================================================================================
+
+Started analysis of SRR6248869_1_val_1.fq
+Approx 5% complete for SRR6248869_1_val_1.fq
+Approx 10% complete for SRR6248869_1_val_1.fq
+Approx 15% complete for SRR6248869_1_val_1.fq
+Approx 20% complete for SRR6248869_1_val_1.fq
+Approx 25% complete for SRR6248869_1_val_1.fq
+Approx 30% complete for SRR6248869_1_val_1.fq
+Approx 35% complete for SRR6248869_1_val_1.fq
+Approx 40% complete for SRR6248869_1_val_1.fq
+Approx 45% complete for SRR6248869_1_val_1.fq
+Approx 50% complete for SRR6248869_1_val_1.fq
+Approx 55% complete for SRR6248869_1_val_1.fq
+Approx 60% complete for SRR6248869_1_val_1.fq
+Approx 65% complete for SRR6248869_1_val_1.fq
+Approx 70% complete for SRR6248869_1_val_1.fq
+Approx 75% complete for SRR6248869_1_val_1.fq
+Approx 80% complete for SRR6248869_1_val_1.fq
+Approx 85% complete for SRR6248869_1_val_1.fq
+Approx 90% complete for SRR6248869_1_val_1.fq
+Approx 95% complete for SRR6248869_1_val_1.fq
+Started analysis of SRR6248869_2_val_2.fq
+Approx 5% complete for SRR6248869_2_val_2.fq
+Approx 10% complete for SRR6248869_2_val_2.fq
+Approx 15% complete for SRR6248869_2_val_2.fq
+Approx 20% complete for SRR6248869_2_val_2.fq
+Approx 25% complete for SRR6248869_2_val_2.fq
+Approx 30% complete for SRR6248869_2_val_2.fq
+Approx 35% complete for SRR6248869_2_val_2.fq
+Approx 40% complete for SRR6248869_2_val_2.fq
+Approx 45% complete for SRR6248869_2_val_2.fq
+Approx 50% complete for SRR6248869_2_val_2.fq
+Approx 55% complete for SRR6248869_2_val_2.fq
+Approx 60% complete for SRR6248869_2_val_2.fq
+Approx 65% complete for SRR6248869_2_val_2.fq
+Approx 70% complete for SRR6248869_2_val_2.fq
+Approx 75% complete for SRR6248869_2_val_2.fq
+Approx 80% complete for SRR6248869_2_val_2.fq
+Approx 85% complete for SRR6248869_2_val_2.fq
+Approx 90% complete for SRR6248869_2_val_2.fq
+Approx 95% complete for SRR6248869_2_val_2.fq
+=>> PBS: job killed: walltime 64830 exceeded limit 64800

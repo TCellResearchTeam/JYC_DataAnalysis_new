@@ -1,0 +1,50 @@
+INFO  @ Fri, 19 Oct 2018 13:09:36: 
+# Command line: callpeak -t /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3.sorted.dupr.bam -f BAM -n /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3 --format BAMPE -g mm -p 0.01 --nomodel --shift 100 --extsize 200 -B --SPMR --keep-dup all --call-summits
+# ARGUMENTS LIST:
+# name = /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3
+# format = BAMPE
+# ChIP-seq file = ['/gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3.sorted.dupr.bam']
+# control file = None
+# effective genome size = 1.87e+09
+# band width = 300
+# model fold = [5, 50]
+# pvalue cutoff = 1.00e-02
+# qvalue will not be calculated and reported as -1 in the final output.
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Searching for subpeak summits is on
+# MACS will save fragment pileup signal per million reads
+ 
+INFO  @ Fri, 19 Oct 2018 13:09:36: #1 read fragment files... 
+INFO  @ Fri, 19 Oct 2018 13:09:36: #1 read treatment fragments... 
+INFO  @ Fri, 19 Oct 2018 13:09:51:  1000000 
+INFO  @ Fri, 19 Oct 2018 13:10:05:  2000000 
+INFO  @ Fri, 19 Oct 2018 13:10:20:  3000000 
+INFO  @ Fri, 19 Oct 2018 13:10:35:  4000000 
+INFO  @ Fri, 19 Oct 2018 13:10:50:  5000000 
+INFO  @ Fri, 19 Oct 2018 13:11:05:  6000000 
+INFO  @ Fri, 19 Oct 2018 13:11:20:  7000000 
+INFO  @ Fri, 19 Oct 2018 13:11:35:  8000000 
+INFO  @ Fri, 19 Oct 2018 13:11:50:  9000000 
+INFO  @ Fri, 19 Oct 2018 13:12:04:  10000000 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #1 mean fragment size is determined as 186 bp from treatment 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #1 fragment size = 186 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #1  total fragments in treatment: 10248451 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #1 finished! 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #2 Build Peak Model... 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #2 Skipped... 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #2 Use 186 as fragment length 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #3 Call peaks... 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #3 Going to call summits inside each peak ... 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #3 Call peaks with given -log10pvalue cutoff: 2.00000 ... 
+INFO  @ Fri, 19 Oct 2018 13:12:14: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Fri, 19 Oct 2018 13:12:58: #3 In the peak calling step, the following will be performed simultaneously: 
+INFO  @ Fri, 19 Oct 2018 13:12:58: #3   Write bedGraph files for treatment pileup (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3_treat_pileup.bdg 
+INFO  @ Fri, 19 Oct 2018 13:12:58: #3   Write bedGraph files for control lambda (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3_control_lambda.bdg 
+INFO  @ Fri, 19 Oct 2018 13:12:58: #3   --SPMR is requested, so pileup will be normalized by sequencing depth in million reads. 
+INFO  @ Fri, 19 Oct 2018 13:12:58: #3 Call peaks for each chromosome... 
+INFO  @ Fri, 19 Oct 2018 13:15:04: #4 Write output xls file... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3_peaks.xls 
+INFO  @ Fri, 19 Oct 2018 13:15:04: #4 Write peak in narrowPeak format file... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3_peaks.narrowPeak 
+INFO  @ Fri, 19 Oct 2018 13:15:05: #4 Write summits bed file... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Bcl6KO_Th1_rep3_summits.bed 
+INFO  @ Fri, 19 Oct 2018 13:15:05: Done! 

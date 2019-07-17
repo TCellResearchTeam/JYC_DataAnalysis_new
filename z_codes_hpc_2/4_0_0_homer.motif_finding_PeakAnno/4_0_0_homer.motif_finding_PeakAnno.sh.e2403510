@@ -1,0 +1,507 @@
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATAC_merged_peaksaa
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+	Peak/BED file conversion summary:
+		BED/Header formatted lines: 100000
+		peakfile formatted lines: 0
+		Duplicated Peak IDs: 0
+
+	Peak File Statistics:
+		Total Peaks: 100000
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Peak file looks good!
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Extracting 4824 sequences from chr10
+	Extracting 3991 sequences from chr11
+	Extracting 4570 sequences from chr12
+	Extracting 4818 sequences from chr13
+	Extracting 5659 sequences from chr14
+	Extracting 2846 sequences from chr15
+	Extracting 3528 sequences from chr16
+	Extracting 3579 sequences from chr17
+	Extracting 3346 sequences from chr18
+	Extracting 1624 sequences from chr19
+	Extracting 8078 sequences from chr1
+	Extracting 8056 sequences from chr2
+	Extracting 6522 sequences from chr3
+	Extracting 6140 sequences from chr4
+	Extracting 5827 sequences from chr5
+	Extracting 6582 sequences from chr6
+	Extracting 6649 sequences from chr7
+	Extracting 4859 sequences from chr8
+	Extracting 4981 sequences from chr9
+	Extracting 3 sequences from chrM
+	Extracting 3230 sequences from chrX
+	Extracting 288 sequences from chrY
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		Auto detected maximum sequence length of 200 bp
+		100000 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	100000 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATAC_merged_peaksab
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+	Peak/BED file conversion summary:
+		BED/Header formatted lines: 100000
+		peakfile formatted lines: 0
+		Duplicated Peak IDs: 0
+
+	Peak File Statistics:
+		Total Peaks: 100000
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Peak file looks good!
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Extracting 4439 sequences from chr10
+	Extracting 2959 sequences from chr11
+	Extracting 4137 sequences from chr12
+	Extracting 4832 sequences from chr13
+	Extracting 5936 sequences from chr14
+	Extracting 2841 sequences from chr15
+	Extracting 3598 sequences from chr16
+	Extracting 3522 sequences from chr17
+	Extracting 3283 sequences from chr18
+	Extracting 1027 sequences from chr19
+	Extracting 8243 sequences from chr1
+	Extracting 7370 sequences from chr2
+	Extracting 6314 sequences from chr3
+	Extracting 6243 sequences from chr4
+	Extracting 6338 sequences from chr5
+	Extracting 6208 sequences from chr6
+	Extracting 6066 sequences from chr7
+	Extracting 4872 sequences from chr8
+	Extracting 4290 sequences from chr9
+	Extracting 1 sequences from chrM
+	Extracting 7158 sequences from chrX
+	Extracting 323 sequences from chrY
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		Auto detected maximum sequence length of 226 bp
+		100000 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	100000 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATAC_merged_peaksac
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+	Peak/BED file conversion summary:
+		BED/Header formatted lines: 100000
+		peakfile formatted lines: 0
+		Duplicated Peak IDs: 0
+
+	Peak File Statistics:
+		Total Peaks: 100000
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Peak file looks good!
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Extracting 4903 sequences from chr10
+	Extracting 3560 sequences from chr11
+	Extracting 4455 sequences from chr12
+	Extracting 4686 sequences from chr13
+	Extracting 5584 sequences from chr14
+	Extracting 2955 sequences from chr15
+	Extracting 3700 sequences from chr16
+	Extracting 3465 sequences from chr17
+	Extracting 3319 sequences from chr18
+	Extracting 1515 sequences from chr19
+	Extracting 8873 sequences from chr1
+	Extracting 8424 sequences from chr2
+	Extracting 6880 sequences from chr3
+	Extracting 6194 sequences from chr4
+	Extracting 6022 sequences from chr5
+	Extracting 6822 sequences from chr6
+	Extracting 6645 sequences from chr7
+	Extracting 4805 sequences from chr8
+	Extracting 4947 sequences from chr9
+	Extracting 4 sequences from chrM
+	Extracting 1944 sequences from chrX
+	Extracting 298 sequences from chrY
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		Auto detected maximum sequence length of 250 bp
+		100000 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	100000 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATad_merged_peaksad
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+!!! Could not open file /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATad_merged_peaksad !!!
+
+	Peak File Statistics:
+		Total Peaks: 0
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Only 0 peaks found! If many more expected, maybe the file format is for Macs only
+	Try running the command: changeNewLine.pl "0.472911062025563.clean.pos"
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		0 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	0 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATae_merged_peaksae
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+!!! Could not open file /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATae_merged_peaksae !!!
+
+	Peak File Statistics:
+		Total Peaks: 0
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Only 0 peaks found! If many more expected, maybe the file format is for Macs only
+	Try running the command: changeNewLine.pl "0.0576705861176414.clean.pos"
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		0 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	0 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATaf_merged_peaksaf
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+!!! Could not open file /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATaf_merged_peaksaf !!!
+
+	Peak File Statistics:
+		Total Peaks: 0
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Only 0 peaks found! If many more expected, maybe the file format is for Macs only
+	Try running the command: changeNewLine.pl "0.272519364793883.clean.pos"
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		0 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	0 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATag_merged_peaksag
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+!!! Could not open file /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATag_merged_peaksag !!!
+
+	Peak File Statistics:
+		Total Peaks: 0
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Only 0 peaks found! If many more expected, maybe the file format is for Macs only
+	Try running the command: changeNewLine.pl "0.750947171197371.clean.pos"
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		0 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	0 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATai_merged_peaksai
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+!!! Could not open file /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATai_merged_peaksai !!!
+
+	Peak File Statistics:
+		Total Peaks: 0
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Only 0 peaks found! If many more expected, maybe the file format is for Macs only
+	Try running the command: changeNewLine.pl "0.475545659967796.clean.pos"
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		0 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	0 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+
+
+	Using Custom Genome
+	Peak file = /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATaj_merged_peaksaj
+	Genome = genome.fa
+	Organism = unknown
+	Motif files:
+		/gpfs/home/hdiao/homer/data/knownTFs/all/known.motifs	-m
+!!! Could not open file /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes/jycATaj_merged_peaksaj !!!
+
+	Peak File Statistics:
+		Total Peaks: 0
+		Redundant Peak IDs: 0
+		Peaks lacking information: 0 (need at least 5 columns per peak)
+		Peaks with misformatted coordinates: 0 (should be integer)
+		Peaks with misformatted strand: 0 (should be either +/- or 0/1)
+
+	Only 0 peaks found! If many more expected, maybe the file format is for Macs only
+	Try running the command: changeNewLine.pl "0.0734396491470797.clean.pos"
+
+	Extracting Sequence...
+
+	Extracting sequences from file: /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa
+	Looking for peak sequences in a single file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa)
+	Reading Positions...
+	Calculating CpG/GC Content of Peaks
+
+	Sequences processed:
+		0 total
+
+	-----------------------
+	Looking for Motifs...
+
+	Reading input files...
+	0 total sequences read
+	1439 motifs loaded
+	Finding instances of 1439 motif(s)
+	|0%                                    50%                                  100%|
+	=================================================================================
+	Finding Closest TSS...
+	Skipping TSS assignment (can't find file for genome genome.fa)
+		Can't find promoterFile /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.tss
+	Could not find basic annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Could not find full/detailed annotation file (/gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa/genome.fa.annotation)
+	Counting Tags in Peaks from each directory...
+	Organism: unknown
+	Outputing Annotation File...
+	Done annotating peaks file
+

@@ -1,0 +1,10 @@
+the local scratch directory for this session is:  /scratch/hdiao/2241436[3].garibaldi01-adm.cluster.net
+the distributed scratch directory for this session is:  /gpfs/work/hdiao/2241436[3].garibaldi01-adm.cluster.net
+Rejected 199 READS because READLEN < 1
+Read 84501073 spots for SRR5381024
+Written 84501073 spots for SRR5381024
+Analysis complete for SRR5381024_1.fastq
+Analysis complete for SRR5381024_2.fastq
+1.16
+Analysis complete for SRR5381024_1_val_1.fq
+Analysis complete for SRR5381024_2_val_2.fq

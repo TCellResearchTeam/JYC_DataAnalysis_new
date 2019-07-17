@@ -1,0 +1,118 @@
+INFO  @ Sat, 27 Oct 2018 12:54:53: 
+# Command line: callpeak -t /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879_srt_dupr.bam -f BAM -n /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879 --format BAMPE -g mm -p 0.01 --nomodel --shift 100 --extsize 200 -B --SPMR --keep-dup all --call-summits
+# ARGUMENTS LIST:
+# name = /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879
+# format = BAMPE
+# ChIP-seq file = ['/gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879_srt_dupr.bam']
+# control file = None
+# effective genome size = 1.87e+09
+# band width = 300
+# model fold = [5, 50]
+# pvalue cutoff = 1.00e-02
+# qvalue will not be calculated and reported as -1 in the final output.
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Searching for subpeak summits is on
+# MACS will save fragment pileup signal per million reads
+ 
+INFO  @ Sat, 27 Oct 2018 12:54:53: #1 read fragment files... 
+INFO  @ Sat, 27 Oct 2018 12:54:53: #1 read treatment fragments... 
+INFO  @ Sat, 27 Oct 2018 12:55:07:  1000000 
+INFO  @ Sat, 27 Oct 2018 12:55:21:  2000000 
+INFO  @ Sat, 27 Oct 2018 12:55:35:  3000000 
+INFO  @ Sat, 27 Oct 2018 12:55:49:  4000000 
+INFO  @ Sat, 27 Oct 2018 12:56:03:  5000000 
+INFO  @ Sat, 27 Oct 2018 12:56:17:  6000000 
+INFO  @ Sat, 27 Oct 2018 12:56:31:  7000000 
+INFO  @ Sat, 27 Oct 2018 12:56:44:  8000000 
+INFO  @ Sat, 27 Oct 2018 12:56:58:  9000000 
+INFO  @ Sat, 27 Oct 2018 12:57:12:  10000000 
+INFO  @ Sat, 27 Oct 2018 12:57:27:  11000000 
+INFO  @ Sat, 27 Oct 2018 12:57:41:  12000000 
+INFO  @ Sat, 27 Oct 2018 12:57:55:  13000000 
+INFO  @ Sat, 27 Oct 2018 12:58:09:  14000000 
+INFO  @ Sat, 27 Oct 2018 12:58:22:  15000000 
+INFO  @ Sat, 27 Oct 2018 12:58:37:  16000000 
+INFO  @ Sat, 27 Oct 2018 12:58:51:  17000000 
+INFO  @ Sat, 27 Oct 2018 12:59:05:  18000000 
+INFO  @ Sat, 27 Oct 2018 12:59:19:  19000000 
+INFO  @ Sat, 27 Oct 2018 12:59:34:  20000000 
+INFO  @ Sat, 27 Oct 2018 12:59:47:  21000000 
+INFO  @ Sat, 27 Oct 2018 13:00:01:  22000000 
+INFO  @ Sat, 27 Oct 2018 13:00:16:  23000000 
+INFO  @ Sat, 27 Oct 2018 13:00:30:  24000000 
+INFO  @ Sat, 27 Oct 2018 13:00:44:  25000000 
+INFO  @ Sat, 27 Oct 2018 13:00:58:  26000000 
+INFO  @ Sat, 27 Oct 2018 13:01:12:  27000000 
+INFO  @ Sat, 27 Oct 2018 13:01:26:  28000000 
+INFO  @ Sat, 27 Oct 2018 13:01:40:  29000000 
+INFO  @ Sat, 27 Oct 2018 13:01:54:  30000000 
+INFO  @ Sat, 27 Oct 2018 13:02:09:  31000000 
+INFO  @ Sat, 27 Oct 2018 13:02:23:  32000000 
+INFO  @ Sat, 27 Oct 2018 13:02:36:  33000000 
+INFO  @ Sat, 27 Oct 2018 13:02:51:  34000000 
+INFO  @ Sat, 27 Oct 2018 13:03:05:  35000000 
+INFO  @ Sat, 27 Oct 2018 13:03:19:  36000000 
+INFO  @ Sat, 27 Oct 2018 13:03:33:  37000000 
+INFO  @ Sat, 27 Oct 2018 13:03:48:  38000000 
+INFO  @ Sat, 27 Oct 2018 13:04:01:  39000000 
+INFO  @ Sat, 27 Oct 2018 13:04:16:  40000000 
+INFO  @ Sat, 27 Oct 2018 13:04:29:  41000000 
+INFO  @ Sat, 27 Oct 2018 13:04:44:  42000000 
+INFO  @ Sat, 27 Oct 2018 13:04:58:  43000000 
+INFO  @ Sat, 27 Oct 2018 13:05:12:  44000000 
+INFO  @ Sat, 27 Oct 2018 13:05:25:  45000000 
+INFO  @ Sat, 27 Oct 2018 13:05:39:  46000000 
+INFO  @ Sat, 27 Oct 2018 13:05:53:  47000000 
+INFO  @ Sat, 27 Oct 2018 13:06:07:  48000000 
+INFO  @ Sat, 27 Oct 2018 13:06:20:  49000000 
+INFO  @ Sat, 27 Oct 2018 13:06:34:  50000000 
+INFO  @ Sat, 27 Oct 2018 13:06:48:  51000000 
+INFO  @ Sat, 27 Oct 2018 13:07:02:  52000000 
+INFO  @ Sat, 27 Oct 2018 13:07:15:  53000000 
+INFO  @ Sat, 27 Oct 2018 13:07:29:  54000000 
+INFO  @ Sat, 27 Oct 2018 13:07:43:  55000000 
+INFO  @ Sat, 27 Oct 2018 13:07:57:  56000000 
+INFO  @ Sat, 27 Oct 2018 13:08:11:  57000000 
+INFO  @ Sat, 27 Oct 2018 13:08:25:  58000000 
+INFO  @ Sat, 27 Oct 2018 13:08:39:  59000000 
+INFO  @ Sat, 27 Oct 2018 13:08:53:  60000000 
+INFO  @ Sat, 27 Oct 2018 13:09:07:  61000000 
+INFO  @ Sat, 27 Oct 2018 13:09:21:  62000000 
+INFO  @ Sat, 27 Oct 2018 13:09:35:  63000000 
+INFO  @ Sat, 27 Oct 2018 13:09:48:  64000000 
+INFO  @ Sat, 27 Oct 2018 13:10:02:  65000000 
+INFO  @ Sat, 27 Oct 2018 13:10:16:  66000000 
+INFO  @ Sat, 27 Oct 2018 13:10:30:  67000000 
+INFO  @ Sat, 27 Oct 2018 13:10:44:  68000000 
+INFO  @ Sat, 27 Oct 2018 13:10:57:  69000000 
+INFO  @ Sat, 27 Oct 2018 13:11:11:  70000000 
+INFO  @ Sat, 27 Oct 2018 13:11:25:  71000000 
+INFO  @ Sat, 27 Oct 2018 13:11:39:  72000000 
+INFO  @ Sat, 27 Oct 2018 13:11:53:  73000000 
+INFO  @ Sat, 27 Oct 2018 13:12:07:  74000000 
+INFO  @ Sat, 27 Oct 2018 13:12:21:  75000000 
+INFO  @ Sat, 27 Oct 2018 13:12:34:  76000000 
+INFO  @ Sat, 27 Oct 2018 13:12:48:  77000000 
+INFO  @ Sat, 27 Oct 2018 13:13:02:  78000000 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #1 mean fragment size is determined as 288 bp from treatment 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #1 fragment size = 288 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #1  total fragments in treatment: 78534604 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #1 finished! 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #2 Build Peak Model... 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #2 Skipped... 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #2 Use 288 as fragment length 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #3 Call peaks... 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #3 Going to call summits inside each peak ... 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #3 Call peaks with given -log10pvalue cutoff: 2.00000 ... 
+INFO  @ Sat, 27 Oct 2018 13:14:45: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Sat, 27 Oct 2018 13:20:44: #3 In the peak calling step, the following will be performed simultaneously: 
+INFO  @ Sat, 27 Oct 2018 13:20:44: #3   Write bedGraph files for treatment pileup (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879_treat_pileup.bdg 
+INFO  @ Sat, 27 Oct 2018 13:20:44: #3   Write bedGraph files for control lambda (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879_control_lambda.bdg 
+INFO  @ Sat, 27 Oct 2018 13:20:44: #3   --SPMR is requested, so pileup will be normalized by sequencing depth in million reads. 
+INFO  @ Sat, 27 Oct 2018 13:20:44: #3 Call peaks for each chromosome... 
+INFO  @ Sat, 27 Oct 2018 13:37:38: #4 Write output xls file... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879_peaks.xls 
+INFO  @ Sat, 27 Oct 2018 13:37:38: #4 Write peak in narrowPeak format file... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879_peaks.narrowPeak 
+INFO  @ Sat, 27 Oct 2018 13:37:39: #4 Write summits bed file... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248879_summits.bed 
+INFO  @ Sat, 27 Oct 2018 13:37:39: Done! 

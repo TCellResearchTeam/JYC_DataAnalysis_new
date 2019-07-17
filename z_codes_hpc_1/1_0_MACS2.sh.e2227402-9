@@ -1,0 +1,60 @@
+INFO  @ Fri, 19 Oct 2018 13:09:51: 
+# Command line: callpeak -t /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1.sorted.dupr.bam -f BAM -n /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1 --format BAMPE -g mm -p 0.01 --nomodel --shift 100 --extsize 200 -B --SPMR --keep-dup all --call-summits
+# ARGUMENTS LIST:
+# name = /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1
+# format = BAMPE
+# ChIP-seq file = ['/gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1.sorted.dupr.bam']
+# control file = None
+# effective genome size = 1.87e+09
+# band width = 300
+# model fold = [5, 50]
+# pvalue cutoff = 1.00e-02
+# qvalue will not be calculated and reported as -1 in the final output.
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Searching for subpeak summits is on
+# MACS will save fragment pileup signal per million reads
+ 
+INFO  @ Fri, 19 Oct 2018 13:09:51: #1 read fragment files... 
+INFO  @ Fri, 19 Oct 2018 13:09:51: #1 read treatment fragments... 
+INFO  @ Fri, 19 Oct 2018 13:10:07:  1000000 
+INFO  @ Fri, 19 Oct 2018 13:10:23:  2000000 
+INFO  @ Fri, 19 Oct 2018 13:10:40:  3000000 
+INFO  @ Fri, 19 Oct 2018 13:10:56:  4000000 
+INFO  @ Fri, 19 Oct 2018 13:11:12:  5000000 
+INFO  @ Fri, 19 Oct 2018 13:11:28:  6000000 
+INFO  @ Fri, 19 Oct 2018 13:11:44:  7000000 
+INFO  @ Fri, 19 Oct 2018 13:12:00:  8000000 
+INFO  @ Fri, 19 Oct 2018 13:12:17:  9000000 
+INFO  @ Fri, 19 Oct 2018 13:12:34:  10000000 
+INFO  @ Fri, 19 Oct 2018 13:12:49:  11000000 
+INFO  @ Fri, 19 Oct 2018 13:13:05:  12000000 
+INFO  @ Fri, 19 Oct 2018 13:13:22:  13000000 
+INFO  @ Fri, 19 Oct 2018 13:13:38:  14000000 
+INFO  @ Fri, 19 Oct 2018 13:13:54:  15000000 
+INFO  @ Fri, 19 Oct 2018 13:14:10:  16000000 
+INFO  @ Fri, 19 Oct 2018 13:14:26:  17000000 
+INFO  @ Fri, 19 Oct 2018 13:14:42:  18000000 
+INFO  @ Fri, 19 Oct 2018 13:14:58:  19000000 
+INFO  @ Fri, 19 Oct 2018 13:15:14:  20000000 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #1 mean fragment size is determined as 162 bp from treatment 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #1 fragment size = 162 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #1  total fragments in treatment: 20915462 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #1 finished! 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #2 Build Peak Model... 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #2 Skipped... 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #2 Use 162 as fragment length 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #3 Call peaks... 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #3 Going to call summits inside each peak ... 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #3 Call peaks with given -log10pvalue cutoff: 2.00000 ... 
+INFO  @ Fri, 19 Oct 2018 13:15:42: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Fri, 19 Oct 2018 13:17:25: #3 In the peak calling step, the following will be performed simultaneously: 
+INFO  @ Fri, 19 Oct 2018 13:17:25: #3   Write bedGraph files for treatment pileup (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1_treat_pileup.bdg 
+INFO  @ Fri, 19 Oct 2018 13:17:25: #3   Write bedGraph files for control lambda (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1_control_lambda.bdg 
+INFO  @ Fri, 19 Oct 2018 13:17:25: #3   --SPMR is requested, so pileup will be normalized by sequencing depth in million reads. 
+INFO  @ Fri, 19 Oct 2018 13:17:25: #3 Call peaks for each chromosome... 
+INFO  @ Fri, 19 Oct 2018 13:22:28: #4 Write output xls file... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1_peaks.xls 
+INFO  @ Fri, 19 Oct 2018 13:22:29: #4 Write peak in narrowPeak format file... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1_peaks.narrowPeak 
+INFO  @ Fri, 19 Oct 2018 13:22:30: #4 Write summits bed file... /gpfs/home/hdiao/jycATAC/sorted_dupr_bam/Naive_rep1_summits.bed 
+INFO  @ Fri, 19 Oct 2018 13:22:31: Done! 

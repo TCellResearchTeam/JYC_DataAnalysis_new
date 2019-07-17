@@ -1,0 +1,1 @@
+cmd = jycATAC_merged_peaks.bed /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome.fa /gpfs/home/hdiao/jycATAC/GEO_ATAC/codes -size given -mask -find /gpfs/group/pipkin/jycATAC/custom.motifs.txt -preparsedDir /gpfs/home/hdiao/resources -mis 3

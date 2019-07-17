@@ -1,0 +1,247 @@
+INFO  @ Sat, 27 Oct 2018 12:54:25: 
+# Command line: callpeak -t /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862_srt_dupr.bam -f BAM -n /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862 --format BAMPE -g mm -p 0.01 --nomodel --shift 100 --extsize 200 -B --SPMR --keep-dup all --call-summits
+# ARGUMENTS LIST:
+# name = /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862
+# format = BAMPE
+# ChIP-seq file = ['/gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862_srt_dupr.bam']
+# control file = None
+# effective genome size = 1.87e+09
+# band width = 300
+# model fold = [5, 50]
+# pvalue cutoff = 1.00e-02
+# qvalue will not be calculated and reported as -1 in the final output.
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Searching for subpeak summits is on
+# MACS will save fragment pileup signal per million reads
+ 
+INFO  @ Sat, 27 Oct 2018 12:54:25: #1 read fragment files... 
+INFO  @ Sat, 27 Oct 2018 12:54:25: #1 read treatment fragments... 
+INFO  @ Sat, 27 Oct 2018 12:54:36:  1000000 
+INFO  @ Sat, 27 Oct 2018 12:54:47:  2000000 
+INFO  @ Sat, 27 Oct 2018 12:54:59:  3000000 
+INFO  @ Sat, 27 Oct 2018 12:55:11:  4000000 
+INFO  @ Sat, 27 Oct 2018 12:55:22:  5000000 
+INFO  @ Sat, 27 Oct 2018 12:55:34:  6000000 
+INFO  @ Sat, 27 Oct 2018 12:55:46:  7000000 
+INFO  @ Sat, 27 Oct 2018 12:55:58:  8000000 
+INFO  @ Sat, 27 Oct 2018 12:56:10:  9000000 
+INFO  @ Sat, 27 Oct 2018 12:56:22:  10000000 
+INFO  @ Sat, 27 Oct 2018 12:56:35:  11000000 
+INFO  @ Sat, 27 Oct 2018 12:56:47:  12000000 
+INFO  @ Sat, 27 Oct 2018 12:56:59:  13000000 
+INFO  @ Sat, 27 Oct 2018 12:57:11:  14000000 
+INFO  @ Sat, 27 Oct 2018 12:57:22:  15000000 
+INFO  @ Sat, 27 Oct 2018 12:57:34:  16000000 
+INFO  @ Sat, 27 Oct 2018 12:57:46:  17000000 
+INFO  @ Sat, 27 Oct 2018 12:57:57:  18000000 
+INFO  @ Sat, 27 Oct 2018 12:58:09:  19000000 
+INFO  @ Sat, 27 Oct 2018 12:58:21:  20000000 
+INFO  @ Sat, 27 Oct 2018 12:58:33:  21000000 
+INFO  @ Sat, 27 Oct 2018 12:58:44:  22000000 
+INFO  @ Sat, 27 Oct 2018 12:58:56:  23000000 
+INFO  @ Sat, 27 Oct 2018 12:59:08:  24000000 
+INFO  @ Sat, 27 Oct 2018 12:59:20:  25000000 
+INFO  @ Sat, 27 Oct 2018 12:59:31:  26000000 
+INFO  @ Sat, 27 Oct 2018 12:59:47:  27000000 
+INFO  @ Sat, 27 Oct 2018 13:00:04:  28000000 
+INFO  @ Sat, 27 Oct 2018 13:00:18:  29000000 
+INFO  @ Sat, 27 Oct 2018 13:00:32:  30000000 
+INFO  @ Sat, 27 Oct 2018 13:00:46:  31000000 
+INFO  @ Sat, 27 Oct 2018 13:01:00:  32000000 
+INFO  @ Sat, 27 Oct 2018 13:01:13:  33000000 
+INFO  @ Sat, 27 Oct 2018 13:01:28:  34000000 
+INFO  @ Sat, 27 Oct 2018 13:01:42:  35000000 
+INFO  @ Sat, 27 Oct 2018 13:01:56:  36000000 
+INFO  @ Sat, 27 Oct 2018 13:02:09:  37000000 
+INFO  @ Sat, 27 Oct 2018 13:02:21:  38000000 
+INFO  @ Sat, 27 Oct 2018 13:02:34:  39000000 
+INFO  @ Sat, 27 Oct 2018 13:02:48:  40000000 
+INFO  @ Sat, 27 Oct 2018 13:03:01:  41000000 
+INFO  @ Sat, 27 Oct 2018 13:03:13:  42000000 
+INFO  @ Sat, 27 Oct 2018 13:03:25:  43000000 
+INFO  @ Sat, 27 Oct 2018 13:03:37:  44000000 
+INFO  @ Sat, 27 Oct 2018 13:03:49:  45000000 
+INFO  @ Sat, 27 Oct 2018 13:04:00:  46000000 
+INFO  @ Sat, 27 Oct 2018 13:04:12:  47000000 
+INFO  @ Sat, 27 Oct 2018 13:04:25:  48000000 
+INFO  @ Sat, 27 Oct 2018 13:04:36:  49000000 
+INFO  @ Sat, 27 Oct 2018 13:04:48:  50000000 
+INFO  @ Sat, 27 Oct 2018 13:04:59:  51000000 
+INFO  @ Sat, 27 Oct 2018 13:05:10:  52000000 
+INFO  @ Sat, 27 Oct 2018 13:05:21:  53000000 
+INFO  @ Sat, 27 Oct 2018 13:05:33:  54000000 
+INFO  @ Sat, 27 Oct 2018 13:05:44:  55000000 
+INFO  @ Sat, 27 Oct 2018 13:05:55:  56000000 
+INFO  @ Sat, 27 Oct 2018 13:06:07:  57000000 
+INFO  @ Sat, 27 Oct 2018 13:06:18:  58000000 
+INFO  @ Sat, 27 Oct 2018 13:06:29:  59000000 
+INFO  @ Sat, 27 Oct 2018 13:06:41:  60000000 
+INFO  @ Sat, 27 Oct 2018 13:06:52:  61000000 
+INFO  @ Sat, 27 Oct 2018 13:07:03:  62000000 
+INFO  @ Sat, 27 Oct 2018 13:07:14:  63000000 
+INFO  @ Sat, 27 Oct 2018 13:07:25:  64000000 
+INFO  @ Sat, 27 Oct 2018 13:07:37:  65000000 
+INFO  @ Sat, 27 Oct 2018 13:07:50:  66000000 
+INFO  @ Sat, 27 Oct 2018 13:08:03:  67000000 
+INFO  @ Sat, 27 Oct 2018 13:08:16:  68000000 
+INFO  @ Sat, 27 Oct 2018 13:08:30:  69000000 
+INFO  @ Sat, 27 Oct 2018 13:08:42:  70000000 
+INFO  @ Sat, 27 Oct 2018 13:08:53:  71000000 
+INFO  @ Sat, 27 Oct 2018 13:09:05:  72000000 
+INFO  @ Sat, 27 Oct 2018 13:09:16:  73000000 
+INFO  @ Sat, 27 Oct 2018 13:09:27:  74000000 
+INFO  @ Sat, 27 Oct 2018 13:09:38:  75000000 
+INFO  @ Sat, 27 Oct 2018 13:09:50:  76000000 
+INFO  @ Sat, 27 Oct 2018 13:10:01:  77000000 
+INFO  @ Sat, 27 Oct 2018 13:10:12:  78000000 
+INFO  @ Sat, 27 Oct 2018 13:10:23:  79000000 
+INFO  @ Sat, 27 Oct 2018 13:10:35:  80000000 
+INFO  @ Sat, 27 Oct 2018 13:10:46:  81000000 
+INFO  @ Sat, 27 Oct 2018 13:10:57:  82000000 
+INFO  @ Sat, 27 Oct 2018 13:11:08:  83000000 
+INFO  @ Sat, 27 Oct 2018 13:11:19:  84000000 
+INFO  @ Sat, 27 Oct 2018 13:11:30:  85000000 
+INFO  @ Sat, 27 Oct 2018 13:11:41:  86000000 
+INFO  @ Sat, 27 Oct 2018 13:11:53:  87000000 
+INFO  @ Sat, 27 Oct 2018 13:12:05:  88000000 
+INFO  @ Sat, 27 Oct 2018 13:12:16:  89000000 
+INFO  @ Sat, 27 Oct 2018 13:12:29:  90000000 
+INFO  @ Sat, 27 Oct 2018 13:12:42:  91000000 
+INFO  @ Sat, 27 Oct 2018 13:12:53:  92000000 
+INFO  @ Sat, 27 Oct 2018 13:13:04:  93000000 
+INFO  @ Sat, 27 Oct 2018 13:13:16:  94000000 
+INFO  @ Sat, 27 Oct 2018 13:13:27:  95000000 
+INFO  @ Sat, 27 Oct 2018 13:13:38:  96000000 
+INFO  @ Sat, 27 Oct 2018 13:13:49:  97000000 
+INFO  @ Sat, 27 Oct 2018 13:14:00:  98000000 
+INFO  @ Sat, 27 Oct 2018 13:14:12:  99000000 
+INFO  @ Sat, 27 Oct 2018 13:14:24:  100000000 
+INFO  @ Sat, 27 Oct 2018 13:14:37:  101000000 
+INFO  @ Sat, 27 Oct 2018 13:14:49:  102000000 
+INFO  @ Sat, 27 Oct 2018 13:15:02:  103000000 
+INFO  @ Sat, 27 Oct 2018 13:15:15:  104000000 
+INFO  @ Sat, 27 Oct 2018 13:15:26:  105000000 
+INFO  @ Sat, 27 Oct 2018 13:15:37:  106000000 
+INFO  @ Sat, 27 Oct 2018 13:15:49:  107000000 
+INFO  @ Sat, 27 Oct 2018 13:16:00:  108000000 
+INFO  @ Sat, 27 Oct 2018 13:16:11:  109000000 
+INFO  @ Sat, 27 Oct 2018 13:16:22:  110000000 
+INFO  @ Sat, 27 Oct 2018 13:16:33:  111000000 
+INFO  @ Sat, 27 Oct 2018 13:16:45:  112000000 
+INFO  @ Sat, 27 Oct 2018 13:16:56:  113000000 
+INFO  @ Sat, 27 Oct 2018 13:17:08:  114000000 
+INFO  @ Sat, 27 Oct 2018 13:17:19:  115000000 
+INFO  @ Sat, 27 Oct 2018 13:17:30:  116000000 
+INFO  @ Sat, 27 Oct 2018 13:17:41:  117000000 
+INFO  @ Sat, 27 Oct 2018 13:17:52:  118000000 
+INFO  @ Sat, 27 Oct 2018 13:18:04:  119000000 
+INFO  @ Sat, 27 Oct 2018 13:18:15:  120000000 
+INFO  @ Sat, 27 Oct 2018 13:18:26:  121000000 
+INFO  @ Sat, 27 Oct 2018 13:18:37:  122000000 
+INFO  @ Sat, 27 Oct 2018 13:18:49:  123000000 
+INFO  @ Sat, 27 Oct 2018 13:19:00:  124000000 
+INFO  @ Sat, 27 Oct 2018 13:19:11:  125000000 
+INFO  @ Sat, 27 Oct 2018 13:19:23:  126000000 
+INFO  @ Sat, 27 Oct 2018 13:19:34:  127000000 
+INFO  @ Sat, 27 Oct 2018 13:19:46:  128000000 
+INFO  @ Sat, 27 Oct 2018 13:19:57:  129000000 
+INFO  @ Sat, 27 Oct 2018 13:20:08:  130000000 
+INFO  @ Sat, 27 Oct 2018 13:20:22:  131000000 
+INFO  @ Sat, 27 Oct 2018 13:20:37:  132000000 
+INFO  @ Sat, 27 Oct 2018 13:20:52:  133000000 
+INFO  @ Sat, 27 Oct 2018 13:21:07:  134000000 
+INFO  @ Sat, 27 Oct 2018 13:21:21:  135000000 
+INFO  @ Sat, 27 Oct 2018 13:21:33:  136000000 
+INFO  @ Sat, 27 Oct 2018 13:21:45:  137000000 
+INFO  @ Sat, 27 Oct 2018 13:21:56:  138000000 
+INFO  @ Sat, 27 Oct 2018 13:22:08:  139000000 
+INFO  @ Sat, 27 Oct 2018 13:22:19:  140000000 
+INFO  @ Sat, 27 Oct 2018 13:22:30:  141000000 
+INFO  @ Sat, 27 Oct 2018 13:22:42:  142000000 
+INFO  @ Sat, 27 Oct 2018 13:22:53:  143000000 
+INFO  @ Sat, 27 Oct 2018 13:23:04:  144000000 
+INFO  @ Sat, 27 Oct 2018 13:23:15:  145000000 
+INFO  @ Sat, 27 Oct 2018 13:23:27:  146000000 
+INFO  @ Sat, 27 Oct 2018 13:23:39:  147000000 
+INFO  @ Sat, 27 Oct 2018 13:23:51:  148000000 
+INFO  @ Sat, 27 Oct 2018 13:24:04:  149000000 
+INFO  @ Sat, 27 Oct 2018 13:24:15:  150000000 
+INFO  @ Sat, 27 Oct 2018 13:24:26:  151000000 
+INFO  @ Sat, 27 Oct 2018 13:24:37:  152000000 
+INFO  @ Sat, 27 Oct 2018 13:24:48:  153000000 
+INFO  @ Sat, 27 Oct 2018 13:24:59:  154000000 
+INFO  @ Sat, 27 Oct 2018 13:25:11:  155000000 
+INFO  @ Sat, 27 Oct 2018 13:25:22:  156000000 
+INFO  @ Sat, 27 Oct 2018 13:25:33:  157000000 
+INFO  @ Sat, 27 Oct 2018 13:25:44:  158000000 
+INFO  @ Sat, 27 Oct 2018 13:25:55:  159000000 
+INFO  @ Sat, 27 Oct 2018 13:26:06:  160000000 
+INFO  @ Sat, 27 Oct 2018 13:26:18:  161000000 
+INFO  @ Sat, 27 Oct 2018 13:26:31:  162000000 
+INFO  @ Sat, 27 Oct 2018 13:26:43:  163000000 
+INFO  @ Sat, 27 Oct 2018 13:26:56:  164000000 
+INFO  @ Sat, 27 Oct 2018 13:27:07:  165000000 
+INFO  @ Sat, 27 Oct 2018 13:27:19:  166000000 
+INFO  @ Sat, 27 Oct 2018 13:27:30:  167000000 
+INFO  @ Sat, 27 Oct 2018 13:27:41:  168000000 
+INFO  @ Sat, 27 Oct 2018 13:27:52:  169000000 
+INFO  @ Sat, 27 Oct 2018 13:28:03:  170000000 
+INFO  @ Sat, 27 Oct 2018 13:28:14:  171000000 
+INFO  @ Sat, 27 Oct 2018 13:28:25:  172000000 
+INFO  @ Sat, 27 Oct 2018 13:28:36:  173000000 
+INFO  @ Sat, 27 Oct 2018 13:28:48:  174000000 
+INFO  @ Sat, 27 Oct 2018 13:28:59:  175000000 
+INFO  @ Sat, 27 Oct 2018 13:29:10:  176000000 
+INFO  @ Sat, 27 Oct 2018 13:29:21:  177000000 
+INFO  @ Sat, 27 Oct 2018 13:29:32:  178000000 
+INFO  @ Sat, 27 Oct 2018 13:29:44:  179000000 
+INFO  @ Sat, 27 Oct 2018 13:29:59:  180000000 
+INFO  @ Sat, 27 Oct 2018 13:30:13:  181000000 
+INFO  @ Sat, 27 Oct 2018 13:30:28:  182000000 
+INFO  @ Sat, 27 Oct 2018 13:30:43:  183000000 
+INFO  @ Sat, 27 Oct 2018 13:30:56:  184000000 
+INFO  @ Sat, 27 Oct 2018 13:31:10:  185000000 
+INFO  @ Sat, 27 Oct 2018 13:31:23:  186000000 
+INFO  @ Sat, 27 Oct 2018 13:31:36:  187000000 
+INFO  @ Sat, 27 Oct 2018 13:31:50:  188000000 
+INFO  @ Sat, 27 Oct 2018 13:32:01:  189000000 
+INFO  @ Sat, 27 Oct 2018 13:32:13:  190000000 
+INFO  @ Sat, 27 Oct 2018 13:32:25:  191000000 
+INFO  @ Sat, 27 Oct 2018 13:32:37:  192000000 
+INFO  @ Sat, 27 Oct 2018 13:32:48:  193000000 
+INFO  @ Sat, 27 Oct 2018 13:33:00:  194000000 
+INFO  @ Sat, 27 Oct 2018 13:33:12:  195000000 
+INFO  @ Sat, 27 Oct 2018 13:33:24:  196000000 
+INFO  @ Sat, 27 Oct 2018 13:33:36:  197000000 
+INFO  @ Sat, 27 Oct 2018 13:33:49:  198000000 
+INFO  @ Sat, 27 Oct 2018 13:34:02:  199000000 
+INFO  @ Sat, 27 Oct 2018 13:34:15:  200000000 
+INFO  @ Sat, 27 Oct 2018 13:34:27:  201000000 
+INFO  @ Sat, 27 Oct 2018 13:34:38:  202000000 
+INFO  @ Sat, 27 Oct 2018 13:34:50:  203000000 
+INFO  @ Sat, 27 Oct 2018 13:35:01:  204000000 
+INFO  @ Sat, 27 Oct 2018 13:35:13:  205000000 
+INFO  @ Sat, 27 Oct 2018 13:35:25:  206000000 
+INFO  @ Sat, 27 Oct 2018 13:35:37:  207000000 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #1 mean fragment size is determined as 169 bp from treatment 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #1 fragment size = 169 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #1  total fragments in treatment: 207329535 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #1 finished! 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #2 Build Peak Model... 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #2 Skipped... 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #2 Use 169 as fragment length 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #3 Call peaks... 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #3 Going to call summits inside each peak ... 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #3 Call peaks with given -log10pvalue cutoff: 2.00000 ... 
+INFO  @ Sat, 27 Oct 2018 13:39:13: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Sat, 27 Oct 2018 13:51:43: #3 In the peak calling step, the following will be performed simultaneously: 
+INFO  @ Sat, 27 Oct 2018 13:51:43: #3   Write bedGraph files for treatment pileup (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862_treat_pileup.bdg 
+INFO  @ Sat, 27 Oct 2018 13:51:43: #3   Write bedGraph files for control lambda (after scaling if necessary)... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862_control_lambda.bdg 
+INFO  @ Sat, 27 Oct 2018 13:51:43: #3   --SPMR is requested, so pileup will be normalized by sequencing depth in million reads. 
+INFO  @ Sat, 27 Oct 2018 13:51:43: #3 Call peaks for each chromosome... 
+INFO  @ Sat, 27 Oct 2018 14:14:46: #4 Write output xls file... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862_peaks.xls 
+INFO  @ Sat, 27 Oct 2018 14:14:47: #4 Write peak in narrowPeak format file... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862_peaks.narrowPeak 
+INFO  @ Sat, 27 Oct 2018 14:14:48: #4 Write summits bed file... /gpfs/home/hdiao/jycATAC/GEO_ATAC/srt_dupr_bam/SRR6248862_summits.bed 
+INFO  @ Sat, 27 Oct 2018 14:14:48: Done! 

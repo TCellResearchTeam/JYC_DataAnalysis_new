@@ -1,0 +1,46 @@
+No quality encoding type selected. Assuming that the data provided uses Sanger encoded Phred scores (default)
+
+Failed to read from file '/gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248863_1.fastq' to perform sanity check
+rm: cannot remove `/gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248863_1.fastq': No such file or directory
+rm: cannot remove `/gpfs/home/hdiao/jycATAC/GEO_ATAC/SRR6248863_2.fastq': No such file or directory
+Started analysis of SRR6248863_1_val_1.fq
+Approx 5% complete for SRR6248863_1_val_1.fq
+Approx 10% complete for SRR6248863_1_val_1.fq
+Approx 15% complete for SRR6248863_1_val_1.fq
+Approx 20% complete for SRR6248863_1_val_1.fq
+Approx 25% complete for SRR6248863_1_val_1.fq
+Approx 30% complete for SRR6248863_1_val_1.fq
+Approx 35% complete for SRR6248863_1_val_1.fq
+Approx 40% complete for SRR6248863_1_val_1.fq
+Approx 45% complete for SRR6248863_1_val_1.fq
+Approx 50% complete for SRR6248863_1_val_1.fq
+Approx 55% complete for SRR6248863_1_val_1.fq
+Approx 60% complete for SRR6248863_1_val_1.fq
+Approx 65% complete for SRR6248863_1_val_1.fq
+Approx 70% complete for SRR6248863_1_val_1.fq
+Approx 75% complete for SRR6248863_1_val_1.fq
+Approx 80% complete for SRR6248863_1_val_1.fq
+Approx 85% complete for SRR6248863_1_val_1.fq
+Approx 90% complete for SRR6248863_1_val_1.fq
+Approx 95% complete for SRR6248863_1_val_1.fq
+Started analysis of SRR6248863_2_val_2.fq
+Approx 5% complete for SRR6248863_2_val_2.fq
+Approx 10% complete for SRR6248863_2_val_2.fq
+Approx 15% complete for SRR6248863_2_val_2.fq
+Approx 20% complete for SRR6248863_2_val_2.fq
+Approx 25% complete for SRR6248863_2_val_2.fq
+Approx 30% complete for SRR6248863_2_val_2.fq
+Approx 35% complete for SRR6248863_2_val_2.fq
+Approx 40% complete for SRR6248863_2_val_2.fq
+Approx 45% complete for SRR6248863_2_val_2.fq
+Approx 50% complete for SRR6248863_2_val_2.fq
+Approx 55% complete for SRR6248863_2_val_2.fq
+Approx 60% complete for SRR6248863_2_val_2.fq
+Approx 65% complete for SRR6248863_2_val_2.fq
+Approx 70% complete for SRR6248863_2_val_2.fq
+Approx 75% complete for SRR6248863_2_val_2.fq
+Approx 80% complete for SRR6248863_2_val_2.fq
+Approx 85% complete for SRR6248863_2_val_2.fq
+Approx 90% complete for SRR6248863_2_val_2.fq
+Approx 95% complete for SRR6248863_2_val_2.fq
+=>> PBS: job killed: walltime 64826 exceeded limit 64800

@@ -1,0 +1,2 @@
+[bam_rmdup] input SAM does not have header. Abort!
+stat: cannot stat `SRR6248863_srt_dupr.bam': No such file or directory
