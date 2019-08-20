@@ -1,8 +1,8 @@
 #!/bin/bash
 
-wk_dir=/home/pipkin/Documents/jycATAC_footprint2/3_pval0.1_slt_merged
+wk_dir=/home/pipkin/Documents/jycATAC_footprint2/3_pval0.1_slt_merged_2
 bam_dir=/home/pipkin/Documents/jycATAC_footprint2/source
-mpbs_dir=/home/pipkin/Documents/jycATAC_footprint2/2_pval0.1_slt_merged
+mpbs_dir=/home/pipkin/Documents/jycATAC_footprint2/2_pval0.1_slt_merged_2
 
 cd $wk_dir
 

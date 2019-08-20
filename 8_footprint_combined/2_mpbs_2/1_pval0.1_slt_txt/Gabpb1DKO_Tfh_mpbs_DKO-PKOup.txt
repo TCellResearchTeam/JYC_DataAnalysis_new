@@ -1,0 +1,1 @@
+#Name (cmd = mergePeaks -d 200 -cobound 1 ./2_mpbs_Gabpb1/DKO_Tfh_mpbs.ordered.bed /Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_Prdm1KO_Tfh-pval-0.1_up.bed)	chr	start	end	strand	stat	stat2	/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_Prdm1KO_Tfh-pval-0.1_up.bed

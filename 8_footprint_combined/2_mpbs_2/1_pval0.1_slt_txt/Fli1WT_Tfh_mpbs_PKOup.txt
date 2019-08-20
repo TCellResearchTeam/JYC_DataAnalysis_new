@@ -1,0 +1,10 @@
+#Name (cmd = mergePeaks -d 200 -cobound 1 ./2_mpbs_Fli1/WT_Tfh_mpbs.ordered.bed /Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.1_up.bed)	chr	start	end	strand	stat	stat2	/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.1_up.bed
+NR3700--MA0149.1.EWSR1-FLI1	chr14	62928399	62928416	+	0.000	0.000	Merged-chr14-62928345-50
+NR11046--MA0475.2.FLI1	chr8	25535498	25535507	-	0.000	0.000	Merged-chr8-25535520-11
+NR942--MA0149.1.EWSR1-FLI1	chr1	191097828	191097845	-	0.000	0.000	Merged-chr1-191097986-4
+NR10161--MA0149.1.EWSR1-FLI1	chr7	3289343	3289360	+	0.000	0.000	Merged-chr7-3289241-19
+NR5442--MA0475.2.FLI1	chr18	31911272	31911281	-	0.000	0.000	Merged-chr18-31911303-2
+NR5443--MA0475.2.FLI1	chr18	31911298	31911307	+	0.000	0.000	Merged-chr18-31911303-2
+NR7362--MA0149.1.EWSR1-FLI1	chr3	84772077	84772094	+	0.000	0.000	Merged-chr3-84772067-31
+NR7199--MA0149.1.EWSR1-FLI1	chr3	27322772	27322789	+	0.000	0.000	Merged-chr3-27322840-36
+NR11891--MA0149.1.EWSR1-FLI1	chr9	86624974	86624991	+	0.000	0.000	Merged-chr9-86625059-9

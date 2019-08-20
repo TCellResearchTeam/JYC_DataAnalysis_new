@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wk_dir=/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/8_footprint_combined
+wk_dir=/Volumes/Yolanda/jycATAC/JYC_DataAnalysis/8_footprint_combined/2_mpbs/1_pval_slt_txt_redo
 cd $wk_dir
 
 
