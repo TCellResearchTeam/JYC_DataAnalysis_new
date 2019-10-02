@@ -1,5 +1,6 @@
 # Do not sync large raw data...
 /0_PreProcess_largeFiles/
+/3_MACS2/xls_combined_p0.3_noshift/
 
 # Do not include Mac generated resouce fork files
 ._*
