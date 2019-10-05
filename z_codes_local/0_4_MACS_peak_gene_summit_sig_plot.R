@@ -44,13 +44,18 @@ sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name){
           panel.grid = element_blank(),
           axis.text = element_blank(),
           axis.ticks = element_blank(),
-          panel.background = element_blank(),
           axis.title.y=element_blank(),
-          axis.title.x = element_text(size = 16))
+          axis.title.x = element_text(size = 16),
+          panel.background = element_rect(fill = "transparent"), # bg of the panel
+          plot.background = element_rect(fill = "transparent", color = NA), # bg of the plot
+          panel.grid.major = element_blank(), # get rid of major grid
+          panel.grid.minor = element_blank(), # get rid of minor grid
+          legend.background = element_rect(fill = "transparent"), # get rid of legend bg
+          legend.box.background = element_rect(fill = "transparent") )# get rid of legend p
   
   out_name <- paste(gene_name, "pdf", sep=".")
   ggsave(out_name, plot = sig_peak_plot, device = "pdf",  
-         width = 20, height = 5, units = "cm")
+         width = 20, height = 5, units = "cm",bg = "transparent")
 }
 
 
