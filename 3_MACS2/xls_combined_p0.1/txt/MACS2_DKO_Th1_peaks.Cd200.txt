@@ -1,0 +1,7 @@
+chr16	45372524	45372708	185	45372591	7.00	1.80339	1.92340	0.02479	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_81378
+chr16	45389121	45390260	1140	45389224	9.00	2.79403	2.40426	0.85837	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_81379a
+chr16	45389121	45390260	1140	45389973	60.00	54.57988	14.66596	51.65741	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_81379b
+chr16	45407693	45407871	179	45407730	9.00	1.05791	1.41813	0.00000	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_81380
+chr16	45408055	45409447	1393	45408883	76.00	53.66420	10.35736	50.75249	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_81381a
+chr16	45408055	45409447	1393	45409424	12.00	1.81921	1.74482	0.03942	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_81381b
+chr16	45413588	45413754	167	45413679	19.00	6.83089	3.48913	4.67391	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_81382

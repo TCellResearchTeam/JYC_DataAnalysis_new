@@ -1,0 +1,14 @@
+chr5	113812193	113812400	208	113812263	22.00	8.57467	3.90104	6.34055	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211069
+chr5	113813747	113815030	1284	113813817	14.00	3.70218	2.52617	1.68802	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211070a
+chr5	113813747	113815030	1284	113814168	12.00	2.73493	2.18625	0.82041	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211070b
+chr5	113813747	113815030	1284	113814555	23.00	9.00099	3.96339	6.74998	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211070c
+chr5	113813747	113815030	1284	113814801	23.00	8.87752	3.91453	6.62927	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211070d
+chr5	113815315	113816360	1046	113815956	23.00	8.76968	3.87210	6.53101	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211071a
+chr5	113815315	113816360	1046	113816098	21.00	7.44977	3.54943	5.25021	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211071b
+chr5	113825416	113826043	628	113825780	56.00	27.44649	6.04909	24.81493	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211072
+chr5	113828072	113828782	711	113828388	34.00	7.83761	2.82931	5.62852	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211073
+chr5	113830251	113830774	524	113830499	55.00	21.11200	4.64353	18.58589	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211074
+chr5	113832411	113833060	650	113832728	64.00	32.93509	6.54795	30.22037	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211075
+chr5	113841918	113842980	1063	113842138	34.00	13.46477	4.40069	11.09661	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211076a
+chr5	113841918	113842980	1063	113842260	33.00	12.94789	4.33445	10.58932	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211076b
+chr5	113841918	113842980	1063	113842601	63.00	38.50621	8.14153	35.71217	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Tfh_peak_211076c

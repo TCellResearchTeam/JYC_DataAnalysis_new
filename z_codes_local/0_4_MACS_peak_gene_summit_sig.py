@@ -37,7 +37,7 @@ def simp_merge_out(in_txt):
                 wfout.writerow(newrow)
                 print("")
 
-wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.3_noshift/p_0.01/merged"
+wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01_bed/d150_merged"
 os.chdir(wkdir)
 
 for file in glob.glob("*.txt"):

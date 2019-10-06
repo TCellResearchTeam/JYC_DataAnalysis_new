@@ -1,0 +1,15 @@
+chr2	9848421	9848668	248	9848581	9.00	2.79403	2.40426	0.85837	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106253
+chr2	9867013	9867914	902	9867327	73.00	39.43810	7.09384	36.69805	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106254a
+chr2	9867013	9867914	902	9867648	69.00	35.28505	6.57185	32.59804	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106254b
+chr2	9871144	9872145	1002	9871446	65.00	25.25422	4.80692	22.70569	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106255a
+chr2	9871144	9872145	1002	9871652	66.00	25.88629	4.86245	23.32886	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106255b
+chr2	9872594	9873200	607	9872937	33.00	8.65838	3.08814	6.44301	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106256
+chr2	9875903	9876246	344	9876035	55.00	13.08930	3.09604	10.75967	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106257
+chr2	9878097	9879002	906	9878637	66.00	24.14487	4.53789	21.61304	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106258
+chr2	9879169	9879912	744	9879668	95.00	44.67826	6.18475	41.87341	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106259
+chr2	9882573	9882985	413	9882627	19.00	1.88242	1.61362	0.09803	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106260a
+chr2	9882573	9882985	413	9882849	20.00	2.16349	1.69319	0.35777	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106260b
+chr2	9883592	9883997	406	9883663	17.00	2.00916	1.69900	0.21541	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106261
+chr2	9884229	9884510	282	9884448	19.00	2.81991	1.94458	0.88299	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106262
+chr2	9889054	9890026	973	9889510	74.00	55.70401	11.37152	52.76863	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106263
+chr2	9895234	9895598	365	9895518	10.00	3.34886	2.64468	1.36384	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_DKO_Th1_peak_106264

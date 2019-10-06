@@ -60,7 +60,7 @@ sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name){
 
 
 ######################################## Main ########################################
-wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.3_noshift/q_0.05/merged"
+wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01_bed/d150_merged"
 setwd(wk.dir)
 
 pos.file <- "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv"
