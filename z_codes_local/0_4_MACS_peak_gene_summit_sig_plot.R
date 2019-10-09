@@ -60,12 +60,16 @@ sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name){
 
 
 ######################################## Main ########################################
-wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01_bed/d150_merged"
+wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_sep_p0.1_nonshift/txt/p0.01_bed/d150_merged"
 setwd(wk.dir)
 
 pos.file <- "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv"
 pos.tb <- read_csv(pos.file)
-cd_order <- rev(c("WT_Tfh", "Prdm1KO_Tfh", "WT_Th1", "Bcl6KO_Th1", "DKO_Th1", "DKO_Tfh", "Naive"))
+#cd_order <- rev(c("WT_Tfh", "Prdm1KO_Tfh", "WT_Th1", "Bcl6KO_Th1", "DKO_Th1", "DKO_Tfh", "Naive"))
+cd_order <- rev(c("WT_Tfh_rep1", "WT_Tfh_rep2", "WT_Tfh_rep3", "Prdm1KO_Tfh_rep1", "Prdm1KO_Tfh_rep2", "Prdm1KO_Tfh_rep3",
+                  "WT_Th1_rep1", "WT_Th1_rep2", "WT_Th1_rep3", "Bcl6KO_Th1_rep1", "Bcl6KO_Th1_rep2", "Bcl6KO_Th1_rep3", 
+                  "DKO_Th1_rep1", "DKO_Th1_rep2", "DKO_Th1_rep3", "DKO_Tfh_rep1", "DKO_Tfh_rep2", "DKO_Tfh_rep3", 
+                  "Naive_rep1", "Naive_rep2", "Naive_rep3"))
 
 for (i in c(1: nrow(pos.tb))) {
   gene.i <- pos.tb[i,]$gene_name[1]

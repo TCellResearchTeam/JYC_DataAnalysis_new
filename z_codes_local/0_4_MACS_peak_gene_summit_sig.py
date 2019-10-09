@@ -9,6 +9,7 @@ Created on Wed Oct  2 21:35:48 2019
 import os
 import csv
 import glob
+import pandas as pd
 
 def simp_merge_out(in_txt):
     #in_txt = "merged_Cd200.txt"
@@ -20,6 +21,7 @@ def simp_merge_out(in_txt):
             header = next(rfin)
             files = header[8:]
             files = ["_".join(f.replace("MACS2_", "").split("_")[:-1]) for f in files]
+            files = [f.replace("macs2_", "") for f in files]
             header = header[1:4] + files
             wfout.writerow(header)
             for row in rfin:
@@ -37,7 +39,11 @@ def simp_merge_out(in_txt):
                 wfout.writerow(newrow)
                 print("")
 
-wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01_bed/d150_merged"
+def find_summits(merged_csv, in_dir):
+    merged_csv = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged/merged_Cd200_simp.csv"
+    
+
+wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_sep_p0.1_nonshift/txt/p0.01_bed/d150_merged"
 os.chdir(wkdir)
 
 for file in glob.glob("*.txt"):
