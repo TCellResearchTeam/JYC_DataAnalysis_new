@@ -11,6 +11,7 @@ import csv
 import glob
 import pandas as pd
 
+####################--------------- Define functions ---------------####################
 def simp_merge_out(in_txt):
     #in_txt = "merged_Cd200.txt"
     out_file = in_txt.replace(".txt", "_simp.csv")
@@ -51,6 +52,12 @@ def find_file(g_name, f_list):
     else:
         return find_f[0]
 
+def pd_write_csv(in_tb, out_name):
+    if os.path.exists(out_name):
+        os.remove(out_name)
+        print("File exist: %s \n File removed!"%out_name)
+    in_tb.to_csv(out_name, index=False)
+
 def peak_combine(simp_csv):
     #simp_csv = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged/merged_Cxcr5_simp.csv"
     coor_csv = simp_csv.replace("simp.csv", "coor.csv")
@@ -59,7 +66,7 @@ def peak_combine(simp_csv):
     simp_tb = simp_tb.sort_values(["start"])
     coor_dict = {"chr": list(simp_tb["chr"]), "start": list(simp_tb["start"]), "end": list(simp_tb["end"])}
     coor_tb = pd.DataFrame(data=coor_dict)
-    coor_tb.to_csv(coor_csv, index=False)
+    pd_write_csv(coor_tb, coor_csv)
     
     with open(coor_csv, "r") as fin:
         with open(coor_merge_csv, "w") as fout:
@@ -185,10 +192,34 @@ def identify_peak(mg_peak_file_list, gene_coor_file, out_file):
                 row_peak_info = row[:4]
                 peak_in_range(row_peak_info, all_coor_tb, gene_coor_tb, wfout)
                 
-     
+def slt_DEseq_out(peak_slt_file, files_list):
+    #peak_slt_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+    peak_slt_file_simp = peak_slt_file.split("/")[-1]
+    pval_file = peak_slt_file_simp.replace(".csv", "_DEseq_pval.csv")
+    log2fc_file = peak_slt_file_simp.replace(".csv", "_DEseq_log2fc.csv")
+    peak_slt_tb = pd.read_csv(peak_slt_file)
+    peak_slt_pval_tb = peak_slt_tb
+    peak_slt_log2fc_tb = peak_slt_tb
+    for deseq_file in files_list:
+        #deseq_file = "/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/DEseq2Output/all.df.numx.c5-Bcl6KO_Th1_vs_Naive.csv"
+        deseq_comp = deseq_file.split("/")[-1].replace(".csv", "").split("-")[1]
+        deseq_tb = pd.read_csv(deseq_file)
+        deseq_tb = deseq_tb.rename(columns={deseq_tb.columns[0] : "matched_peak_name"})
+        pval_tb = pd.DataFrame({'matched_peak_name': deseq_tb['matched_peak_name'], 
+                                deseq_comp: deseq_tb['pvalue']})
+        log2fc_tb = pd.DataFrame({'matched_peak_name': deseq_tb['matched_peak_name'], 
+                                  deseq_comp: deseq_tb['log2FoldChange']})
+        peak_slt_pval_tb = pd.merge(peak_slt_pval_tb, pval_tb, 
+                                    on='matched_peak_name', how='left')
+        peak_slt_log2fc_tb = pd.merge(peak_slt_log2fc_tb, log2fc_tb, 
+                                    on='matched_peak_name', how='left')
+    pd_write_csv(peak_slt_pval_tb, pval_file)
+    pd_write_csv(peak_slt_log2fc_tb, log2fc_file)
+    
+    
         
     
-
+####################--------------- Main ---------------####################
 wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_sep_p0.1_nonshift/txt/p0.01_bed/d150_merged"
 os.chdir(wkdir)
 
@@ -206,10 +237,44 @@ if False:
         geneN = file.split("_")[1]
         find_summits(file, inDir, geneN)
 
-# Correlate annoated peaks to DEseq peaks
+###----- Correlate annoated peaks to DEseq peaks
 if False:
     mg_peak_file_list_use = glob.glob("{use_dir}/*_coor_merge.csv".format(use_dir="/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged"))
     gene_coor_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
     all_peak_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"  
     out_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks.csv" 
     identify_peak(mg_peak_file_list_use, gene_coor_file_use, out_file_use)
+
+
+###----- Select annotated peaks from DEseq results
+wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/2_Peak_anno"
+os.chdir(wk_dir)
+
+ref_peaks_list = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+deseq_out_dir = "/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/DEseq2Output"
+deseq_outs = glob.glob("{dir_use}/*.csv".format(dir_use=deseq_out_dir))
+slt_DEseq_out(ref_peaks_list, deseq_outs)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
