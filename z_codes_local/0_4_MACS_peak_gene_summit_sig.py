@@ -157,7 +157,7 @@ def peak_in_range(peak_identity_list, compare_peak_tab, gene_c_tab, out_writer):
                 out_writer.writerow(out_list)
                 print(out_list)
                 
-def identify_peak(mg_peak_file_list, gene_coor_file):
+def identify_peak(mg_peak_file_list, gene_coor_file, out_file):
     mg_peak_file_list = glob.glob("{use_dir}/*_coor_merge.csv".format(use_dir="/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged"))
     gene_coor_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
     all_peak_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"  
@@ -205,3 +205,11 @@ if False:
         inDir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/txt"
         geneN = file.split("_")[1]
         find_summits(file, inDir, geneN)
+
+# Correlate annoated peaks to DEseq peaks
+if False:
+    mg_peak_file_list_use = glob.glob("{use_dir}/*_coor_merge.csv".format(use_dir="/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged"))
+    gene_coor_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
+    all_peak_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"  
+    out_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks.csv" 
+    identify_peak(mg_peak_file_list_use, gene_coor_file_use, out_file_use)
