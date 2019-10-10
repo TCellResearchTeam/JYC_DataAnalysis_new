@@ -1,6 +1,6 @@
 # Do not sync large raw data...
 /0_PreProcess_largeFiles/
-/3_MACS2/
+/3_MACS2/old_trials/
 
 # Do not include Mac generated resouce fork files
 ._*

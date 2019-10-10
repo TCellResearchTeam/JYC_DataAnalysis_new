@@ -1,0 +1,15 @@
+chr5	113813747	113815063	1317	113813868	18.00	4.17831	2.48742	2.13235	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200368a
+chr5	113813747	113815063	1317	113814096	19.00	4.65106	2.61241	2.57459	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200368b
+chr5	113813747	113815063	1317	113814615	34.00	13.90821	4.54088	11.55523	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200368c
+chr5	113813747	113815063	1317	113814855	31.00	11.79929	4.15633	9.48963	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200368d
+chr5	113815274	113816208	935	113815339	14.00	2.46181	1.97046	0.59111	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200369a
+chr5	113815274	113816208	935	113815762	16.00	3.27215	2.22812	1.28298	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200369b
+chr5	113815274	113816208	935	113815998	26.00	8.65513	3.55087	6.42524	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200369c
+chr5	113824279	113824687	409	113824452	52.00	14.57974	3.48390	12.21269	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200370
+chr5	113825234	113826040	807	113825727	102.00	41.38685	5.27664	38.65394	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200371
+chr5	113826694	113826936	243	113826831	33.00	2.70699	1.65092	0.77558	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200372
+chr5	113828054	113828956	903	113828581	79.00	19.04262	3.24195	16.59668	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200373b
+chr5	113830052	113830939	888	113830469	102.00	36.27727	4.61306	33.60164	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200374
+chr5	113832460	113832987	528	113832746	93.00	37.56270	5.20620	34.87236	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200375
+chr5	113837070	113837404	335	113837205	26.00	6.93959	2.98594	4.76168	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200376
+chr5	113841900	113842981	1082	113842539	104.00	72.66479	10.71827	69.61323	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_WT_Th1_peak_200377

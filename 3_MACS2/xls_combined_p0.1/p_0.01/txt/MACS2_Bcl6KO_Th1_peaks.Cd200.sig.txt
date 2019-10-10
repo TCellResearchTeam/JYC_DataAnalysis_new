@@ -1,0 +1,3 @@
+chr16	45389121	45390308	1188	45389961	43.00	30.74328	9.25697	28.17788	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_Bcl6KO_Th1_peak_118548
+chr16	45407693	45407869	177	45407836	12.00	2.04953	1.85492	0.23904	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_Bcl6KO_Th1_peak_118549
+chr16	45408089	45409395	1307	45408974	84.00	62.52796	11.44512	59.64178	/gpfs/group/pipkin/jycATAC/sorted_dupr_bam_combined/MACS2_Bcl6KO_Th1_peak_118550
