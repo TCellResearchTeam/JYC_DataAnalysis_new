@@ -9,8 +9,11 @@ library(tidyverse)
 library(reshape2)
 
 ######################################## Self defined functions ########################################
-sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name){
+sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name, apdx, exp_window){
   window_range <- c((ts_range[1] - (ts_range[2] - ts_range[1])*1.5),  (ts_range[2] + (ts_range[2] - ts_range[1])))
+  if (exp_window){
+    window_range <- c((ts_range[1] - (ts_range[2] - ts_range[1])*1.5),  (ts_range[2] + (ts_range[2] - ts_range[1])*1.5))
+  }
   
   in_tb <- read_csv(in_file)
   in_tb$chr <- NULL
@@ -31,9 +34,13 @@ sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name){
   anno_tb$pos <- (as.numeric(anno_tb$cd) - 1 )*2 + 0.5
   anno_x <- ts_range[1] - (ts_range[2] - ts_range[1])*1.2
   
+  fill_col <- "red"
+  if (apdx == "summit") {
+    fill_col <- "blue"
+  }
   sig_peak_plot <- ggplot() +
     geom_rect(data=plot_tb, mapping=aes(xmin=start, xmax=end, ymin=((cd_num-1)*2), ymax=((cd_num-1)*2+1)),
-              fill="red", alpha=0.5) +
+              fill=fill_col, alpha=0.5) +
     geom_vline(xintercept = ts_range[1], size=0.2, alpha=0.7) +
     geom_vline(xintercept = ts_range[2], size=0.2, alpha=0.7) +
     scale_x_continuous(limits=window_range) +
@@ -53,23 +60,23 @@ sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name){
           legend.background = element_rect(fill = "transparent"), # get rid of legend bg
           legend.box.background = element_rect(fill = "transparent") )# get rid of legend p
   
-  out_name <- paste(gene_name, "pdf", sep=".")
+  out_name <- paste(gene_name, "_" , apdx, ".pdf", sep="")
   ggsave(out_name, plot = sig_peak_plot, device = "pdf",  
          width = 20, height = 5, units = "cm",bg = "transparent")
 }
 
 
 ######################################## Main ########################################
-wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_sep_p0.1_nonshift/txt/p0.01_bed/d150_merged"
+wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged"
 setwd(wk.dir)
 
 pos.file <- "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv"
 pos.tb <- read_csv(pos.file)
-#cd_order <- rev(c("WT_Tfh", "Prdm1KO_Tfh", "WT_Th1", "Bcl6KO_Th1", "DKO_Th1", "DKO_Tfh", "Naive"))
-cd_order <- rev(c("WT_Tfh_rep1", "WT_Tfh_rep2", "WT_Tfh_rep3", "Prdm1KO_Tfh_rep1", "Prdm1KO_Tfh_rep2", "Prdm1KO_Tfh_rep3",
-                  "WT_Th1_rep1", "WT_Th1_rep2", "WT_Th1_rep3", "Bcl6KO_Th1_rep1", "Bcl6KO_Th1_rep2", "Bcl6KO_Th1_rep3", 
-                  "DKO_Th1_rep1", "DKO_Th1_rep2", "DKO_Th1_rep3", "DKO_Tfh_rep1", "DKO_Tfh_rep2", "DKO_Tfh_rep3", 
-                  "Naive_rep1", "Naive_rep2", "Naive_rep3"))
+cd_order <- rev(c("WT_Tfh", "Prdm1KO_Tfh", "WT_Th1", "Bcl6KO_Th1", "DKO_Th1", "DKO_Tfh", "Naive"))
+#cd_order <- rev(c("WT_Tfh_rep1", "WT_Tfh_rep2", "WT_Tfh_rep3", "Prdm1KO_Tfh_rep1", "Prdm1KO_Tfh_rep2", "Prdm1KO_Tfh_rep3",
+#                  "WT_Th1_rep1", "WT_Th1_rep2", "WT_Th1_rep3", "Bcl6KO_Th1_rep1", "Bcl6KO_Th1_rep2", "Bcl6KO_Th1_rep3", 
+#                  "DKO_Th1_rep1", "DKO_Th1_rep2", "DKO_Th1_rep3", "DKO_Tfh_rep1", "DKO_Tfh_rep2", "DKO_Tfh_rep3", 
+#                  "Naive_rep1", "Naive_rep2", "Naive_rep3"))
 
 for (i in c(1: nrow(pos.tb))) {
   gene.i <- pos.tb[i,]$gene_name[1]
@@ -77,6 +84,18 @@ for (i in c(1: nrow(pos.tb))) {
   end.i <- pos.tb[i,]$end[1]
   range.i <- c(start.i, end.i)
   file.i <- paste(wk.dir, "/merged_", gene.i, "_simp.csv", sep="")
-  sig_peak_highlight_box(file.i, range.i, cd_order, gene.i)
+  if ((gene.i == "Tbx21") || (gene.i == "Il21")) {
+    sig_peak_highlight_box(file.i, range.i, cd_order, gene.i, "peak", TRUE)
+  }
+  else {
+    sig_peak_highlight_box(file.i, range.i, cd_order, gene.i, "peak", FALSE)
+  }
+  
+  file.i <- paste(wk.dir, "/merged_", gene.i, "_summits.csv", sep="")
+  if ((gene.i == "Tbx21") || (gene.i == "Il21")) {
+    sig_peak_highlight_box(file.i, range.i, cd_order, gene.i, "summit", TRUE)
+  }
+  else {
+    sig_peak_highlight_box(file.i, range.i, cd_order, gene.i, "summit", FALSE)
+  }
 }
-
