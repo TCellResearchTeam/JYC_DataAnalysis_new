@@ -247,13 +247,14 @@ if False:
 
 
 ###----- Select annotated peaks from DEseq results
-wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/2_Peak_anno"
-os.chdir(wk_dir)
-
-ref_peaks_list = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
-deseq_out_dir = "/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/DEseq2Output"
-deseq_outs = glob.glob("{dir_use}/*.csv".format(dir_use=deseq_out_dir))
-slt_DEseq_out(ref_peaks_list, deseq_outs)
+if False:
+    wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/2_Peak_anno"
+    os.chdir(wk_dir)
+    
+    ref_peaks_list = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+    deseq_out_dir = "/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/DEseq2Output"
+    deseq_outs = glob.glob("{dir_use}/*.csv".format(dir_use=deseq_out_dir))
+    slt_DEseq_out(ref_peaks_list, deseq_outs)
 
 
 
