@@ -165,10 +165,12 @@ def peak_in_range(peak_identity_list, compare_peak_tab, gene_c_tab, out_writer):
                 print(out_list)
                 
 def identify_peak(mg_peak_file_list, gene_coor_file, out_file):
-    mg_peak_file_list = glob.glob("{use_dir}/*_coor_merge.csv".format(use_dir="/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged"))
-    gene_coor_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
-    all_peak_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"  
-    out_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks.csv" 
+    mg_peak_file_list = glob.glob("{use_dir}/*_coor_merge.csv".format(use_dir="/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/1_xls_combined_p0.1/p_0.01/d150_merged"))
+    #gene_coor_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
+    #all_peak_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"
+    gene_coor_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_chr1.csv" 
+    all_peak_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr1.bed"  
+    out_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_chr1.csv" 
     
     gene_coor_tb = pd.read_csv(gene_coor_file)
     all_coor_tb = pd.read_csv(mg_peak_file_list[0])
@@ -220,10 +222,10 @@ def slt_DEseq_out(peak_slt_file, files_list):
         
     
 ####################--------------- Main ---------------####################
-wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_sep_p0.1_nonshift/txt/p0.01_bed/d150_merged"
-os.chdir(wkdir)
 
 if False:
+    wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_sep_p0.1_nonshift/txt/p0.01_bed/d150_merged"
+    os.chdir(wkdir)
     for file in glob.glob("*.txt"):
         simp_merge_out(file)
         
