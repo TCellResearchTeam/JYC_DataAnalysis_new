@@ -12,7 +12,7 @@ library(reshape2)
 sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name, apdx, exp_window){
   window_range <- c((ts_range[1] - (ts_range[2] - ts_range[1])*1.5),  (ts_range[2] + (ts_range[2] - ts_range[1])))
   if (exp_window){
-    window_range <- c((ts_range[1] - (ts_range[2] - ts_range[1])*1.5),  (ts_range[2] + (ts_range[2] - ts_range[1])*1.5))
+    window_range <- c((ts_range[1] - (ts_range[2] - ts_range[1])*6),  (ts_range[2] + (ts_range[2] - ts_range[1])*6))
   }
   
   in_tb <- read_csv(in_file)
@@ -67,7 +67,7 @@ sig_peak_highlight_box <- function(in_file, ts_range, cd_order, gene_name, apdx,
 
 
 ######################################## Main ########################################
-wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged"
+wk.dir <- "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/1_xls_combined_p0.1/p_0.01/d150_merged"
 setwd(wk.dir)
 
 pos.file <- "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv"
@@ -78,21 +78,21 @@ cd_order <- rev(c("WT_Tfh", "Prdm1KO_Tfh", "WT_Th1", "Bcl6KO_Th1", "DKO_Th1", "D
 #                  "DKO_Th1_rep1", "DKO_Th1_rep2", "DKO_Th1_rep3", "DKO_Tfh_rep1", "DKO_Tfh_rep2", "DKO_Tfh_rep3", 
 #                  "Naive_rep1", "Naive_rep2", "Naive_rep3"))
 
+gene.expand.window <- c("Il21", "Tcf7", "Icos", "Cd200", "Tbx21")
 for (i in c(1: nrow(pos.tb))) {
   gene.i <- pos.tb[i,]$gene_name[1]
   start.i <- pos.tb[i,]$start[1]
   end.i <- pos.tb[i,]$end[1]
   range.i <- c(start.i, end.i)
   file.i <- paste(wk.dir, "/merged_", gene.i, "_simp.csv", sep="")
-  if ((gene.i == "Tbx21") || (gene.i == "Il21")) {
+  if (gene.i %in% gene.expand.window) {
     sig_peak_highlight_box(file.i, range.i, cd_order, gene.i, "peak", TRUE)
-  }
-  else {
+  } else {
     sig_peak_highlight_box(file.i, range.i, cd_order, gene.i, "peak", FALSE)
   }
   
   file.i <- paste(wk.dir, "/merged_", gene.i, "_summits.csv", sep="")
-  if ((gene.i == "Tbx21") || (gene.i == "Il21")) {
+  if (gene.i %in% gene.expand.window) {
     sig_peak_highlight_box(file.i, range.i, cd_order, gene.i, "summit", TRUE)
   }
   else {

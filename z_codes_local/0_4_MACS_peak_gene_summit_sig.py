@@ -224,18 +224,19 @@ def slt_DEseq_out(peak_slt_file, files_list):
 ####################--------------- Main ---------------####################
 
 if False:
-    wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_sep_p0.1_nonshift/txt/p0.01_bed/d150_merged"
+    wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/1_xls_combined_p0.1/p_0.01/d150_merged"
     os.chdir(wkdir)
     for file in glob.glob("*.txt"):
         simp_merge_out(file)
         
 if False:
-    wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/d150_merged"
+    wkdir = "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/1_xls_combined_p0.1/p_0.01/d150_merged"
     os.chdir(wkdir)
     
-    for file in glob.glob("*simp.csv"): 
+    for file in glob.glob("*simp.csv"):
+        print(file)
         peak_combine(file)
-        inDir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/xls_combined_p0.1/p_0.01/txt"
+        inDir = "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/1_xls_combined_p0.1/p_0.01/txt"
         geneN = file.split("_")[1]
         find_summits(file, inDir, geneN)
 
