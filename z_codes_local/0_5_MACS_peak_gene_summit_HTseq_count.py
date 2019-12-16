@@ -105,3 +105,59 @@ if False:
     p_val_file = "tpm_genePeaks_t-test_pval.csv"
     fc_tb.to_csv(fc_tb_file, index=False)
     p_val_tb.to_csv(p_val_file, index=False)
+
+###----- Perform t-test: Tfh --vs-- Th1
+# Tfh: WT & Prdm1KO
+# Th1: WT & Bcl6KO
+if False:
+    wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/2_Peak_anno/0_HTseq_count_t-test"
+    os.chdir(wk_dir)
+    
+    tpm_all_file = "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/2_Peak_anno/0_HTseq_count_t-test/tpm_genePeaks_compiled.csv"
+    tpm_all_tb = pd.read_csv(tpm_all_file)
+    tpm_all_tb_colnames = list(tpm_all_tb.columns)
+    
+    peak_info = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+    peak_info_tb = pd.read_csv(peak_info)
+    peak_info_tb.rename(columns={"matched_peak_name": "peak_name"}, inplace=True)
+    
+    cd_types = list(set(["_".join(i.split("_")[:-1]) for i in list(tpm_all_tb.columns[1:])]))
+    cd_dict = {}
+    for cd_type in cd_types:
+        cd_type_use = cd_type + "_"
+        cd_type_index = [index for index, i in enumerate(tpm_all_tb_colnames) if cd_type_use in i]
+        cd_dict[cd_type] = cd_type_index
+    
+    cd_dict_tfhth1 = {"Tfh": cd_dict["WT_Tfh"] + cd_dict["Prdm1KO_Tfh"],
+                       "Th1": cd_dict["WT_Th1"] + cd_dict["Bcl6KO_Th1"]}
+    cd_types_tfhth1 = list(cd_dict_tfhth1.keys())
+    
+    
+    fc_tb = pd.DataFrame({"peak_name": tpm_all_tb["peak_name"]})
+    p_val_tb = pd.DataFrame({"peak_name": tpm_all_tb["peak_name"]})
+    for i in range(0, len(cd_types_tfhth1)):
+        for j in range(i+1, len(cd_types_tfhth1)):
+            tp_i = cd_types_tfhth1[i]
+            tp_j = cd_types_tfhth1[j]
+            cp_name = "__vs__".join([cd_types_tfhth1[i], cd_types_tfhth1[j]])
+            fc_list = []
+            p_list = []
+            for k in range(0, len(tpm_all_tb)):
+                row_k = list(tpm_all_tb.iloc[k])
+                val_i = [row_k[x] for x in cd_dict_tfhth1[tp_i]]
+                val_j = [row_k[x] for x in cd_dict_tfhth1[tp_j]]
+                val_i = [float(x) for x in val_i]
+                val_j = [float(x) for x in val_j]
+                fc = (sum(val_i)/len(val_i) + 0.1) / (sum(val_j)/len(val_j) + 0.1)
+                pval = stats.ttest_ind(val_i, val_j).pvalue
+                fc_list.append(fc)
+                p_list.append(pval)
+            fc_tb[cp_name] = fc_list
+            p_val_tb[cp_name] = p_list
+    
+    fc_tb = pd.merge(peak_info_tb, fc_tb, on = "peak_name", how = "left")
+    p_val_tb = pd.merge(peak_info_tb, p_val_tb, on = "peak_name", how = "left")            
+    fc_tb_file = "tpm_genePeaks_t-test_foldChange_TfhTh1.csv"
+    p_val_file = "tpm_genePeaks_t-test_pval_TfhTh1.csv"
+    fc_tb.to_csv(fc_tb_file, index=False)
+    p_val_tb.to_csv(p_val_file, index=False)
