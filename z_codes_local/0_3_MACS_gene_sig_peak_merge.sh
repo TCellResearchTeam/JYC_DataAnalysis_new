@@ -1,6 +1,6 @@
 #!/bin/bash
 
-gene_list=(Cd200 Cxcr5 Gata3 Icos Il21 Pdcd1 Selplg Tbx21 Tcf7)
+gene_list=(Cd200 Cxcr5 Gata3 Icos Il21 Pdcd1 Selplg Tbx21 Tcf7 Runx2 Runx3 Klf2)
 
 for i in ${gene_list[@]}
 do
