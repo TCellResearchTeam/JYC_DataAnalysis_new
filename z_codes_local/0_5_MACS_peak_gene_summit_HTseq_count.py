@@ -21,7 +21,7 @@ if False:
     wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/2_Peak_anno/0_HTseq_count_t-test/input"
     os.chdir(wk_dir)
     
-    peak_list_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+    peak_list_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
     peak_list_tb = pd.read_csv(peak_list_file)
     peak_list = list(peak_list_tb["matched_peak_name"])
        
@@ -117,7 +117,7 @@ if False:
     tpm_all_tb = pd.read_csv(tpm_all_file)
     tpm_all_tb_colnames = list(tpm_all_tb.columns)
     
-    peak_info = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+    peak_info = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
     peak_info_tb = pd.read_csv(peak_info)
     peak_info_tb.rename(columns={"matched_peak_name": "peak_name"}, inplace=True)
     

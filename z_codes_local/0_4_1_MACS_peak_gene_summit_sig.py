@@ -10,8 +10,16 @@ import os
 import csv
 import glob
 import pandas as pd
+import time
 
 ####################--------------- Define functions ---------------####################
+def string_contains_elementoflist(in_str, in_list):
+    contains = False
+    for i in in_list:
+        if i in in_str:
+            contains = True
+    return(contains)
+    
 def simp_merge_out(in_txt):
     #in_txt = "merged_Cd200.txt"
     out_file = in_txt.replace(".txt", "_simp.csv")
@@ -164,15 +172,14 @@ def peak_in_range(peak_identity_list, compare_peak_tab, gene_c_tab, out_writer):
                 out_writer.writerow(out_list)
                 print(out_list)
                 
-def identify_peak(mg_peak_file_list, gene_coor_file, out_file):
-    all_peak_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"
+def identify_peak(gene_coor_tb, mg_peak_file_list, out_file, all_peak_file):
+    #all_peak_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"
     #mg_peak_file_list = glob.glob("{use_dir}/*_coor_merge.csv".format(use_dir="/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/1_xls_combined_p0.1/p_0.01/d150_merged"))
     #gene_coor_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
     #gene_coor_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
     #all_peak_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr1.bed"  
     #out_file = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_chr1.csv" 
     
-    gene_coor_tb = pd.read_csv(gene_coor_file)
     all_coor_tb = pd.read_csv(mg_peak_file_list[0])
     all_coor_tb_genes = []
     gene_i = gn_from_coor_file(mg_peak_file_list[0])
@@ -244,19 +251,47 @@ if False:
 ####---------- Correlate with DEseq.... 
 ###----- Correlate annoated peaks to DEseq peaks
 if False:
+    wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci"
+    os.chdir(wk_dir)
     mg_peak_file_list_use = glob.glob("{use_dir}/*_coor_merge.csv".format(use_dir="/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/1_xls_combined_p0.1/p_0.01/d150_merged"))
+    peak_file_use_base = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chrs/jycATAC_merged_peaks"
     gene_coor_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci.csv" 
-    all_peak_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/jycATAC_merged_peaks_chr-slt.bed"  
-    out_file_use = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks.csv" 
-    identify_peak(mg_peak_file_list_use, gene_coor_file_use, out_file_use)
-
+    gene_coor_tb_use = pd.read_csv(gene_coor_file_use)
+    gene_coor_tb_use_chrs = list(set(gene_coor_tb_use["chr"]))
+    start_time = time.time()
+    for chr_i in gene_coor_tb_use_chrs:
+        #chr_i = "chr1"
+        gene_coor_tb_i = gene_coor_tb_use[gene_coor_tb_use['chr'] == chr_i]
+        genes_i = list(set(gene_coor_tb_i['gene_name']))
+        mg_peak_file_list_i = [i for i in mg_peak_file_list_use if string_contains_elementoflist(i, genes_i)]
+        peak_file_i = peak_file_use_base + "_" + chr_i + ".bed"
+        out_file_i = chr_i + ".csv"
+        identify_peak(gene_coor_tb_i, mg_peak_file_list_i, out_file_i, peak_file_i)
+    end_time = time.time()
+    
+    #--- Merge all gene peak files
+    all_peak_files = glob.glob("chr*.csv")
+    out_file_name = "0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+    with open(out_file_name, "w") as fout:
+        wfout = csv.writer(fout, delimiter=",")
+        wfout.writerow(["pos", "gene_name", "chr", "start", "end", "matched_peak_name"])
+        for file_i in all_peak_files:
+            with open(file_i, "r") as fin:
+                rfin = csv.reader(fin, delimiter=",")
+                next(rfin)
+                for row in rfin:
+                    new_row = [row[0], row[1], row[2], row[5], row[6], row[4]]
+                    wfout.writerow(new_row)
+                
+    
+    
 
 ###----- Select annotated peaks from DEseq results
 if False:
-    wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/3_MACS2/2_Peak_anno"
+    wk_dir = "/Volumes/Yolanda/JYC_DataAnalysis/2_MACS2/2_Peak_anno"
     os.chdir(wk_dir)
     
-    ref_peaks_list = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
+    ref_peaks_list = "/Volumes/Yolanda/JYC_DataAnalysis/z_codes_local/0_1_MACS_peak_find_genes_transcript_loci/0_1_MACS_peak_find_genes_transcript_loci_AllMergedPeaks_fixed.csv"
     deseq_out_dir = "/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/DEseq2Output"
     deseq_outs = glob.glob("{dir_use}/*.csv".format(dir_use=deseq_out_dir))
     slt_DEseq_out(ref_peaks_list, deseq_outs)
