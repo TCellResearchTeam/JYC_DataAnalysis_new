@@ -1,2 +1,0 @@
-sort: open failed: /gpfs/home/hdiao/jycATAC/GEO_ATAC/MACS2/pileup_bdg/SRR6248863_treat_pileup.bdg: No such file or directory
-needLargeMem: trying to allocate 0 bytes (limit: 100000000000)

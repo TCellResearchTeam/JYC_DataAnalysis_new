@@ -1,7 +1,0 @@
-Motif Name	Consensus	P-value	Log P-value	q-value (Benjamini)	# of Target Sequences with Motif(of 476)	% of Target Sequences with Motif	# of Background Sequences with Motif(of 49372)	% of Background Sequences with Motif
-Bcl6+PB0006-1	WCTTTCKAGGAATHHV	1e0	-1.810e+00	0.9821	7.0	1.47%	464.1	0.94%
-Bcl6+PB0110-1	HNNSCCGCCCCWNAHM	1e0	-1.210e+00	0.9821	50.0	10.50%	4798.0	9.70%
-Bcl6(Zf)/Liver-Bcl6-ChIP-Seq(GSE31578)/Homer	NNNCTTTCCAGGAAA	1e0	-8.353e-01	0.9821	114.0	23.95%	11641.9	23.54%
-Bcl6+MA0463-1	KTTCCTRGAAAGCW	1e0	-3.785e-01	0.9821	10.0	2.10%	1165.0	2.36%
-Bcl6+M2265	WGCTTTCYAGGAAM	1e0	-3.785e-01	0.9821	10.0	2.10%	1165.0	2.36%
-Bcl6b+M0391	NYCTAGAAARAN	1e0	-2.862e-01	0.9821	361.0	75.84%	38097.5	77.03%

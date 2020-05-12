@@ -1,1 +1,0 @@
-cmd = BCL6_TFHpeaklist_sorted_sc.bed /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome.fa BCL6_TFHpeaklist_sorted_sc_cb_mtfs -size given -mask -preparsedDir /gpfs/home/hdiao/resources -mis 2

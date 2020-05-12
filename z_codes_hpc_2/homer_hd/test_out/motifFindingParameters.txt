@@ -1,1 +1,0 @@
-cmd = /gpfs/group/pipkin/jycATAC/DEseq2/pval-0.05-updn/bed/all.df.numx.c5-STAT4_WT_Tfh_vs_WT_Tfh-pval-0.05_up.bed /gpfs/group/databases/Mus_musculus/UCSC/mm10/Sequence/Bowtie2Index/genome.fa test_out -size given -mask -preparsedDir /gpfs/home/hdiao/resources -mis 3

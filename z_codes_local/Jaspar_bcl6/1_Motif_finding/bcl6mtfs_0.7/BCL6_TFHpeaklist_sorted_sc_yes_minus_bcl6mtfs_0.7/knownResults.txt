@@ -1,6 +1,0 @@
-Motif Name	Consensus	P-value	Log P-value	q-value (Benjamini)	# of Target Sequences with Motif(of 230)	% of Target Sequences with Motif	# of Background Sequences with Motif(of 49724)	% of Background Sequences with Motif
-Bcl6+PB0006-1	WCTTTCKAGGAATHHV	1e0	-2.134e+00	0.5919	55.0	23.91%	10208.3	20.53%
-Bcl6+MA0463-1	KTTCCTRGAAAGCW	1e0	-1.944e+00	0.5919	59.0	25.65%	11185.9	22.50%
-Bcl6+M2265	WGCTTTCYAGGAAM	1e0	-1.944e+00	0.5919	59.0	25.65%	11185.9	22.50%
-Bcl6b+M0391	NYCTAGAAARAN	1e0	-6.463e-01	0.6550	226.0	98.26%	48743.3	98.03%
-Bcl6+PB0110-1	HNNSCCGCCCCWNAHM	1e0	-2.864e-01	0.7510	90.0	39.13%	20446.6	41.12%
