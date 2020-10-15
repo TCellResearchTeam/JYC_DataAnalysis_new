@@ -1,0 +1,2 @@
+Motif	Num	Protection_Score_DKO	Protection_Score_Bcl6KO	TC_DKO	TC_Bcl6KO	TF_Activity	Z_score	P_values
+MA0095.2.YY1	52	0.1539184	0.11336431	0.41700155	0.415251	-0.04230464994907379	nan	nan

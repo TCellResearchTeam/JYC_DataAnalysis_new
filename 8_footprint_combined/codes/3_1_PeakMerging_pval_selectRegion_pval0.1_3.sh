@@ -1,6 +1,6 @@
 #!/bin/bash
 
-wk_dir='/media/pipkin/Yolanda/JYC_DataAnalysis_new/8_footprint_combined/2_mpbs_2/0_TFs'
+wk_dir=/media/pipkin/Yolanda/JYC_DataAnalysis_new/8_footprint_combined/2_mpbs_3/0_TFs
 cd $wk_dir
 
 
@@ -13,26 +13,26 @@ done
 
 
 ##### Reference peak files -- P-Val (DEseq2)
-DKO_WT_up_Tfh=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_WT_Tfh-pval-0.1_up.bed
-DKO_WT_dn_Tfh=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_WT_Tfh-pval-0.1_dn.bed
+DKO_WT_up_Tfh=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_WT_Tfh-pval-0.1_up.bed
+DKO_WT_dn_Tfh=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_WT_Tfh-pval-0.1_dn.bed
 
-DKO_WT_up_Th1=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_WT_Th1-pval-0.1_up.bed
-DKO_WT_dn_Th1=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_WT_Th1-pval-0.1_dn.bed
+DKO_WT_up_Th1=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_WT_Th1-pval-0.1_up.bed
+DKO_WT_dn_Th1=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_WT_Th1-pval-0.1_dn.bed
 
-PKO_WT_up_Tfh=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.1_up.bed
-PKO_WT_dn_Tfh=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.1_dn.bed
+PKO_WT_up_Tfh=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.1_up.bed
+PKO_WT_dn_Tfh=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Prdm1KO_Tfh_vs_WT_Tfh-pval-0.1_dn.bed
 
-BKO_WT_up_Th1=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Bcl6KO_Th1_vs_WT_Th1-pval-0.1_up.bed
-BKO_WT_dn_Th1=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Bcl6KO_Th1_vs_WT_Th1-pval-0.1_dn.bed
+BKO_WT_up_Th1=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Bcl6KO_Th1_vs_WT_Th1-pval-0.1_up.bed
+BKO_WT_dn_Th1=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-Bcl6KO_Th1_vs_WT_Th1-pval-0.1_dn.bed
 
-WTTfh_WTTh1_up=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-WT_Tfh_vs_WT_Th1-pval-0.1_up.bed
-WTTfh_WTTh1_dn=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-WT_Tfh_vs_WT_Th1-pval-0.1_dn.bed
+WTTfh_WTTh1_up=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-WT_Tfh_vs_WT_Th1-pval-0.1_up.bed
+WTTfh_WTTh1_dn=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-WT_Tfh_vs_WT_Th1-pval-0.1_dn.bed
 
-DKO_PKO_up=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_Prdm1KO_Tfh-pval-0.1_up.bed
-DKO_PKO_dn=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_Prdm1KO_Tfh-pval-0.1_dn.bed
+DKO_PKO_up=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_Prdm1KO_Tfh-pval-0.1_up.bed
+DKO_PKO_dn=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Tfh_vs_Prdm1KO_Tfh-pval-0.1_dn.bed
 
-DKO_BKO_up=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_Bcl6KO_Th1-pval-0.1_up.bed
-DKO_BKO_dn=/Volumes/Yolanda/JYC_DataAnalysis/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_Bcl6KO_Th1-pval-0.1_dn.bed
+DKO_BKO_up=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_Bcl6KO_Th1-pval-0.1_up.bed
+DKO_BKO_dn=/media/pipkin/Yolanda/JYC_DataAnalysis_new/4_DEseq2/pval-0.1_selected/pval-0.1_updn/all.df.numx.c5-DKO_Th1_vs_Bcl6KO_Th1-pval-0.1_dn.bed
 
 ##### Merge peaks
 for i in $(find . -type f -name "WT_Th1*ordered.bed")

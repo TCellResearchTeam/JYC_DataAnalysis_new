@@ -1,0 +1,2 @@
+Motif	Num	Protection_Score_DKO	Protection_Score_Prdm1KO	TC_DKO	TC_Prdm1KO	TF_Activity	Z_score	P_values
+MA0095.2.YY1	41	0.16533956	0.24888763	0.5064715	0.50808716	0.08516371250152588	nan	nan

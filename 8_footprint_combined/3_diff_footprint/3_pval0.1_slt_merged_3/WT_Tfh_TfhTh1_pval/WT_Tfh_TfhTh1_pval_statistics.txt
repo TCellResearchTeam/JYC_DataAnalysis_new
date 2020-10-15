@@ -1,0 +1,2 @@
+Motif	Num	Protection_Score_WT-Tfh	Protection_Score_WT-Th1	TC_WT-Tfh	TC_WT-Th1	TF_Activity	Z_score	P_values
+MA0095.2.YY1	133	0.2322598	0.1966144	0.5056669	0.5051327	-0.03617963194847107	nan	nan
